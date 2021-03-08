@@ -1,0 +1,74 @@
+[
+   {
+      "title": "Dogs",
+      "imageURL": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322868_1100-800x825.jpg",
+      "description": "It’s not just people who favor one hand over the other! Dogs can be left-handed, or rather, left-pawed, too. With these two activities, you can find out if your dog is a righty or a lefty.",
+      "infoURL": "https://kids.nationalgeographic.com/books/article/dog-science"
+   },
+   {
+      "title": "Cats",
+      "imageURL": "https://api.time.com/wp-content/uploads/2015/02/cats.jpg?quality=85&w=1024&h=512&crop=1",
+      "description":"When Skittles the orange tabby cat disappeared on a family vacation in Wisconsin, Charmin Sampson thought she would never see her pet again. But four months and 353 miles later, the cat strolled back into her living room.",
+      "infoURL": "https://kids.nationalgeographic.com/pages/article/cat-walk"
+   },
+   {
+      "title": "Rabbits",
+      "imageURL": "https://ychef.files.bbci.co.uk/624x351/p02y7jhn.jpg",
+      "description": "The sun sets over a quiet backyard garden. A red fox sneaks into the yard, its nose in the air, sniffing loudly—it smells something. It pads over to the bushes when a streak of brown flashes in the greenery. An eastern cottontail rabbit darts out of the bushes, zigging and zagging to throw the surprised fox off of its trail.",
+      "infoURL": "https://kids.nationalgeographic.com/animals/mammals/facts/eastern-cottontail-rabbit"
+   },
+   {
+      "title": "Giant Panda",
+      "imageURL": "https://www.wwf.org.uk/sites/default/files/styles/hero_m/public/2019-03/Medium_WW225814.jpg?h=d55a66bd&itok=mlP-0x5v",
+      "description": "High in dense bamboo forests in the misty, rainy mountains of southwestern China lives one of the world's rarest mammals: the giant panda, also called the panda. Only about 1,500 of these black-and-white relatives of bears survive in the wild. ",
+      "infoURL": "https://kids.nationalgeographic.com/animals/mammals/facts/giant-panda"
+   },
+   {
+      "title": "Dolphin",
+      "imageURL": "https://images.theconversation.com/files/46930/original/8x6wnb39-1398261971.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop",
+      "description": "Bottlenose dolphins squeak, squawk and use body language—leaping as high as 20 feet in the air, snapping their jaws, slapping their tails on the surface of the water, blowing bubbles and even butting heads. Each dolphin has a special whistle that it creates soon after it is born. This whistle is used for identification, just like a human’s name.",
+      "infoURL": "https://kids.nationalgeographic.com/animals/mammals/facts/bottlenose-dolphin"
+   },
+   {
+      "title": "Cheetah",
+      "imageURL": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cheetah-on-a-termite-mound-high-res-stock-photography-1574865776.jpg",
+      "description": "Fastest mammal on land, the cheetah can reach speeds of 60 or perhaps even 70 miles (97 or 113 kilometers) an hour over short distances. It usually chases its prey at only about half that speed, however. After a chase, a cheetah needs half an hour to catch its breath before it can eat.",
+      "infoURL": "https://kids.nationalgeographic.com/animals/mammals/facts/cheetah"
+   },
+   {
+      "title": "Penguin",
+      "imageURL": "https://www.greenpeace.org/static/planet4-international-stateless/2018/01/5bdb1085-gp0strgxe_medium_res.jpg",
+      "description": "These flightless birds breed in the winter. After a courtship of several weeks, a female emperor penguin lays one single egg then leaves! Each penguin egg's father balances it on his feet and covers it with his brood pouch, a very warm layer of feathered skin designed to keep the egg cozy. There the males stand, for about 65 days, through icy temperatures, cruel winds, and blinding storms.",
+      "infoURL": "https://kids.nationalgeographic.com/animals/birds/facts/emperor-penguin"
+   },
+   {
+      "title": "Red-Eyed",
+      "imageURL": "https://i.natgeofe.com/k/e65322d1-407b-41aa-b4c9-b80543362536/red-eyed-tree-frog-on-leaves.jpg",
+      "description": "When the eggs are ready to hatch, the tadpoles inside start swirling around vigorously. The activity breaks each egg open, releasing the little tadpoles. All the tadpoles wash down the leaf in a little stream of moisture from the hatching eggs, and—plop! plop! plop!—they land in the pond below.",
+      "infoURL": "https://kids.nationalgeographic.com/animals/amphibians/facts/red-eyed-tree-frog"
+   },
+   {
+      "title": "Ladybug",
+      "imageURL": "https://animals.sandiegozoo.org/sites/default/files/2016-11/animals_hero_ladybug.jpg",
+      "description": "There are about 5,000 different species of ladybugs in the world. These much loved critters are also known as lady beetles or ladybird beetles. They come in many different colors and patterns, but the most familiar in North America is the seven-spotted ladybug, with its shiny, red-and-black body. In many cultures, ladybugs are considered good luck.",
+      "infoURL": "https://kids.nationalgeographic.com/animals/invertebrates/facts/ladybug"
+   },
+   {
+      "title": "Birds",
+      "imageURL": "https://media.newyorker.com/photos/5a95a5b13d9089123c9fdb7e/2:2/w_3289,h_3289,c_limit/Petrusich-Dont-Mess-with-the-Birds.jpg",
+      "description": "A bald eagle's white head may make it look bald. But actually the name comes from an old English word, meaning white. These graceful birds have been the national symbol of the United States since 1782.",
+      "infoURL": "https://kids.nationalgeographic.com/animals/birds"
+   },
+   {
+      "title": "Arctic Fox",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUayNCg4c7I7w2el828GOZLDJeAt8nIMPfIg&usqp=CAU",
+      "description": "Not far from the North Pole, the world is frozen for thousands of miles. Suddenly a snowy mound wiggles and reveals two dark eyes. The lump is transformed into the furry white body of a lone arctic fox. The canine casually shakes the blanket of snow off her thick coat—the key to her survival. But warm fur alone might not keep this fox alive during the polar winter, when temperatures rarely get above zero degrees Fahrenheit",
+      "infoURL": "https://kids.nationalgeographic.com/animals/mammals/facts/arctic-fox"
+   },
+   {
+      "title": "American Bison",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/8d/American_bison_k5680-1.jpg",
+      "description": "Despite their hefty size, bison are quick on their feet. When the need arises they can run at speeds up to 40 miles (65 kilometers) an hour. Their curved, sharp horns can grow to be 2 feet (61 centimeters) long.",
+      "infoURL": "https://kids.nationalgeographic.com/animals/mammals/facts/american-bison"
+   }
+]
