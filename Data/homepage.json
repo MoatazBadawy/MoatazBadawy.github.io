@@ -1,17 +1,21 @@
 {
-   "firstImage": 
-   { 
-      "firstImageUrl": "https://cdn.elwatannews.com/watan/543x295/6181085201615653916.jpg"
-   },
-
-   "live":
-   {
-      "imageLiveInfoUrl": "https://i.ytimg.com/vi/lJTP4iynsN0/maxresdefault.jpg",
-      "liveUrl": ""
-   },
-
-   "dailyImage": 
-   { 
-      "dailyImageUrl": "https://pbs.twimg.com/media/D7WEvqpWkAgh1Mk.jpg"
-   }
+   "firstImage": [
+      {
+         "image": "https://cdn.elwatannews.com/watan/543x295/6181085201615653916.jpg"
+      },
+      {
+         "image": "https://cdn.elwatannews.com/watan/543x295/6181085201615653916.jpg"
+      }
+   ],
+   "live": [
+      {
+         "image": "https://i.ytimg.com/vi/lJTP4iynsN0/maxresdefault.jpg",
+         "liveUrl": ""
+      }
+   ],
+   "dailyImage": [
+      {
+         "image": "https://pbs.twimg.com/media/D7WEvqpWkAgh1Mk.jpg"
+      }
+   ]
 }
