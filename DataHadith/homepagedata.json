@@ -1,9 +1,18 @@
 {
     "firstImage": [
-
+        {
+            "imageUrl": "https://i.ibb.co/5FYW5q5/5e3121eb4c59b707495b9ad3-1-1-1.jpg"
+        }
+    ],
+    "dailyPost": [
+        {
+            "imageUrl": "https://i.ibb.co/1T5HWhp/photo5972017056196966574.jpg"
+        }
     ],
     "dailyImage": [
-
+        {
+            "imageUrl": "https://i.ibb.co/1T5HWhp/photo5972017056196966574.jpg"
+        }
     ],
     "kanzHasanat": [
         {
@@ -16,7 +25,10 @@
         }
     ],
     "live": [
-
+        {
+            "image": "https://cdn03.paltoday.ps/ar/thumb/1200x630/uploads/images/WzhUt.jpg",
+            "url": "4GCH7_Gj0ro"
+        }
     ],
     "saheehBukhari": [
         {
