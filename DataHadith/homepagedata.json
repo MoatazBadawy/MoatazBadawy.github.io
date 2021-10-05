@@ -1,8 +1,6 @@
 {
     "firstImage": [
-        {
-            "imageUrl": "https://lite.islamstory.com/images/upload/content/888731302how-we-love-our-prophet.jpg"
-        }
+
     ],
     "dailyPost": [
         {
@@ -25,8 +23,10 @@
         }
     ],
     "live": [
-
-
+        {
+            "image": "https://i.ytimg.com/vi/htbckGj98YI/maxresdefault.jpg",
+            "url": "4GCH7_Gj0ro"
+        }
     ],
     "saheehBukhari": [
         {
