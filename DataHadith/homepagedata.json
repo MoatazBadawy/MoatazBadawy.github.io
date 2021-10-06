@@ -2,12 +2,13 @@
     "firstImage": [
 
     ],
-    "dailyPost": [
+    "live": [
         {
-            "imageUrl": "https://i.ibb.co/1T5HWhp/photo5972017056196966574.jpg"
+            "image": "https://i.ytimg.com/vi/htbckGj98YI/maxresdefault.jpg",
+            "url": "4GCH7_Gj0ro"
         }
     ],
-    "dailyImage": [ 
+    "dailyPost": [
         {
             "imageUrl": "https://i.ibb.co/1T5HWhp/photo5972017056196966574.jpg"
         }
@@ -22,10 +23,9 @@
             "text": "قال رسول الله صلى الله عليه وسلم: “ألا أدلُّك بأفضل أخلاق الدنيا والآخرة؟ أن تعفو عمَّن ظلمك، وتصل من قطعك، وتعطي من حرمك”"
         }
     ],
-    "live": [
+    "dailyImage": [ 
         {
-            "image": "https://i.ytimg.com/vi/htbckGj98YI/maxresdefault.jpg",
-            "url": "4GCH7_Gj0ro"
+            "imageUrl": "https://i.ibb.co/1T5HWhp/photo5972017056196966574.jpg"
         }
     ],
     "saheehBukhari": [
@@ -36,6 +36,11 @@
     "saheehMuslim": [
         {
             "text": "قال رسول الله صلى الله عليه وسلم: (مَن حَفِظَ عَشْرَ آياتٍ مِن أوَّلِ سُورَةِ الكَهْفِ عُصِمَ مِنَ الدَّجَّالِ)"
+        }
+    ],
+    "Ad": [
+        {
+            "adId": "ca-app-pub-8872798649235309/5202412211"
         }
     ]
 }
