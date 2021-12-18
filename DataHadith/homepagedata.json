@@ -23,6 +23,12 @@
             "authorName": "رواه مسلم"
         }
     ],
+    "ad": [
+        {
+            "image": "https://i.ytimg.com/vi/htbckGj98YI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/htbckGj98YI/maxresdefault.jpg"
+        }
+    ],
     "dailyImage": [
         {
             "imageUr": "https://i.ibb.co/1T5HWhp/photo5972017056196966574.jpg"
@@ -44,12 +50,6 @@
         {
             "hadith": "قال رسول الله صلى الله عليه وسلم: (مَن حَفِظَ عَشْرَ آياتٍ مِن أوَّلِ سُورَةِ الكَهْفِ عُصِمَ مِنَ الدَّجَّالِ)",
             "authorName": "رواه مسلم"
-        }
-    ],
-    "ad": [
-        {
-            "image": "https://i.ytimg.com/vi/htbckGj98YI/maxresdefault.jpg",
-            "url": "4GCH7_Gj0ro"
         }
     ]
 }
