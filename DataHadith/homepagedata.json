@@ -1,17 +1,19 @@
 {
     "firstImage": [
-
-    ],
-    "live": [
-
-    ],
-    "dailyPost": [
-
+        {
+            "image": "https://i.ytimg.com/vi/htbckGj98YI/maxresdefault.jpg",
+            "url": "4GCH7_Gj0ro"
+        }
     ],
     "kanzHasanat": [
         {
             "hadith": "قال رسول الله صلى الله عليه وسلم  من قال سبحان الله العظيم وبحمده غرست له نخلة في الجنة",
             "authorName": "رواه البخاري"
+        }
+    ],
+    "counter": [
+        {
+            "text": "اللهم صلي وسلم\n وبارك على نبينامحمد"
         }
     ],
     "tahzeebMuslim": [
@@ -21,6 +23,9 @@
         }
     ],
     "dailyImage": [
+        {
+            "imageUr": "https://i.ibb.co/1T5HWhp/photo5972017056196966574.jpg"
+        }
     ],
     "saheehBukhari": [
         {
@@ -28,10 +33,22 @@
             "authorName": "رواه البخاري"
         }
     ],
+    "live": [
+        {
+            "image": "https://i.ytimg.com/vi/htbckGj98YI/maxresdefault.jpg",
+            "url": "4GCH7_Gj0ro"
+        }
+    ],
     "saheehMuslim": [
         {
             "hadith": "قال رسول الله صلى الله عليه وسلم: (مَن حَفِظَ عَشْرَ آياتٍ مِن أوَّلِ سُورَةِ الكَهْفِ عُصِمَ مِنَ الدَّجَّالِ)",
             "authorName": "رواه مسلم"
+        }
+    ],
+    "ad": [
+        {
+            "image": "https://i.ytimg.com/vi/htbckGj98YI/maxresdefault.jpg",
+            "url": "4GCH7_Gj0ro"
         }
     ]
 }
