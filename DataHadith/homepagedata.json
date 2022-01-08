@@ -7,6 +7,67 @@
             "icon": "https://upload.wikimedia.org/wikipedia/commons/d/de/SunnaTV.png"
         }
     ],
+    "blocks": [
+        {
+            "itemOne": {
+                "title": "الرحيق المختوم"
+            },
+            "itemTwo": {
+                "title": "الصحابة الكرآم",
+                "url": "https://www.islamweb.net/ar/article/158870/%D8%A2%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D9%81%D9%8A-%D9%81%D8%B6%D9%84-%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%83%D8%B1%D8%A7%D9%85"
+            },
+            "itemThree": {
+                "title": "أذكار الصباح",
+                "dataList": [
+                    {
+                        "text": "",
+                        "times": "",
+                        "hadith": ""
+                    },
+                    {
+                        "text": "",
+                        "times": "",
+                        "hadith": ""
+                    },
+                    {
+                        "text": "",
+                        "times": "",
+                        "hadith": ""
+                    },
+                    {
+                        "text": "",
+                        "times": "",
+                        "hadith": ""
+                    }
+                ]
+            },
+            "itemFour": {
+                "title": "أذكار الصباح",
+                "dataList": [
+                    {
+                        "text": "",
+                        "times": "",
+                        "hadith": ""
+                    },
+                    {
+                        "text": "",
+                        "times": "",
+                        "hadith": ""
+                    },
+                    {
+                        "text": "",
+                        "times": "",
+                        "hadith": ""
+                    },
+                    {
+                        "text": "",
+                        "times": "",
+                        "hadith": ""
+                    }
+                ]
+            }
+        }
+    ],
     "kanzHasanat": [
         {
             "hadith": "قال النبي صلى الله عليه وسلم: «مَنْ صَلَّى عَلَيَّ صَلَاةً وَاحِدَةً صَلَّى اللَّهُ عَلَيْهِ عَشْرَ صَلَوَاتٍ، وَحُطَّتْ عَنْهُ عَشْرُ خَطِيئَاتٍ، وَرُفِعَتْ لَهُ عَشْرُ دَرَجَاتٍ»",
@@ -28,7 +89,7 @@
         {
             "image": "https://i.ibb.co/1T5HWhp/photo5972017056196966574.jpg"
         }
-    ],   
+    ],
     "saheehBukhari": [
         {
             "hadith": "قال رسول الله صلى الله عليه وسلم: (ما يصيب المسلم من نصَب ولا وصَب ولا همٍّ ولا حزن ولا أذى ولا غمٍّ، حتى الشوكة يُشاكها إلا كفّر الله بها من خطاياه)",
