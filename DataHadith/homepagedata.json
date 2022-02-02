@@ -202,43 +202,53 @@
                 "dataList": [
                     {
                         "text": "أبو بَكر الصّدِّيق",
-                        "url": ""
+                        "url": "",
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87.png"
                     },
                     {
                         "text": "عمر بن الخطاب",
-                        "url": ""
+                        "url": "",
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87.png"
                     },
                     {
                         "text": "عثمان بن عفان",
-                        "url": ""
+                        "url": "",
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87.png"
                     },
                     {
                         "text": "علي بن أبي طالب",
-                        "url": ""
+                        "url": "",
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87.png"
                     },
                     {
                         "text": "الزُّبَيْرُ بن العَوَّام",
-                        "url": ""
+                        "url": "",
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87.png"
                     },
                     {
                         "text": "طَلْحَة بن عُبَيْد اللّه",
-                        "url": ""
+                        "url": "",
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87.png"
                     },
                     {
                         "text": "عبد الرّحمن بن عوف",
-                        "url": ""
+                        "url": "",
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87.png"
                     },
                     {
                         "text": "سَعِيد بن زَيْد",
-                        "url": ""
+                        "url": "",
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87.png"
                     },
                     {
                         "text": "سَعْد بن أَبي وقاص",
-                        "url": ""
+                        "url": "",
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87.png"
                     },
                     {
                         "text": "أبو عبيدة بن الجراح",
-                        "url": ""
+                        "url": "",
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87.png"
                     }
                 ]
             }
