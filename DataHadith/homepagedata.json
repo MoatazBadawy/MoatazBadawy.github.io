@@ -76,123 +76,153 @@
                 "title": "غزوات الرسول",
                 "dataList": [
                     {
-                        "text": "غزوة الأبواء",
+                        "textWar": "غزوة الأبواء",
+                        "textWarDetails": "2 هـ",
                         "url": ""
                     },
                     {
-                        "text": "غزوة بواط",
+                        "textWar": "غزوة بواط",
+                        "textWarDetails": "2 هـ",
                         "url": ""
                     },
                     {
-                        "text": "غزوة بدر الأولى",
+                        "textWar": "غزوة بدر الأولى",
+                        "textWarDetails": "2 هـ",
                         "url": ""
                     },
                     {
-                        "text": "غزوة العشيرة",
+                        "textWar": "غزوة العشيرة",
+                        "textWarDetails": "2 هـ",
                         "url": ""
                     },
                     {
-                        "text": "غزوة بدر الكبرى",
+                        "textWar": "غزوة بدر الكبرى",
+                        "textWarDetails": "2 هـ",
                         "url": ""
                     },
                     {
-                        "text": "غزوة بني سليم",
+                        "textWar": "غزوة بني سليم",
+                        "textWarDetails": "2 هـ",
                         "url": ""
                     },
                     {
-                        "text": "غزوة بني قينقاع",
+                        "textWar": "غزوة بني قينقاع",
+                        "textWarDetails": "2 هـ",
                         "url": ""
                     },
                     {
-                        "text": "غزوة السويق",
+                        "textWar": "غزوة السويق",
+                        "textWarDetails": "2 هـ",
                         "url": ""
                     },
                     {
-                        "text": "غزوة ذي أمر",
+                        "textWar": "غزوة ذي أمر",
+                        "textWarDetails": "3 هـ",
                         "url": ""
                     },
                     {
-                        "text": "غزوة بحران",
+                        "textWar": "غزوة بحران",
+                        "textWarDetails": "3 هـ",
                         "url": ""
                     },
                     {
-                        "text": "غزوة أحد",
+                        "textWar": "غزوة أحد",
+                        "textWarDetails": "3 هـ",
                         "url": ""
                     },
                     {
-                        "text": "غزوة حمراء الأسد",
+                        "textWar": "غزوة حمراء الأسد",
+                        "textWarDetails": "3 هـ",
                         "url": ""
                     },
                     {
-                        "text": "غزوة بني النضير",
+                        "textWar": "غزوة بني النضير",
+                        "textWarDetails": "4 هـ",
                         "url": ""
                     },
                     {
-                        "text": "غزوة نجد",
+                        "textWar": "غزوة نجد",
+                        "textWarDetails": "4 هـ",
                         "url": ""
                     },
                     {
-                        "text": "غزوة بدر الآخرة",
+                        "textWar": "غزوة بدر الآخرة",
+                        "textWarDetails": "4 هـ",
                         "url": ""
                     },
                     {
-                        "text": "غزوة دومة الجندل",
+                        "textWar": "غزوة دومة الجندل",
+                        "textWarDetails": "5 هـ",
                         "url": ""
                     },
                     {
-                        "text": "غزوة الخندق (غزوة الأحزاب)",
+                        "textWar": "غزوة الخندق (الأحزاب)",
+                        "textWarDetails": "5 هـ",
                         "url": ""
                     },
                     {
-                        "text": "غزوة بني قريظة",
+                        "textWar": "غزوة بني قريظة",
+                        "textWarDetails": "5 هـ",
                         "url": ""
                     },
                     {
-                        "text": "غزوة بني لحيان",
+                        "textWar": "غزوة بني لحيان",
+                        "textWarDetails": "6 هـ",
                         "url": ""
                     },
                     {
-                        "text": "غزوة بني المصطلق",
+                        "textWar": "غزوة بني المصطلق",
+                        "textWarDetails": "6 هـ",
                         "url": ""
                     },
                     {
-                        "text": "صلح الحديبية",
+                        "textWar": "صلح الحديبية",
+                        "textWarDetails": "6 هـ",
                         "url": ""
                     },
                     {
-                        "text": "غزوة ذي قرد",
+                        "textWar": "غزوة ذي قرد",
+                        "textWarDetails": "6 هـ",
                         "url": ""
                     },
                     {
-                        "text": "غزوة خيبر ووادي القُري",
+                        "textWar": "غزوة خيبر ووادي القُري",
+                        "textWarDetails": "7 هـ",
                         "url": ""
                     },
                     {
-                        "text": "غزوة ذات الرقاع",
+                        "textWar": "غزوة ذات الرقاع",
+                        "textWarDetails": "7 هـ",
                         "url": ""
                     },
                     {
-                        "text": "عمرة القضاء",
+                        "textWar": "عمرة القضاء",
+                        "textWarDetails": "7 هـ",
                         "url": ""
                     },
                     {
-                        "text": "سرية مؤتة",
+                        "textWar": "سرية مؤتة",
+                        "textWarDetails": "8 هـ",
                         "url": ""
                     },
                     {
-                        "text": "فتح مكة",
+                        "textWar": "فتح مكة",
+                        "textWarDetails": "8 هـ",
                         "url": ""
                     },
                     {
-                        "text": "غزوة حنين",
+                        "textWar": "غزوة حنين",
+                        "textWarDetails": "8 هـ",
                         "url": ""
                     },
                     {
-                        "text": "غزوة الطائف",
+                        "textWar": "غزوة الطائف",
+                        "textWarDetails": "8 هـ",
                         "url": ""
                     },
                     {
-                        "text": "غزوة تبوك",
+                        "textWar": "غزوة تبوك",
+                        "textWarDetails": "9 هـ",
                         "url": ""
                     }
                 ]
