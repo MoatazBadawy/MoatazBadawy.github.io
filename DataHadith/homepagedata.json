@@ -421,9 +421,13 @@
     ],
     "live": [
         {
-            "image": "https://news.files.bbci.co.uk/include/extra/shorthand/assets/arabic/kiufqMQsEv/assets/fFBJp8lwXz/a-view-of-the-mosque-showing-the-courtyard-on-the-first-floor-and-the-premises-as-well-as-sorrounding-buildings-2560x1440.jpeg",
-            "url": "4GCH7_Gj0ro",
-            "text": "خشية الله في السر والعلانية، والقصد في الفقر والغنى، والعدل في الغضب والرضى"
+            "text": "خشية الله في السر والعلانية"
+        },
+        {
+            "text": "القصد في الفقر والغنى"
+        },
+        {
+            "text": "العدل في الغضب والرضى"
         }
     ],
     "saheehMuslim": [
