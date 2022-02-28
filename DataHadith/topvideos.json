@@ -1,0 +1,314 @@
+{
+    "topVideosBlocks": [
+        {
+            "itemOne": {
+                "title": "السيرة النبوية",
+                "dataList": [
+                    {
+                        "text": "الحلقة 1 - حال العرب في الجاهلية",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/f5QeWsfYyQo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCgT-9_XeV_dV1hNdE4uiHT3nuXvg",
+                        "url": "f5QeWsfYyQo",
+                        "times": "33:39"
+                    },
+                    {
+                        "text": "الحلقة 2 - عام الفيل",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/Ke3S1LBu26Y/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDP_gBTnHoIAjamDuJb00Qrfj8a2w",
+                        "url": "Ke3S1LBu26Y",
+                        "times": "35:09"
+                    },
+                    {
+                        "text": "الحلقة 3 - ولادة الرسول وقصته مع حليمة ووفاة والدته وجده",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/LpCPuh4DmW4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA6_H6j25dyGtiC9rsb4t7dms8-vw",
+                        "url": "A0_z8_Aq2pg",
+                        "times": "30:55"
+                    },
+                    {
+                        "text": "الحلقة 4 - زواج النبي بالسيدة خديجة",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/6pG8ks_8OT4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB96Edd-CZpVV5nUn1dzpeky_KI_g",
+                        "url": "6pG8ks_8OT4",
+                        "times": "32:07"
+                    },
+                    {
+                        "text": "الحلقة 5 - نزول الوحي",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/sZT_0zBoL4k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBk-5fUohc5kyUYB2D57qAJu9MNzA",
+                        "url": "sZT_0zBoL4k",
+                        "times": "31:59"
+                    },
+                    {
+                        "text": "الحلقة 6 - الدعوة الى الله والجهر بها",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/jEkLwNaGc_4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD2fcltTeiWSTnPZ0ugNVl-1qNGog",
+                        "url": "jEkLwNaGc_4",
+                        "times": "31:54"
+                    },
+                    {
+                        "text": "الحلقة 7 - تآمر المشركين على النبي",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/rRErqm8Bq6U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD6NrRu8duqMF55F4hFUyjAiBJowg",
+                        "url": "rRErqm8Bq6U",
+                        "times": "33:36"
+                    },
+                    {
+                        "text": "الحلقة 8 - ايذاء قريش للنبي والمؤمنين",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/Q02naDY51PY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDtZLigJhb7nP93jEnNFJQEM38Iog",
+                        "url": "Q02naDY51PY",
+                        "times": "33:19"
+                    },
+                    {
+                        "text": "الحلقة 9 - الهجرة الى الحبشة",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/X94bRE1R6Pg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLATnzcn4nrT55J_oQM3Q9iYQ-u57w",
+                        "url": "X94bRE1R6Pg",
+                        "times": "32:00"
+                    },
+                    {
+                        "text": "الحلقة 10 - المقاطعة وعام الحزن",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/vE02mkUGUmc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC4ZAyLtFjqvF8BvMGxnWIIAHLu9w",
+                        "url": "vE02mkUGUmc",
+                        "times": "36:18"
+                    },
+                    {
+                        "text": "الحلقة 11 - الإسراء والمعراج والبيعة",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/ObciG3_K4sM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA5gTYHhefzVkxup6Lt5CmTid4mSg",
+                        "url": "ObciG3_K4sM",
+                        "times": "34:01"
+                    },
+                    {
+                        "text": "الحلقة 12 - الهجرة الى المدينة",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/4FXuPEbgLHQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCXiHuzTLaG0BZ6u43-o41qZ-Fg1g",
+                        "url": "4FXuPEbgLHQ",
+                        "times": "32:28"
+                    },
+                    {
+                        "text": "الحلقة 13 - بداية المرحلة المدنية",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/JsqXccYTilI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD0jad3r-XLYPZDYiuLPSAdKeeEWQ",
+                        "url": "JsqXccYTilI",
+                        "times": "35:27"
+                    },
+                    {
+                        "text": "الحلقة 14 - السرايا و البعوث قبل بدر",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/stoTFoium-g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBwrUdD1fRH-5lg8ZG27bEOOUWKww",
+                        "url": "stoTFoium-g",
+                        "times": "34:08"
+                    },
+                    {
+                        "text": "الحلقة 15 - غزوة بدر الكبرى",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/wJD3N7PwPbU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBs935eV_gY5cHmV67pCCAQ1cQrNA",
+                        "url": "wJD3N7PwPbU",
+                        "times": "37:34"
+                    },
+                    {
+                        "text": "الحلقة 16 - جلاء يهود بني قينقاع",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/sqSVikLA4YQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUxNE1GRagNscvpWTlYbDGSjt-8g",
+                        "url": "sqSVikLA4YQ",
+                        "times": "35:21"
+                    },
+                    {
+                        "text": "الحلقة 17 - غزوة أُحد",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/GL5xRjIyKKI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCvDueB607FwRva8dIVDPPL8iwo3Q",
+                        "url": "GL5xRjIyKKI",
+                        "times": "35:57"
+                    },
+                    {
+                        "text": "الحلقة 18 - غزوة حمراء الاسد",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/nxahNaOVi_U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDtgIhQww2ZYk28Xqk7KLTUuNZDDw",
+                        "url": "nxahNaOVi_U",
+                        "times": "34:29"
+                    },
+                    {
+                        "text": "الحلقة 19 - غزوة الأحزاب",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/dQ5WvqIoyIk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBG-RDl2eB44IVwvf2NyXvrNELdSQ",
+                        "url": "dQ5WvqIoyIk",
+                        "times": "29:48"
+                    },
+                    {
+                        "text": "الحلقة 20 - غزوة بني قريظة",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/XhxB8myh3_0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDJ4mQ2kGke8Fp6Y7QKYGPJFv7wWw",
+                        "url": "XhxB8myh3_0",
+                        "times": "32:53"
+                    },
+                    {
+                        "text": "الحلقة 21 - غزوة بني المصطلق",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/Si3PvWnY6MQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDj_qigFQeJE9NyLeFJk3qAMQbJKA",
+                        "url": "Si3PvWnY6MQ",
+                        "times": "34:38"
+                    },
+                    {
+                        "text": "الحلقة 22 - صلح الحديبية",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/iylk7KXMfvk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCK4L6RXe1lpy_zUfxFHMXNxc0gAA",
+                        "url": "iylk7KXMfvk",
+                        "times": "36:30"
+                    },
+                    {
+                        "text": "الحلقة 23 - فتح خيبر",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/5ADhGUq4xgc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAgTDcoLQk6hHuJ5N9GRepDYjDK7g",
+                        "url": "5ADhGUq4xgc",
+                        "times": "32:24"
+                    },
+                    {
+                        "text": "الحلقة 24 - عمرة القضاء ومعركة مؤتة",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/dKiWDj6B5Y4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB2qSwazTICHYSKvMoXFmq1131Gww",
+                        "url": "dKiWDj6B5Y4",
+                        "times": "34:28"
+                    },
+                    {
+                        "text": "الحلقة 25 - فتح مكة",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/ExMh6NFSbA4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCc57BhDgqeIhZJ4mpCe577wxQKpQ",
+                        "url": "ExMh6NFSbA4",
+                        "times": "33:45"
+                    },
+                    {
+                        "text": "الحلقة 26 - غزوة حُنين",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/r5umRmm--Nw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA4ZWHTUdBc3-jzciqGL3WpdFr87w",
+                        "url": "r5umRmm--Nw",
+                        "times": "32:45"
+                    },
+                    {
+                        "text": "الحلقة 27 - معركة تبوك",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/bzvkMib0g6g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAVSVP3b1iiLx3YiJgCFQ52vZ6GVQ",
+                        "url": "bzvkMib0g6g",
+                        "times": "33:34"
+                    },
+                    {
+                        "text": "الحلقة 28 - حجّة الوداع",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/n-oKg6l2Ca4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBLl40tH9_3t949J9UXyS_k6eRS3g",
+                        "url": "n-oKg6l2Ca4",
+                        "times": "31:31"
+                    },
+                    {
+                        "text": "الحلقة 29 - وفاة النبي",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/W3xryYSM70c/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCXjytKFnhujsdKBdQiXIhfK9bzJw",
+                        "url": "W3xryYSM70c",
+                        "times": "37:27"
+                    },
+                    {
+                        "text": "الحلقة 30 - الحلقة الأخيرة",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/G1GkW0NjWho/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAmHgttcGOMCrLq1QESuHoXRdX6kw",
+                        "url": "G1GkW0NjWho",
+                        "times": "35:15"
+                    }
+                ]
+            },
+            "itemTwo": {
+                "title": "النبي في القرآن",
+                "dataList": [
+                    {
+                        "text": "",
+                        "details": "",
+                        "image": "",
+                        "url": "",
+                        "times": ""
+                    },
+                    {
+                        "text": "",
+                        "details": "",
+                        "image": "",
+                        "url": "",
+                        "times": ""
+                    }
+                ]
+            },
+            "itemThree": {
+                "title": "لو كان بيننا",
+                "dataList": [
+                    {
+                        "text": "",
+                        "details": "",
+                        "image": "",
+                        "url": "",
+                        "times": ""
+                    },
+                    {
+                        "text": "",
+                        "details": "",
+                        "image": "",
+                        "url": "",
+                        "times": ""
+                    }
+                ]
+            },
+            "itemFour": {
+                "title": "سيرة النبي للصغار",
+                "dataList": [
+                    {
+                        "text": "",
+                        "details": "",
+                        "image": "",
+                        "url": "",
+                        "times": ""
+                    },
+                    {
+                        "text": "",
+                        "details": "",
+                        "image": "",
+                        "url": "",
+                        "times": ""
+                    }
+                ]
+            }
+        }
+    ],
+    "topVideosList": [
+        {
+            "text": "",
+            "details": "",
+            "image": "",
+            "url": "",
+            "times": ""
+        },
+        {
+            "text": "",
+            "details": "",
+            "image": "",
+            "times": ""
+        },
+        {
+            "text": "",
+            "details": "",
+            "image": "",
+            "url": "",
+            "times": ""
+        },
+        {
+            "text": "",
+            "details": "",
+            "image": "",
+            "url": "",
+            "times": ""
+        },
+        {
+            "text": "",
+            "details": "",
+            "image": "",
+            "url": "",
+            "times": ""
+        }
+    ]
+}
