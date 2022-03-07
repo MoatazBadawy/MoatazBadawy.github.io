@@ -2,7 +2,7 @@
     "topVideosBlocks": [
         {
             "itemOne": {
-                "title": "سيرة الرسول",
+                "title": "السيرة النبوية",
                 "dataList": [
                     {
                         "text": "الحلقة 1 - حال العرب في الجاهلية",
@@ -217,7 +217,7 @@
                 ]
             },
             "itemTwo": {
-                "title": "محاضرات نبوية",
+                "title": "أيمن عبدالرحيم",
                 "dataList": [
                     {
                         "text": "",
@@ -438,7 +438,7 @@
     ],
     "topVideosList": [
         {
-            "text": "فيلم إحسان من المدينة المنورة الشريفه",
+            "text": "فيلم إحسان من المدينة المنورة",
             "details": "",
             "image": "https://www.almowaten.net/wp-content/uploads/2019/05/MBC1-RAMADAN-2019-EHSAN-MEN-L-MADINA-AHMAD-AL-SHUGAIRI-8-799x533.jpg",
             "url": "b5W5US7sZNQ",
@@ -466,7 +466,7 @@
             "times": "59:04"
         },
         {
-            "text": "تعرف على أصعب الرسول ﷺ",
+            "text": "تعرف على أصعب أيام الرسول ﷺ",
             "details": "",
             "image": "https://i.ytimg.com/vi/V0qE9IIEXDw/maxresdefault.jpg",
             "url": "V0qE9IIEXDw",
