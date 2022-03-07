@@ -2,7 +2,7 @@
     "topVideosBlocks": [
         {
             "itemOne": {
-                "title": "السيرة النبوية",
+                "title": "سيرة الرسول",
                 "dataList": [
                     {
                         "text": "الحلقة 1 - حال العرب في الجاهلية",
@@ -217,7 +217,7 @@
                 ]
             },
             "itemTwo": {
-                "title": "أيمن عبدالرحيم",
+                "title": "محاضرات نبوية",
                 "dataList": [
                     {
                         "text": "",
@@ -236,7 +236,7 @@
                 ]
             },
             "itemThree": {
-                "title": "أحمد الشقيري",
+                "title": "بيننا الحبيب",
                 "dataList": [
                     {
                         "text": "لو كان بيننا | الموسم الأول - الحلقة 2",
@@ -438,39 +438,39 @@
     ],
     "topVideosList": [
         {
-            "text": "فيلم إحسان من المدينة المنورة مع أحمد الشقيري",
+            "text": "فيلم إحسان من المدينة المنورة الشريفه",
             "details": "",
-            "image": "https://i.ytimg.com/vi/b5W5US7sZNQ/maxresdefault.jpg",
+            "image": "https://www.almowaten.net/wp-content/uploads/2019/05/MBC1-RAMADAN-2019-EHSAN-MEN-L-MADINA-AHMAD-AL-SHUGAIRI-8-799x533.jpg",
             "url": "b5W5US7sZNQ",
             "times": "52:58"
         },
         {
-            "text": "قصة غزوة بدر الكبرى الفاصلة بين الحق والباطل",
+            "text": "فيلم السيرة النبوية الشريفه",
             "details": "",
-            "image": "https://suwaidan.com/wp-content/uploads/2021/12/thumb.jpg",
+            "image": "https://i.ytimg.com/vi/CJ1ePSebeAo/maxresdefault.jpg",
+            "url": "0nhsJ6b88A4",
+            "times": "2:20:18"
+        },
+        {
+            "text": "قصة غزوة بدر الكبرى الفاصلة",
+            "details": "",
+            "image": "https://www.al-qaradawi.net/sites/default/files/styles/detailed/public/field/image/608e1b56ea753.jpg?itok=IaE-WsKB",
             "url": "Ke3S1LBu26Y",
             "times": "37:34"
         },
         {
-            "text": "فيلم السيرة النبوية عن النبي محمد صلى الله عليه السلام",
+            "text": "بسام جرار - نظرات في سورة الإسراء",
             "details": "",
-            "image": "https://i.ytimg.com/vi/0nhsJ6b88A4/maxresdefault.jpg",
-            "url": "Ke3S1LBu26Y",
-            "times": "2:20:18"
+            "image": "https://i.ytimg.com/vi/wDao8ThoT-w/sddefault.jpg",
+            "url": "jvlxgcfFf5I",
+            "times": "59:04"
         },
         {
-            "text": "الحلقة 4 - زواج النبي بالسيدة خديجة",
+            "text": "تعرف على أصعب الرسول ﷺ",
             "details": "",
-            "image": "https://i.ytimg.com/vi/6pG8ks_8OT4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB96Edd-CZpVV5nUn1dzpeky_KI_g",
-            "url": "6pG8ks_8OT4",
-            "times": "32:07"
-        },
-        {
-            "text": "الحلقة 5 - نزول الوحي",
-            "details": "",
-            "image": "https://i.ytimg.com/vi/sZT_0zBoL4k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBk-5fUohc5kyUYB2D57qAJu9MNzA",
-            "url": "sZT_0zBoL4k",
-            "times": "31:59"
+            "image": "https://i.ytimg.com/vi/V0qE9IIEXDw/maxresdefault.jpg",
+            "url": "V0qE9IIEXDw",
+            "times": "34:14"
         }
     ]
 }
