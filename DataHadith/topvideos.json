@@ -3,6 +3,7 @@
         {
             "itemOne": {
                 "title": "السيرة النبوية",
+                "image": "https://sha3la.s3-accelerate.amazonaws.com/2020/12/%D8%AA%D8%B9%D8%B1%D9%8A%D9%81_%D8%A7%D9%84%D8%B3%D9%8A%D8%B1%D8%A9_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9.jpg",
                 "dataList": [
                     {
                         "text": "الحلقة 1 - حال العرب في الجاهلية",
@@ -218,6 +219,7 @@
             },
             "itemTwo": {
                 "title": "محاضرات نبوية",
+                "image": "https://i1.sndcdn.com/avatars-bqEO2LVogJfTKoZp-BIxikw-t240x240.jpg",
                 "dataList": [
                     {
                         "text": "1- السيرة النبوية العهد المكي",
@@ -265,6 +267,7 @@
             },
             "itemThree": {
                 "title": "لو كان بيننا",
+                "image": "https://i.ytimg.com/vi/q89bZuEHYFo/maxresdefault.jpg",
                 "dataList": [
                     {
                         "text": "لو كان بيننا | الموسم الأول - الحلقة 2",
@@ -445,6 +448,7 @@
             },
             "itemFour": {
                 "title": "قصص للصغار",
+                "image": "https://i.ytimg.com/vi/PYIsVmjJ6y8/maxresdefault.jpg",
                 "dataList": [
                     {
                         "text": "مسلسل سيرة رسول الله الحلقة 1",
