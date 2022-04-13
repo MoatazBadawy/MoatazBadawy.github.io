@@ -666,6 +666,13 @@
     ],
     "topVideosList": [
         {
+            "text": "جولة داخل البقيع خطوة بخطوة",
+            "details": "",
+            "image": "https://alwelayh.com/wp-content/uploads/2017/10/%D8%A7%D9%84%D8%A8%D9%82%D9%8A%D8%B9.jpg",
+            "url": "8swDNXrObsU",
+            "times": "13:39"
+        }
+        ,{
             "text": "أحمد الشقيري - إحسان من المدينة المنورة",
             "details": "",
             "image": "https://www.almowaten.net/wp-content/uploads/2019/05/MBC1-RAMADAN-2019-EHSAN-MEN-L-MADINA-AHMAD-AL-SHUGAIRI-8-799x533.jpg",
@@ -673,11 +680,11 @@
             "times": "52:58"
         },
         {
-            "text": "فيلم السيرة النبوية الشريفه",
+            "text": "سيف الله المسلول خالد بن الوليد",
             "details": "",
-            "image": "https://i.ytimg.com/vi/CJ1ePSebeAo/maxresdefault.jpg",
-            "url": "0nhsJ6b88A4",
-            "times": "2:20:18"
+            "image": "https://i.ytimg.com/vi/fxT9nK_rKqk/maxresdefault.jpg",
+            "url": "fxT9nK_rKqk",
+            "times": "18:29"
         },
         {
             "text": "قصة غزوة بدر الكبرى الفاصلة",
@@ -687,6 +694,13 @@
             "times": "37:34"
         },
         {
+            "text": "فيلم السيرة النبوية الشريفه",
+            "details": "",
+            "image": "https://i.ytimg.com/vi/CJ1ePSebeAo/maxresdefault.jpg",
+            "url": "0nhsJ6b88A4",
+            "times": "2:20:18"
+        },
+        {
             "text": "بسام جرار - نظرات في سورة الإسراء",
             "details": "",
             "image": "https://i.ytimg.com/vi/wDao8ThoT-w/sddefault.jpg",
@@ -694,18 +708,11 @@
             "times": "59:04"
         },
         {
-            "text": "رؤية النبي محمد صلى الله عليه وسلم في المنام",
+            "text": "رؤية النبي صلى الله عليه وسلم في المنام",
             "details": "",
             "image": "https://static.hellooha.com/uploads/thumbs/articles/big/dlbviwvtder20_article.jpg",
             "url": "Fs2Y7rl40Wg",
             "times": "3:39"
-        },
-        {
-            "text": "سيف الله المسلول خالد بن الوليد",
-            "details": "",
-            "image": "https://i.ytimg.com/vi/fxT9nK_rKqk/maxresdefault.jpg",
-            "url": "fxT9nK_rKqk",
-            "times": "18:29"
         },
         {
             "text": "كيف كان يتلقى الرسول ﷺ القرآن من جبريل عليه السلام",
@@ -771,11 +778,11 @@
             "times": "1:01:53"
         },
         {
-            "text": "2- السيرة النبوية العهد المكي",
+            "text": "قصة المزرعة التي زرع فيها النبي ﷺ ٣٠٠ نخلة",
             "details": "",
-            "image": "https://i.ytimg.com/vi/V5ZTZXoS9vs/hqdefault.jpg",
-            "url": "anapp8v8JLM",
-            "times": "1:07:58"
+            "image": "https://i.ytimg.com/vi/1qxtsQazUpE/maxresdefault.jpg",
+            "url": "1qxtsQazUpE",
+            "times": "9:53"
         }
     ]
 }
