@@ -2,7 +2,7 @@
     "topVideosBlocks": [
         {
             "itemOne": {
-                "title": "المدينة المنورة",
+                "title": "معالم نبوية",
                 "image": "https://gate.ahram.org.eg/Media/News/2020/8/5/19_2020-637322334074833065-483.jpg",
                 "dataList": [
                     {
@@ -32,6 +32,13 @@
                         "image": "https://i.ytimg.com/vi/qkb5WCQGPm8/mqdefault.jpg",
                         "url": "qkb5WCQGPm8",
                         "times": "17:45"
+                    },
+                    {
+                        "text": "غار حراء / جبل النور صعود ونزول كامل",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/eRVmv5uZQuQ/maxresdefault.jpg",
+                        "url": "Lu1Od7E1exc",
+                        "times": "12:04"
                     }
                 ]
             },
