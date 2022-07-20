@@ -1,0 +1,40 @@
+{
+    "toolBar": [
+        {
+            "weekName": "الأسبوع الثاني",
+            "levelName": "المستوى",
+            "levelNum": "2"
+        }
+    ],
+    "mainText": {
+        "title": ""
+    },
+    "videos": {
+        "title": "المحتوى مرئي",
+        "video": [
+            {
+                "imageUrl": "https.vacebook",
+                "time": "12:56",
+                "videoUrl": "https.ff"
+            },
+            {
+                "imageUrl": "https.vacebook",
+                "time": "12:56",
+                "videoUrl": "https.ff"
+            }
+        ]
+    },
+    "audios": {
+        "title": "المحتوى مسموع",
+        "audio": [
+            {
+                "audioTitle": "نحن هنا",
+                "audioUrl": "https.ff"
+            },
+            {
+                "audioTitle": "نحن",
+                "audioUrl": "https.ff"
+            }
+        ]
+    }
+}
