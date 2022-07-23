@@ -1,18 +1,21 @@
-[
-    {
-        "title": "تفريغ خطوة الإستعداد من برنامج أين الطريق",
-        "url": "https://t.me/Audios_Aina_Eltarek/29"
-    },
-    {
-        "title": "تفريغ الخطوة صفر من برنامج أين الطريق",
-        "url": "https://t.me/Audios_Aina_Eltarek/43"
-    },
-    {
-        "title": "تفريغ الخطوة الأولى من برنامج أين الطريق",
-        "url": "https://t.me/Audios_Aina_Eltarek/61"
-    },
-    {
-        "title": "تفريغ الخطوة الثانية من برنامج اين الطريق",
-        "url": "https://t.me/Audios_Aina_Eltarek/76"
-    }
-]
+{
+    "tafrighatData": [
+        {
+            "title": "تفريغ خطوة الإستعداد من برنامج أين الطريق",
+            "url": "https://t.me/Audios_Aina_Eltarek/29"
+        },
+        {
+            "title": "تفريغ الخطوة صفر من برنامج أين الطريق",
+            "url": "https://t.me/Audios_Aina_Eltarek/43"
+        },
+        {
+            "title": "تفريغ الخطوة الأولى من برنامج أين الطريق",
+            "url": "https://t.me/Audios_Aina_Eltarek/61"
+        },
+        {
+            "title": "تفريغ الخطوة الثانية من برنامج اين الطريق",
+            "url": "https://t.me/Audios_Aina_Eltarek/76"
+        }
+    ]
+}
+    
