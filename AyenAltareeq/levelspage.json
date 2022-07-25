@@ -56,5 +56,63 @@
                 "contentUrl": "https://t.me/Audios_Aina_Eltarek/78"
             }
         ]
+    },
+    {
+        "levelName": "المستوى الثالث",
+        "weeks": [
+            {
+                "weekNum": "الأسبوع الأول",
+                "contentUrl": "https://t.me/Audios_Aina_Eltarek/78"
+            },
+            {
+                "weekNum": "الأسبوع الثاني",
+                "contentUrl": "https://t.me/Audios_Aina_Eltarek/78"
+            },
+            {
+                "weekNum": "الأسبوع الثالث",
+                "contentUrl": "https://t.me/Audios_Aina_Eltarek/78"
+            },
+            {
+                "weekNum": "الأسبوع الرابع",
+                "contentUrl": "https://t.me/Audios_Aina_Eltarek/78"
+            },
+            {
+                "weekNum": "الأسبوع الخامس",
+                "contentUrl": "https://t.me/Audios_Aina_Eltarek/78"
+            },
+            {
+                "weekNum": "الأسبوع السادس",
+                "contentUrl": "https://t.me/Audios_Aina_Eltarek/78"
+            }
+        ]
+    },
+    {
+        "levelName": "المستوى الرابع",
+        "weeks": [
+            {
+                "weekNum": "الأسبوع الأول",
+                "contentUrl": "https://t.me/Audios_Aina_Eltarek/78"
+            },
+            {
+                "weekNum": "الأسبوع الثاني",
+                "contentUrl": "https://t.me/Audios_Aina_Eltarek/78"
+            },
+            {
+                "weekNum": "الأسبوع الثالث",
+                "contentUrl": "https://t.me/Audios_Aina_Eltarek/78"
+            },
+            {
+                "weekNum": "الأسبوع الرابع",
+                "contentUrl": "https://t.me/Audios_Aina_Eltarek/78"
+            },
+            {
+                "weekNum": "الأسبوع الخامس",
+                "contentUrl": "https://t.me/Audios_Aina_Eltarek/78"
+            },
+            {
+                "weekNum": "الأسبوع السادس",
+                "contentUrl": "https://t.me/Audios_Aina_Eltarek/78"
+            }
+        ]
     }
 ]
