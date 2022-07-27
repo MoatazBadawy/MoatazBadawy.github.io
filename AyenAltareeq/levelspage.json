@@ -3,6 +3,10 @@
         "levelName": "المستوى الأول",
         "weeks": [
             {
+                "weekNum": "خطة المستوى",
+                "contentUrl": "https://t.me/WhereIsTheRoad/722"
+            },
+            {
                 "weekNum": "الأسبوع الأول",
                 "contentUrl": "https://t.me/WhereIsTheRoad/723"
             },
@@ -27,6 +31,10 @@
     {
         "levelName": "المستوى الثاني",
         "weeks": [
+            {
+                "weekNum": "خطة المستوى",
+                "contentUrl": "https://t.me/WhereIsTheRoad/749"
+            },
             {
                 "weekNum": "الأسبوع الأول",
                 "contentUrl": "https://t.me/WhereIsTheRoad/751"
