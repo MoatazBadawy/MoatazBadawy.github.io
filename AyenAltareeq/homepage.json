@@ -1,6 +1,6 @@
 {
     "toolBar": {
-        "weekName": "الأسبوع الثاني",
+        "weekName": "الأسبوع الثالث",
         "levelName": "المستوى",
         "levelNum": "2"
     },
@@ -11,14 +11,9 @@
         "title": "المحتوى مرئي",
         "video": [
             {
-                "imageUrl": "https://i.ytimg.com/vi/9UFbW1Y6hQA/maxresdefault.jpg",
-                "time": "32:35",
-                "videoUrl": "https://www.youtube.com/watch?v=9UFbW1Y6hQA"
-            },
-            {
-                "imageUrl": "https://i.ytimg.com/vi/q-2eQ4cOAFc/maxresdefault.jpg",
-                "time": "1:28:16",
-                "videoUrl": "https://www.youtube.com/watch?v=q-2eQ4cOAFc"
+                "imageUrl": "https://i.ytimg.com/vi/od1JoCj__JY/maxresdefault.jpg",
+                "time": "1:10:16",
+                "videoUrl": "https://www.youtube.com/watch?v=od1JoCj__JY"
             }
         ]
     },
@@ -26,12 +21,8 @@
         "title": "المحتوى مسموع",
         "audio": [
             {
-                "audioTitle": "تعلُم المنهج العلمي قبل تعلُم التوحيد",
-                "audioUrl": "https://t.me/Audios_Aina_Eltarek/78"
-            },
-            {
-                "audioTitle": "قراءة الكون والحياة باسم الله",
-                "audioUrl": "https://t.me/Audios_Aina_Eltarek/78"
+                "audioTitle": "كمال منهج الإسلام في التفكير و التعلّم",
+                "audioUrl": "https://t.me/Audios_Aina_Eltarek/90"
             }
         ]
     }
