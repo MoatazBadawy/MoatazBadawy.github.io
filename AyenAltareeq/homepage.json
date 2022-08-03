@@ -1,19 +1,24 @@
 {
     "toolBar": {
-        "weekName": "الأسبوع الثالث",
+        "weekName": "الأسبوع الرابع",
         "levelName": "المستوى",
         "levelNum": "2"
     },
     "mainText": {
-        "title": "واعلم أنك في ميدان سباق، والأوقات تنتهب، ولا تخلد إلى كسل، فما فات من فات إلا بالكسل، ولا نال من نال إلا بالجد والعزم، وإن الهمة لتغلي في القلوب غليان ما في القدور."
+        "title": "إن القهر لا يمكنه بناء عقيدة أو تأسيس فكرة، إنه فقط قادر على وضعها قسرا في الأذهان لفترة لكن تلك الفترة لن تطول!"
     },
     "videos": {
         "title": "المحتوى مرئي",
         "video": [
             {
-                "imageUrl": "https://i.ytimg.com/vi/od1JoCj__JY/maxresdefault.jpg",
-                "time": "1:10:16",
-                "videoUrl": "https://www.youtube.com/watch?v=od1JoCj__JY" 
+                "imageUrl": "https://i.ytimg.com/vi/41TwfSNqSXw/maxresdefault.jpg",
+                "time": "1:02:34",
+                "videoUrl": "https://www.youtube.com/watch?v=41TwfSNqSXw" 
+            },
+            {
+                "imageUrl": "https://i.ytimg.com/vi/ZDUHb96BUiA/maxresdefault.jpg",
+                "time": "57:01",
+                "videoUrl": "https://www.youtube.com/watch?v=ZDUHb96BUiA" 
             }
         ]
     },
@@ -21,8 +26,12 @@
         "title": "المحتوى مسموع",
         "audio": [
             {
-                "audioTitle": "كمال منهج الإسلام في التفكير و التعلّم",
-                "audioUrl": "https://t.me/Audios_Aina_Eltarek/90"
+                "audioTitle": "مامعنى الإرتباط برب العالمين",
+                "audioUrl": "https://t.me/Audios_Aina_Eltarek/94"
+            },
+            {
+                "audioTitle": "كيف نصل إلى الإرتباط بالله رب العالمين",
+                "audioUrl": "https://t.me/Audios_Aina_Eltarek/95"
             }
         ]
     }
