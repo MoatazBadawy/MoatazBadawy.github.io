@@ -60,5 +60,26 @@
                 "contentUrl": "https://t.me/WhereIsTheRoad/769"
             }
         ]
+    },
+    {
+        "levelName": "المستوى الثالث",
+        "weeks": [
+            {
+                "weekNum": "خطة المستوى",
+                "contentUrl": "https://t.me/WhereIsTheRoad/788"
+            },
+            {
+                "weekNum": "الأسبوع الأول",
+                "contentUrl": "https://t.me/WhereIsTheRoad/790"
+            },
+            {
+                "weekNum": "الأسبوع الثاني",
+                "contentUrl": "https://t.me/WhereIsTheRoad/794"
+            },
+            {
+                "weekNum": "الأسبوع الثالث",
+                "contentUrl": "https://t.me/WhereIsTheRoad/795"
+            }
+        ]
     }
 ]
