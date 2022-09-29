@@ -1,24 +1,24 @@
 {
     "toolBar": {
-        "weekName": "الأسبوع السادس",
+        "weekName": "الأسبوع الثالث",
         "levelName": "المستوى",
-        "levelNum": "2"
+        "levelNum": "3"
     },
     "mainText": {
-        "title": "يقولونَ ليْ ما بالُ قلبِكَ واثقًا وحولكَ أمواجُ المصائبِ تعصِفُ! فقلتُ لهُم إنّيْ اعتصمْتُ بخالقي، فمن أيّ شيءٍ يا تُرى أتخوَّفُ؟!"
+        "title": "الشغف وقود الطريق.. يزود النفس بالصبر على العناء والمشقة في طلب العلم، ويدفعها للسعي بحب لاستكشاف خطوات المسير... كن طموحًا وانطلقْ نحو المعالي، لنْ ترى بالعزمِ شيئًا مستحيلا!"
     },
     "videos": {
         "title": "المحتوى مرئي",
         "video": [
             {
-                "imageUrl": "https://i.ytimg.com/vi/zMoEKCsIozA/maxresdefault.jpg",
-                "time": "1:09:09",
-                "videoUrl": "https://www.youtube.com/watch?v=zMoEKCsIozA" 
+                "imageUrl": "https://i.ytimg.com/vi/2owCCQ1G6fw/maxresdefault.jpg",
+                "time": "25:20",
+                "videoUrl": "https://www.youtube.com/watch?v=2owCCQ1G6fw" 
             },
             {
-                "imageUrl": "https://i.ytimg.com/vi/WZwlbXNBKg4/maxresdefault.jpg",
-                "time": "1:11:43",
-                "videoUrl": "https://www.youtube.com/watch?v=WZwlbXNBKg4" 
+                "imageUrl": "https://i.ytimg.com/vi/b3o3GXM12sA/maxresdefault.jpg",
+                "time": "50:53",
+                "videoUrl": "https://www.youtube.com/watch?v=b3o3GXM12sA" 
             }
         ]
     },
@@ -26,12 +26,12 @@
         "title": "المحتوى مسموع",
         "audio": [
             {
-                "audioTitle": "الارتباط بالآخرة صناعة جديدة للوجدان الإنساني",
-                "audioUrl": "https://t.me/Audios_Aina_Eltarek/109"
+                "audioTitle": "المعالجة النفسية للإحباطات",
+                "audioUrl": "https://t.me/Audios_Aina_Eltarek/135"
             },
             {
-                "audioTitle": "كيف تُعيد الآخرة صياغة وجداننا ومشاعرنا وأحلامنا",
-                "audioUrl": "https://t.me/Audios_Aina_Eltarek/110"
+                "audioTitle": "معالجة الإحباطات بالعمل ج١",
+                "audioUrl": "https://t.me/Audios_Aina_Eltarek/136"
             }
         ]
     }
