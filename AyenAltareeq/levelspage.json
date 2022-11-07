@@ -79,6 +79,26 @@
             {
                 "weekNum": "الأسبوع الثالث",
                 "contentUrl": "https://t.me/WhereIsTheRoad/795"
+            },
+            {
+                "weekNum": "الأسبوع الرابع",
+                "contentUrl": "https://t.me/WhereIsTheRoad/797"
+            },
+            {
+                "weekNum": "الأسبوع الخامس",
+                "contentUrl": "https://t.me/WhereIsTheRoad/798"
+            },
+            {
+                "weekNum": "الأسبوع السادس",
+                "contentUrl": "https://t.me/WhereIsTheRoad/804"
+            },
+            {
+                "weekNum": "الأسبوع السابع",
+                "contentUrl": "https://t.me/WhereIsTheRoad/805"
+            },
+            {
+                "weekNum": "الأسبوع الثامن",
+                "contentUrl": "https://t.me/WhereIsTheRoad/807"
             }
         ]
     }
