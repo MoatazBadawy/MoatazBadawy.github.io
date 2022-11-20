@@ -1,6 +1,6 @@
 {
     "toolBar": {
-        "weekName": "الأسبوع الثامن",
+        "weekName": "الأسبوع التاسع",
         "levelName": "المستوى",
         "levelNum": "3"
     },
@@ -11,14 +11,14 @@
         "title": "المحتوى مرئي",
         "video": [
             {
-                "imageUrl": "https://i.ytimg.com/vi/r9tlmwGvWmk/maxresdefault.jpg",
+                "imageUrl": "https://i.ytimg.com/vi/TyCPoka7bE4/maxresdefault.jpg",
                 "time": "1:21:33",
-                "videoUrl": "https://www.youtube.com/watch?v=r9tlmwGvWmk" 
+                "videoUrl": "https://www.youtube.com/watch?v=TyCPoka7bE4" 
             },
             {
-                "imageUrl": "https://i.ytimg.com/vi/oAfNgoebFmQ/maxresdefault.jpg",
+                "imageUrl": "https://i.ytimg.com/vi/I-xNsUNi5jo/maxresdefault.jpg",
                 "time": "1:03:45",
-                "videoUrl": "https://www.youtube.com/watch?v=oAfNgoebFmQ" 
+                "videoUrl": "https://www.youtube.com/watch?v=I-xNsUNi5jo" 
             }
         ]
     },
@@ -26,12 +26,12 @@
         "title": "المحتوى مسموع",
         "audio": [
             {
-                "audioTitle": "إنشاء لهفة التلقي و التعلّم ج١",
-                "audioUrl": "https://t.me/Audios_Aina_Eltarek/157"
+                "audioTitle": "معاني الارتباط بالقرآن الكريم كمصدر وحيد للتلقي",
+                "audioUrl": "https://t.me/Audios_Aina_Eltarek/163"
             },
             {
-                "audioTitle": "إنشاء لهفة التلقي و التعلم ج٢",
-                "audioUrl": "https://t.me/Audios_Aina_Eltarek/136"
+                "audioTitle": "مرجعية القرآن والمعارف الإنسانية الأخرى",
+                "audioUrl": "https://t.me/Audios_Aina_Eltarek/164"
             }
         ]
     }
