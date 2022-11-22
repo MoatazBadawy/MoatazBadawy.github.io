@@ -1,0 +1,106 @@
+{
+    "trendingBooks": [
+        {
+            "imageUrl": "",
+            "bookUrl": ""
+        },
+        {
+            "imageUrl": "",
+            "bookUrl": ""
+        },
+        {
+            "imageUrl": "",
+            "bookUrl": ""
+        },
+        {
+            "imageUrl": "",
+            "bookUrl": ""
+        }
+    ],
+    "allBooks": [
+        {
+            "topTitle": "",
+            "books": [
+                {
+                    "imageUrl": "",
+                    "bookUrl": ""
+                },
+                {
+                    "imageUrl": "",
+                    "bookUrl": ""
+                },
+                {
+                    "imageUrl": "",
+                    "bookUrl": ""
+                },
+                {
+                    "imageUrl": "",
+                    "bookUrl": ""
+                }
+            ]
+        },
+        {
+            "topTitle": "",
+            "books": [
+                {
+                    "imageUrl": "",
+                    "bookUrl": ""
+                },
+                {
+                    "imageUrl": "",
+                    "bookUrl": ""
+                },
+                {
+                    "imageUrl": "",
+                    "bookUrl": ""
+                },
+                {
+                    "imageUrl": "",
+                    "bookUrl": ""
+                }
+            ]
+        },
+        {
+            "topTitle": "",
+            "books": [
+                {
+                    "imageUrl": "",
+                    "bookUrl": ""
+                },
+                {
+                    "imageUrl": "",
+                    "bookUrl": ""
+                },
+                {
+                    "imageUrl": "",
+                    "bookUrl": ""
+                },
+                {
+                    "imageUrl": "",
+                    "bookUrl": ""
+                }
+            ]
+        },
+        {
+            "topTitle": "",
+            "books": [
+                {
+                    "imageUrl": "",
+                    "bookUrl": ""
+                },
+                {
+                    "imageUrl": "",
+                    "bookUrl": ""
+                },
+                {
+                    "imageUrl": "",
+                    "bookUrl": ""
+                },
+                {
+                    "imageUrl": "",
+                    "bookUrl": ""
+                }
+            ]
+        }
+    ]
+}
