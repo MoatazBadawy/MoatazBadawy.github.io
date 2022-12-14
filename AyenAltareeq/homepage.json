@@ -1,24 +1,24 @@
 {
     "toolBar": {
-        "weekName": "الأسبوع التاسع",
+        "weekName": "الأسبوع الثاني",
         "levelName": "المستوى",
-        "levelNum": "3"
+        "levelNum": "4"
     },
     "mainText": {
-        "title": "وَذَلِّلْ كُلَّ صَعْبٍ فِي خُطَانَا..\n وَبَلِّغْنَا تَبَاشِيرَ الوُصُـول"
+        "title": "صَاحِب الهِمّة لا يَقف، حتّى يُتِمّ المُهِمّة"
     },
     "videos": {
         "title": "المحتوى مرئي",
         "video": [
             {
-                "imageUrl": "https://i.ytimg.com/vi/TyCPoka7bE4/maxresdefault.jpg",
+                "imageUrl": "https://i.ytimg.com/vi/1rW9F9i-z9s/maxresdefault.jpg",
                 "time": "1:21:33",
-                "videoUrl": "https://www.youtube.com/watch?v=TyCPoka7bE4" 
+                "videoUrl": "https://www.youtube.com/watch?v=1rW9F9i-z9s" 
             },
             {
-                "imageUrl": "https://i.ytimg.com/vi/I-xNsUNi5jo/maxresdefault.jpg",
+                "imageUrl": "https://i.ytimg.com/vi/5pYfO3jHDdc/maxresdefault.jpg",
                 "time": "1:03:45",
-                "videoUrl": "https://www.youtube.com/watch?v=I-xNsUNi5jo" 
+                "videoUrl": "https://www.youtube.com/watch?v=5pYfO3jHDdc" 
             }
         ]
     },
@@ -26,12 +26,12 @@
         "title": "المحتوى مسموع",
         "audio": [
             {
-                "audioTitle": "معاني الارتباط بالقرآن الكريم كمصدر وحيد للتلقي",
-                "audioUrl": "https://t.me/Audios_Aina_Eltarek/163"
+                "audioTitle": "المعالم الكبرى لمنهج التربية والتزكية في الإسلام",
+                "audioUrl": "https://t.me/Audios_Aina_Eltarek/185"
             },
             {
-                "audioTitle": "مرجعية القرآن والمعارف الإنسانية الأخرى",
-                "audioUrl": "https://t.me/Audios_Aina_Eltarek/164"
+                "audioTitle": "السمات الشخصية الأساسية للإنسان المستقيم",
+                "audioUrl": "https://t.me/Audios_Aina_Eltarek/186"
             }
         ]
     }
