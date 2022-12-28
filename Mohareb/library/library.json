@@ -1,0 +1,108 @@
+{
+    "results": {
+        "chosen_books": [
+            {
+                "image_url": "",
+                "book_url": ""
+            },
+            {
+                "image_url": "",
+                "book_url": ""
+            },
+            {
+                "image_url": "",
+                "book_url": ""
+            },
+            {
+                "image_url": "",
+                "book_url": ""
+            }
+        ],
+        "all_books": [
+            {
+                "top_title": "",
+                "books": [
+                    {
+                        "image_url": "",
+                        "book_url": ""
+                    },
+                    {
+                        "image_url": "",
+                        "book_url": ""
+                    },
+                    {
+                        "image_url": "",
+                        "book_url": ""
+                    },
+                    {
+                        "image_url": "",
+                        "book_url": ""
+                    }
+                ]
+            },
+            {
+                "top_title": "",
+                "books": [
+                    {
+                        "image_url": "",
+                        "book_url": ""
+                    },
+                    {
+                        "image_url": "",
+                        "book_url": ""
+                    },
+                    {
+                        "image_url": "",
+                        "book_url": ""
+                    },
+                    {
+                        "image_url": "",
+                        "book_url": ""
+                    }
+                ]
+            },
+            {
+                "top_title": "",
+                "books": [
+                    {
+                        "image_url": "",
+                        "book_url": ""
+                    },
+                    {
+                        "image_url": "",
+                        "book_url": ""
+                    },
+                    {
+                        "image_url": "",
+                        "book_url": ""
+                    },
+                    {
+                        "image_url": "",
+                        "book_url": ""
+                    }
+                ]
+            },
+            {
+                "top_title": "",
+                "books": [
+                    {
+                        "image_url": "",
+                        "book_url": ""
+                    },
+                    {
+                        "image_url": "",
+                        "book_url": ""
+                    },
+                    {
+                        "image_url": "",
+                        "book_url": ""
+                    },
+                    {
+                        "image_url": "",
+                        "book_url": ""
+                    }
+                ]
+            }
+        ]
+    }
+}

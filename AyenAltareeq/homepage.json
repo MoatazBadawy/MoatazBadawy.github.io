@@ -1,6 +1,6 @@
 {
     "toolBar": {
-        "weekName": "الأسبوع الثالث",
+        "weekName": "الأسبوع الرابع",
         "levelName": "المستوى",
         "levelNum": "4"
     },
@@ -11,14 +11,14 @@
         "title": "المحتوى مرئي",
         "video": [
             {
-                "imageUrl": "https://i.ytimg.com/vi/L4XTv3S3ReE/maxresdefault.jpg",
-                "time": "1:21:33",
-                "videoUrl": "https://www.youtube.com/watch?v=L4XTv3S3ReE" 
+                "imageUrl": "https://i.ytimg.com/vi/vEUz6x6LicY/maxresdefault.jpg",
+                "time": "15:28",
+                "videoUrl": "https://www.youtube.com/watch?v=vEUz6x6LicY" 
             },
             {
-                "imageUrl": "https://i.ytimg.com/vi/7C1YRpuSYVI/maxresdefault.jpg",
-                "time": "1:03:45",
-                "videoUrl": "https://www.youtube.com/watch?v=7C1YRpuSYVI" 
+                "imageUrl": "https://i.ytimg.com/vi/vEUz6x6LicY/maxresdefault.jpg",
+                "time": "36:02",
+                "videoUrl": "https://www.youtube.com/watch?v=vEUz6x6LicY" 
             }
         ]
     },
@@ -26,12 +26,12 @@
         "title": "المحتوى مسموع",
         "audio": [
             {
-                "audioTitle": "التصوف ومدارس تزكية النفوس",
-                "audioUrl": "https://t.me/Audios_Aina_Eltarek/192"
+                "audioTitle": "مشروع المربي",
+                "audioUrl": "https://t.me/Audios_Aina_Eltarek/198"
             },
             {
-                "audioTitle": "العناصر الثمانية للتربية الإسلامية",
-                "audioUrl": "https://t.me/Audios_Aina_Eltarek/193"
+                "audioTitle": "تعقيبات هامة حول مشروع المربي",
+                "audioUrl": "https://t.me/Audios_Aina_Eltarek/199"
             }
         ]
     }
