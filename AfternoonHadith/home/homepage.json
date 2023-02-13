@@ -1,26 +1,38 @@
 {
     "results": {
-        "topBar": [
+        "top_categories": [
             {
                 "id": 1,
                 "title": "بث مباشر",
-                "description": "قناة السنة النبوية",
+                "description": "السنة النبوية",
                 "url": "X2EWnA6cc-M"
             },
             {
                 "id": 2,
+                "title": "كتاب",
+                "description": "الرحيق المختوم",
+                "url": "stories.json"
+            },
+            {
+                "id": 3,
                 "title": "قصص",
                 "description": "فتوحات الرسول",
                 "url": "stories.json"
             },
             {
-                "id": 3,
+                "id": 4,
                 "title": "معرفة",
                 "description": "أمهات المؤمنين",
                 "url": "knowledge.json"
+            },
+            {
+                "id": 5,
+                "title": "مقطفات",
+                "description": "المبشرون بالجنة",
+                "url": "knowledge.json"
             }
         ],
-        "hadithsCategories": [
+        "hadiths_categories": [
             {
                 "id": 1,
                 "title": "حديث اليوم",
@@ -53,8 +65,7 @@
                         "id": 7,
                         "hadith": "أهلا بك"
                     }
-                ],
-                "categoryHadithsUrl": ""
+                ]
             },
             {
                 "id": 2,
@@ -88,8 +99,7 @@
                         "id": 7,
                         "hadith": "أهلا بك"
                     }
-                ],
-                "categoryHadithsUrl": ""
+                ]
             },
             {
                 "id": 3,
@@ -123,8 +133,7 @@
                         "id": 7,
                         "hadith": "عَنْ أَبي أيوبَ الأنصَاريِّ، عَن النَّبيّ ﷺ قَالَ: مَنْ قالَ لا إلهَ إلاَّ اللَّه وحْدهُ لاَ شَرِيكَ لهُ، لَهُ المُلْكُ، ولَهُ الحمْدُ، وَهُو عَلَى كُلِّ شَيءٍ قَدِيرٌ، عشْر مرَّاتٍ، كَانَ كَمَنْ أَعْتَقَ أرْبعةَ أَنفُسٍ مِن وَلدِ إسْماعِيلَ."
                     }
-                ],
-                "categoryHadithsUrl": ""
+                ]
             },
             {
                 "id": 4,
@@ -158,8 +167,7 @@
                         "id": 7,
                         "hadith": "أهلا بك"
                     }
-                ],
-                "categoryHadithsUrl": ""
+                ]
             },
             {
                 "id": 5,
@@ -193,8 +201,7 @@
                         "id": 7,
                         "hadith": "أهلا بك"
                     }
-                ],
-                "categoryHadithsUrl": ""
+                ]
             },
             {
                 "id": 6,
