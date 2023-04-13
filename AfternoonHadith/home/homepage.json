@@ -14,25 +14,60 @@
                 "id": 1,
                 "title": "كتاب",
                 "description": "الرحيق المختوم",
-                "url": "storieds.json"
+                "image_url": "https://kitab-pdf.net/wp-content/uploads/%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%82-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D9%88%D9%85-PDF.jpg",
+                "data": [
+                    {
+                        "id": 1,
+                        "title": "",
+                        "url": "",
+                        "icon_url": ""
+                    }
+                ]
             },
             {
                 "id": 2,
                 "title": "قصص",
-                "description": "فتوحات الرسول",
-                "url": "stories.json"
+                "description": "غزوات الرسول",
+                "image_url": "https://cdn.sotor.com/thumbs/fit630x300/34375/1573584521/%D8%A3%D8%B4%D9%87%D8%B1_%D8%BA%D8%B2%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%84.jpg",
+                "data": [
+                    {
+                        "id": 1,
+                        "title": "غزوة الأبواء",
+                        "details": "2هـ",
+                        "url": "https://sotor.com/%D9%86%D8%A8%D8%B0%D8%A9-%D8%B9%D9%86-%D8%BA%D8%B2%D9%88%D8%A9-%D8%A7%D9%84%D8%A3%D8%A8%D9%88%D8%A7%D8%A1/",
+                        "icon_url": "https://i.ibb.co/jDqbgsz/vector-1.png"
+                    }
+                ]
             },
             {
                 "id": 3,
                 "title": "معرفة",
                 "description": "أمهات المؤمنين",
-                "url": "knowledge.json"
+                "image_url": "https://img.wattpad.com/cover/276895716-288-k898578.jpg",
+                "data": [
+                    {
+                        "id": 1,
+                        "title": "خديجة بنت خويلد",
+                        "details": "",
+                        "url": "https://www.islamweb.net/ar/article/173689/%D8%A3%D9%85%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%8A%D9%86",
+                        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87%D8%A7.png"
+                    }
+                ]
             },
             {
                 "id": 4,
                 "title": "مقطفات",
                 "description": "المبشرون بالجنة",
-                "url": "knowledge.json"
+                "image_url": "https://cdn.olahub.com/books//615d97f396dba.jpg",
+                "data": [
+                    {
+                        "id": 1,
+                        "title": "أبو بَكر الصّدِّيق",
+                        "details": "",
+                        "url": "https://islamonline.net/archive/%D8%A3%D8%A8%D9%88-%D8%A8%D9%83%D8%B1-%D8%B1%D9%82%D8%A9-%D8%A8%D8%BA%D9%8A%D8%B1-%D8%B6%D8%B9%D9%81-%D8%B0%D9%83%D8%B1%D9%89-%D9%88%D9%81%D8%A7%D8%AA%D9%87/",
+                        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87.png"
+                    }
+                ]
             }
         ],
         "hadiths_categories": [
