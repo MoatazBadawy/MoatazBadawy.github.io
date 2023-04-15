@@ -15,10 +15,11 @@
                 "title": "كتاب",
                 "description": "الرحيق المختوم",
                 "image_url": "https://kitab-pdf.net/wp-content/uploads/%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%82-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D9%88%D9%85-PDF.jpg",
-                "data": [
+                "category_data": [
                     {
                         "id": 1,
                         "title": "",
+                        "details": "",
                         "url": "",
                         "icon_url": ""
                     }
@@ -29,7 +30,7 @@
                 "title": "قصص",
                 "description": "غزوات الرسول",
                 "image_url": "https://cdn.sotor.com/thumbs/fit630x300/34375/1573584521/%D8%A3%D8%B4%D9%87%D8%B1_%D8%BA%D8%B2%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%84.jpg",
-                "data": [
+                "category_data": [
                     {
                         "id": 1,
                         "title": "غزوة الأبواء",
@@ -44,7 +45,7 @@
                 "title": "معرفة",
                 "description": "أمهات المؤمنين",
                 "image_url": "https://img.wattpad.com/cover/276895716-288-k898578.jpg",
-                "data": [
+                "category_data": [
                     {
                         "id": 1,
                         "title": "خديجة بنت خويلد",
@@ -59,7 +60,7 @@
                 "title": "مقطفات",
                 "description": "المبشرون بالجنة",
                 "image_url": "https://cdn.olahub.com/books//615d97f396dba.jpg",
-                "data": [
+                "category_data": [
                     {
                         "id": 1,
                         "title": "أبو بَكر الصّدِّيق",
