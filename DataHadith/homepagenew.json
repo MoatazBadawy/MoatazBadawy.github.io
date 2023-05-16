@@ -27,6 +27,21 @@
             },
             {
                 "id": 2,
+                "title": "عداد",
+                "description": "عداد الصلاة على النبي",
+                "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM5-8u9bKJMvWrtrEBZWzyPEjj_TKbbi3cAg&usqp=CAU",
+                "category_data": [
+                    {
+                        "id": 1,
+                        "title": "غزوة الأبواء",
+                        "details": "2هـ",
+                        "url": "https://sotor.com/%D9%86%D8%A8%D8%B0%D8%A9-%D8%B9%D9%86-%D8%BA%D8%B2%D9%88%D8%A9-%D8%A7%D9%84%D8%A3%D8%A8%D9%88%D8%A7%D8%A1/",
+                        "icon_url": ""
+                    }
+                ]
+            },
+            {
+                "id": 2,
                 "title": "قصص",
                 "description": "غزوات الرسول",
                 "image_url": "https://cdn.sotor.com/thumbs/fit630x300/34375/1573584521/%D8%A3%D8%B4%D9%87%D8%B1_%D8%BA%D8%B2%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%84.jpg",
