@@ -14,16 +14,7 @@
                 "id": 1,
                 "title": "كتاب",
                 "description": "الرحيق المختوم",
-                "image_url": "https://kitab-pdf.net/wp-content/uploads/%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%82-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D9%88%D9%85-PDF.jpg",
-                "category_data": [
-                    {
-                        "id": 1,
-                        "title": "",
-                        "details": "",
-                        "url": "",
-                        "icon_url": ""
-                    }
-                ]
+                "image_url": "https://kitab-pdf.net/wp-content/uploads/%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%82-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D9%88%D9%85-PDF.jpg"
             },
             {
                 "id": 2,
