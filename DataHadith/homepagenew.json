@@ -32,8 +32,181 @@
                         "id": 1,
                         "title": "غزوة الأبواء",
                         "details": "2هـ",
-                        "url": "https://sotor.com/%D9%86%D8%A8%D8%B0%D8%A9-%D8%B9%D9%86-%D8%BA%D8%B2%D9%88%D8%A9-%D8%A7%D9%84%D8%A3%D8%A8%D9%88%D8%A7%D8%A1/",
-                        "icon_url": ""
+                        "url": "https://sotor.com/%D9%86%D8%A8%D8%B0%D8%A9-%D8%B9%D9%86-%D8%BA%D8%B2%D9%88%D8%A9-%D8%A7%D9%84%D8%A3%D8%A8%D9%88%D8%A7%D8%A1/"
+                    },
+                    {
+                        "id": 2,
+                        "title": "غزوة بواط",
+                        "details": "2هـ",
+                        "url": "https://sotor.com/%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%BA%D8%B2%D9%88%D8%A9-%D8%A8%D9%88%D8%A7%D8%B7/"
+                    },
+                    {
+                        "id": 3,
+                        "title": "غزوة بدر الأولى",
+                        "details": "2هـ",
+                        "url": "https://sotor.com/%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%BA%D8%B2%D9%88%D8%A9-%D8%A8%D8%AF%D8%B1-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89/"
+                    },
+                    {
+                        "id": 4,
+                        "title": "غزوة العشيرة",
+                        "details": "2هـ",
+                        "url": "https://sotor.com/%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%BA%D8%B2%D9%88%D8%A9-%D8%A7%D9%84%D8%B9%D8%B4%D9%8A%D8%B1%D8%A9/"
+                    },
+                    {
+                        "id": 5,
+                        "title": "غزوة بدر الكبرى",
+                        "details": "2هـ",
+                        "url": "https://suwaidan.com/%D8%BA%D8%B2%D9%88%D8%A9-%D8%A8%D8%AF%D8%B1-%D8%A7%D9%84%D9%83%D8%A8%D8%B1%D9%89-%D8%A8%D8%A7%D9%84%D8%AA%D9%81%D8%B5%D9%8A%D9%84/"
+                    },
+                    {
+                        "id": 6,
+                        "title": "غزوة بني سليم",
+                        "details": "2هـ",
+                        "url": "https://sotor.com/%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%BA%D8%B2%D9%88%D8%A9-%D8%A8%D9%86%D9%8A-%D8%B3%D9%84%D9%8A%D9%85/"
+                    },
+                    {
+                        "id": 7,
+                        "title": "غزوة بني قينقاع",
+                        "details": "2هـ",
+                        "url": "https://mawdoo3.com/%D8%BA%D8%B2%D9%88%D8%A9_%D8%A8%D9%86%D9%8A_%D9%82%D9%8A%D9%86%D9%82%D8%A7%D8%B9"
+                    },
+                    {
+                        "id": 8,
+                        "title": "غزوة السويق",
+                        "details": "2هـ",
+                        "url": "https://sotor.com/%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%BA%D8%B2%D9%88%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D9%82/"
+                    },
+                    {
+                        "id": 9,
+                        "title": "غزوة ذي أمر",
+                        "details": "3هـ",
+                        "url": "https://www.islamweb.net/ar/article/203035/%D8%BA%D8%B2%D9%88%D8%A9-%D8%B0%D9%8A-%D8%A3%D9%8E%D9%85%D9%8E%D8%B1"
+                    },
+                    {
+                        "id": 10,
+                        "title": "غزوة بحران",
+                        "details": "3هـ",
+                        "url": "https://sotor.com/%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%BA%D8%B2%D9%88%D8%A9-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86/"
+                    },
+                    {
+                        "id": 11,
+                        "title": "غزوة أحد",
+                        "details": "3هـ",
+                        "url": "https://www.islamweb.net/ar/article/12872/%D8%BA%D8%B2%D9%88%D8%A9-%D8%A3%D8%AD%D8%AF"
+                    },
+                    {
+                        "id": 12,
+                        "title": "غزوة حمراء الأسد",
+                        "details": "3هـ",
+                        "url": "https://www.islamweb.net/ar/article/181783/%D9%88%D9%82%D9%81%D8%A9-%D9%85%D8%B9-%D8%BA%D8%B2%D9%88%D8%A9-%D8%AD%D9%85%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF"
+                    },
+                    {
+                        "id": 13,
+                        "title": "غزوة بني النضير",
+                        "details": "4هـ",
+                        "url": "https://www.islamweb.net/ar/article/203650/%D8%BA%D8%B2%D9%88%D8%A9-%D8%A8%D9%86%D9%8A-%D8%A7%D9%84%D9%86%D8%B6%D9%8A%D8%B1-%D9%88%D8%B3%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%AD%D8%B4%D8%B1"
+                    },
+                    {
+                        "id": 14,
+                        "title": "غزوة نجد",
+                        "details": "4هـ",
+                        "url": "https://sotor.com/%D8%A8%D8%AD%D8%AB_%D8%B9%D9%86_%D8%BA%D8%B2%D9%88%D8%A9_%D9%86%D8%AC%D8%AF"
+                    },
+                    {
+                        "id": 15,
+                        "title": "غزوة بدر الآخرة",
+                        "details": "4هـ",
+                        "url": "https://sotor.com/%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%BA%D8%B2%D9%88%D8%A9-%D8%A8%D8%AF%D8%B1-%D8%A7%D9%84%D8%A2%D8%AE%D8%B1%D8%A9/"
+                    },
+                    {
+                        "id": 16,
+                        "title": "غزوة دومة الجندل",
+                        "details": "5هـ",
+                        "url": "https://www.islamweb.net/ar/article/24311/%D8%AF%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%AC%D9%86%D8%AF%D9%84-%D8%AE%D8%B7%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84"
+                    },
+                    {
+                        "id": 17,
+                        "title": "غزوة الخندق (الأحزاب)",
+                        "details": "5هـ",
+                        "url": "https://www.islamweb.net/ar/article/134525/%D8%BA%D8%B2%D9%88%D8%A9-%D8%A7%D9%84%D8%AE%D9%86%D8%AF%D9%82%D9%88%D8%B9%D8%A8%D9%82%D8%B1%D9%8A%D9%91%D8%A9-%D8%A7%D9%84%D8%AA%D9%81%D9%83%D9%8A%D8%B1"
+                    },
+                    {
+                        "id": 18,
+                        "title": "غزوة بني قريظة",
+                        "details": "5هـ",
+                        "url": "https://www.islamweb.net/ar/article/174093/%D8%BA%D8%B2%D9%88%D8%A9-%D8%A8%D9%86%D9%8A-%D9%82%D8%B1%D9%8A%D8%B8%D8%A9-%D8%AF%D8%B1%D9%88%D8%B3-%D9%88%D8%B9%D8%A8%D8%B1"
+                    },
+                    {
+                        "id": 19,
+                        "title": "غزوة بني لحيان",
+                        "details": "6هـ",
+                        "url": "https://www.islamweb.net/ar/article/159008/%D8%BA%D8%B2%D9%88%D8%A9-%D8%A8%D9%86%D9%8A-%D9%84%D9%90%D8%AD%D9%92%D9%8A%D8%A7%D9%86"
+                    },
+                    {
+                        "id": 20,
+                        "title": "غزوة بني المصطلق",
+                        "details": "6هـ",
+                        "url": "https://www.islamweb.net/ar/article/17637/%D8%BA%D8%B2%D9%88%D8%A9-%D8%A8%D9%86%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B7%D9%84%D9%82-%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%B3%D9%8A%D8%B9"
+                    },
+                    {
+                        "id": 21,
+                        "title": "صلح الحديبية",
+                        "details": "6هـ",
+                        "url": "https://www.islamweb.net/ar/article/158201/%D8%B5%D9%84%D8%AD-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%A8%D9%8A%D8%A9-%D8%AF%D8%B1%D9%88%D8%B3-%D9%88%D8%B9%D8%A8%D8%B1"
+                    },
+                    {
+                        "id": 22,
+                        "title": "غزوة ذي قرد",
+                        "details": "6هـ",
+                        "url": "https://www.islamweb.net/ar/article/175261/%D8%BA%D8%B2%D9%88%D8%A9-%D8%B0%D9%8A-%D9%82%D9%8E%D8%B1%D9%8E%D8%AF-%D8%A7%D9%84%D8%BA%D8%A7%D8%A8%D8%A9-"
+                    },
+                    {
+                        "id": 23,
+                        "title": "غزوة خيبر",
+                        "details": "7هـ",
+                        "url": "https://suwaidan.com/%D9%82%D8%B5%D8%A9-%D9%81%D8%AA%D8%AD-%D8%AE%D9%8A%D8%A8%D8%B1/"
+                    },
+                    {
+                        "id": 24,
+                        "title": "غزوة ذات الرقاع",
+                        "details": "7هـ",
+                        "url": "https://www.islamweb.net/ar/article/17724/%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%BA%D8%B2%D9%88%D8%A9-%D8%B0%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%B9"
+                    },
+                    {
+                        "id": 25,
+                        "title": "عمرة القضاء",
+                        "details": "7هـ",
+                        "url": "https://ar.islamway.net/article/78766/%D8%B9%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1"
+                    },
+                    {
+                        "id": 26,
+                        "title": "سرية مؤتة",
+                        "details": "8هـ",
+                        "url": "https://www.islamweb.net/ar/article/16663/%D8%BA%D8%B2%D9%88%D8%A9-%D9%85%D8%A4%D8%AA%D8%A9"
+                    },
+                    {
+                        "id": 27,
+                        "title": "فتح مكة",
+                        "details": "8هـ",
+                        "url": "https://islamonline.net/archive/%D9%81%D8%AA%D8%AD-%D9%85%D9%83%D8%A9-%D8%A7%D9%84%D8%AE%D8%B7%D8%A9-%D9%88%D8%B9%D8%A8%D9%82%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0/"
+                    },
+                    {
+                        "id": 28,
+                        "title": "غزوة حنين",
+                        "details": "8هـ",
+                        "url": "https://mawdoo3.com/%D8%B3%D8%A8%D8%A8_%D8%BA%D8%B2%D9%88%D8%A9_%D8%AD%D9%86%D9%8A%D9%86"
+                    },
+                    {
+                        "id": 29,
+                        "title": "غزوة الطائف",
+                        "details": "8هـ",
+                        "url": "https://www.islamweb.net/ar/article/33251/%D8%BA%D8%B2%D9%88%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%81"
+                    },
+                    {
+                        "id": 30,
+                        "title": "غزوة تبوك",
+                        "details": "9هـ",
+                        "url": "https://ar.islamway.net/article/81512/%D8%B3%D8%A8%D8%A8-%D8%BA%D8%B2%D9%88%D8%A9-%D8%AA%D8%A8%D9%88%D9%83"
                     }
                 ]
             },
