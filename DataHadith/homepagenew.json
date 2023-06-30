@@ -293,8 +293,61 @@
                     {
                         "id": 1,
                         "title": "أبو بَكر الصّدِّيق",
-                        "details": "",
                         "url": "https://islamonline.net/archive/%D8%A3%D8%A8%D9%88-%D8%A8%D9%83%D8%B1-%D8%B1%D9%82%D8%A9-%D8%A8%D8%BA%D9%8A%D8%B1-%D8%B6%D8%B9%D9%81-%D8%B0%D9%83%D8%B1%D9%89-%D9%88%D9%81%D8%A7%D8%AA%D9%87/",
+                        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87.png"
+                    },
+                    {
+                        "id": 2,
+                        "title": "عمر بن الخطاب",
+                        "url": "https://islamonline.net/archive/%D8%B9%D9%85%D8%B1-%D8%A8%D9%86-%D8%A7%D9%84%D8%AE%D8%B7%D8%A7%D8%A8-%D8%A7%D9%84%D9%81%D8%A7%D8%B1%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D8%AF%D9%84/",
+                        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87.png"
+                    },
+                    {
+                        "id": 3,
+                        "title": "عثمان بن عفان",
+                        "url": "https://suwaidan.com/othman-bin-affan-story/",
+                        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87.png"
+                    },
+                    {
+                        "id": 4,
+                        "title": "علي بن أبي طالب",
+                        "url": "https://suwaidan.com/%D8%B3%D9%8A%D8%B1%D8%A9-%D8%B9%D9%84%D9%8A-%D8%A8%D9%86-%D8%A3%D8%A8%D9%8A-%D8%B7%D8%A7%D9%84%D8%A8/",
+                        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87.png"
+                    },
+                    {
+                        "id": 5,
+                        "title": "الزُّبَيْرُ بن العَوَّام",
+                        "url": "https://mawdoo3.com/%D9%82%D8%B5%D8%A9_%D8%A7%D9%84%D8%B2%D8%A8%D9%8A%D8%B1_%D8%A8%D9%86_%D8%A7%D9%84%D8%B9%D9%88%D8%A7%D9%85",
+                        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87.png"
+                    },
+                    {
+                        "id": 6,
+                        "title": "طَلْحَة بن عُبَيْد اللّه",
+                        "url": "https://islamstory.com/ar/artical/33901/%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D8%A8%D9%8A_%D8%B7%D9%84%D8%AD%D8%A9_%D8%A8%D9%86_%D8%B9%D8%A8%D9%8A%D8%AF_%D8%A7%D9%84%D9%84%D9%87",
+                        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87.png"
+                    },
+                    {
+                        "id": 7,
+                        "title": "عبد الرّحمن بن عوف",
+                        "url": "https://mawdoo3.com/%D9%82%D8%B5%D8%A9_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A8%D9%86_%D8%B9%D9%88%D9%81",
+                        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87.png"
+                    },
+                    {
+                        "id": 8,
+                        "title": "سَعِيد بن زَيْد",
+                        "url": "https://mawdoo3.com/%D9%82%D8%B5%D8%A9_%D8%B3%D8%B9%D9%8A%D8%AF_%D8%A8%D9%86_%D8%B2%D9%8A%D8%AF",
+                        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87.png"
+                    },
+                    {
+                        "id": 9,
+                        "title": "سَعْد بن أَبي وقاص",
+                        "url": "https://mawdoo3.com/%D9%82%D8%B5%D8%A9_%D8%B3%D8%B9%D8%AF_%D8%A8%D9%86_%D8%A7%D8%A8%D9%8A_%D9%88%D9%82%D8%A7%D8%B5",
+                        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87.png"
+                    },
+                    {
+                        "id": 10,
+                        "title": "أبو عبيدة بن الجراح",
+                        "url": "https://mawdoo3.com/%D8%A3%D8%A8%D9%88_%D8%B9%D8%A8%D9%8A%D8%AF%D8%A9_%D8%A8%D9%86_%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D8%AD",
                         "icon_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87.png"
                     }
                 ]
