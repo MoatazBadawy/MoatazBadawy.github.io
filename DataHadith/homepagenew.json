@@ -219,7 +219,66 @@
                     {
                         "id": 1,
                         "title": "خديجة بنت خويلد",
-                        "details": "",
+                        "url": "https://www.islamweb.net/ar/article/173689/%D8%A3%D9%85%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%8A%D9%86",
+                        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87%D8%A7.png"
+                    },
+                    {
+                        "id": 2,
+                        "title": "سودة بنت زمعة",
+                        "url": "https://www.islamweb.net/ar/article/173689/%D8%A3%D9%85%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%8A%D9%86",
+                        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87%D8%A7.png"
+                    },
+                    {
+                        "id": 3,
+                        "title": "عائشة بنت أبي بكر",
+                        "url": "https://www.islamweb.net/ar/article/173689/%D8%A3%D9%85%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%8A%D9%86",
+                        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87%D8%A7.png"
+                    },
+                    {
+                        "id": 4,
+                        "title": "حفصة بنت عمر",
+                        "url": "https://www.islamweb.net/ar/article/173689/%D8%A3%D9%85%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%8A%D9%86",
+                        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87%D8%A7.png"
+                    },
+                    {
+                        "id": 5,
+                        "title": "أم حبيبة",
+                        "url": "https://www.islamweb.net/ar/article/173689/%D8%A3%D9%85%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%8A%D9%86",
+                        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87%D8%A7.png"
+                    },
+                    {
+                        "id": 6,
+                        "title": "أم سلمة",
+                        "url": "https://www.islamweb.net/ar/article/173689/%D8%A3%D9%85%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%8A%D9%86",
+                        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87%D8%A7.png"
+                    },
+                    {
+                        "id": 7,
+                        "title": "زينب بنت جحش",
+                        "url": "https://www.islamweb.net/ar/article/173689/%D8%A3%D9%85%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%8A%D9%86",
+                        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87%D8%A7.png"
+                    },
+                    {
+                        "id": 8,
+                        "title": "زينب بنت خزيمة",
+                        "url": "https://www.islamweb.net/ar/article/173689/%D8%A3%D9%85%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%8A%D9%86",
+                        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87%D8%A7.png"
+                    },
+                    {
+                        "id": 9,
+                        "title": "جويرية بنت الحارث",
+                        "url": "https://www.islamweb.net/ar/article/173689/%D8%A3%D9%85%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%8A%D9%86",
+                        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87%D8%A7.png"
+                    },
+                    {
+                        "id": 10,
+                        "title": "صفية بنت حيي",
+                        "url": "https://www.islamweb.net/ar/article/173689/%D8%A3%D9%85%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%8A%D9%86",
+                        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87%D8%A7.png"
+                    },
+                    {
+                        "id": 11,
+                        "title": "ميمونة بنت الحارث",
                         "url": "https://www.islamweb.net/ar/article/173689/%D8%A3%D9%85%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%8A%D9%86",
                         "icon_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/%D8%B1%D8%B6%D9%8A_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%86%D9%87%D8%A7.png"
                     }
