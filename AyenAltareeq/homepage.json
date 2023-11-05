@@ -1,28 +1,39 @@
 {
-    "toolBar": {
-        "weekName": "الأسبوع الأخير",
-        "levelName": "المستوى",
-        "levelNum": "4"
+    "api_version": {
+        "version": 1.0
     },
-    "mainText": {
-        "title": "الحمدلله الذي هدانا لهذا"
+    "toolbar": {
+        "week": "الأسبوع الأخير",
+        "level": "المستوى",
+        "level_number": "4"
     },
-    "videos": {
+    "week_quote": {
+        "quote": "الحمدلله الذي هدانا لهذا"
+    },
+    "material_videos": {
         "title": "المحتوى مرئي",
-        "video": [
+        "videos": [
             {
-                "imageUrl": "https://i.ytimg.com/vi/oIdhJregTEY/maxresdefault.jpg",
-                "time": "1:01:28",
-                "videoUrl": "https://www.youtube.com/watch?v=oIdhJregTEY" 
+                "video_time": "1:01:28",
+                "video_id": "https://www.youtube.com/watch?v=oIdhJregTEY"
             }
         ]
     },
-    "audios": {
-        "title": "المحتوى مسموع",
-        "audio": [
+    "material_audios": {
+        "title": "المحتوى صوتي",
+        "audios": [
             {
-                "audioTitle": "حياة المسلم هي حياة دينه",
-                "audioUrl": "https://t.me/Audios_Aina_Eltarek/225"
+                "audio_title": "حياة المسلم هي حياة دينه",
+                "audio_url": "https://t.me/Audios_Aina_Eltarek/225"
+            }
+        ]
+    },
+    "material_tafrigh": {
+        "title": "تفريغ الخطوة",
+        "tafrigh": [
+            {
+                "tafrigh_title": "تفريغ الخطوة الرابعة",
+                "tafrigh_url": "https://t.me/AinaEltarek/102"
             }
         ]
     }
