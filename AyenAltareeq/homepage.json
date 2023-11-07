@@ -6,14 +6,18 @@
         "level_number": "3"
     },
     "week_quote": {
-        "quote": "يَا ربِّ .. \n تَرجوكَ القُلوبُ تَرجوكَ القُلوبُ ‏وأنتَ أهلٌ لِلرَّجا \n ‏ما حُوصِرَتْ إلّا وكانَ ‏إليكَ مِنكَ المُلتجا"
+        "quote": "يَا ربِّ .. \n تَرجوكَ القُلوبُ ‏وأنتَ أهلٌ لِلرَّجا \n ‏ما حُوصِرَتْ إلّا وكانَ ‏إليكَ مِنكَ المُلتجا"
     },
     "material_videos": {
         "title": "المحتوى مرئي",
         "videos": [
             {
-                "video_time": "1:01:28",
-                "video_id": "oIdhJregTEY"
+                "video_time": "1:21:33",
+                "video_id": "r9tlmwGvWmk"
+            },
+            {
+                "video_time": "1:3:45",
+                "video_id": "oAfNgoebFmQ"
             }
         ]
     },
@@ -21,8 +25,12 @@
         "title": "المحتوى صوتي",
         "audios": [
             {
-                "audio_title": "حياة المسلم هي حياة دينه",
-                "audio_url": "https://t.me/Audios_Aina_Eltarek/225"
+                "audio_title": "إنشاء لهفة التلقي و التعلم ج١",
+                "audio_url": "https://t.me/c/1826016558/378"
+            },
+            {
+                "audio_title": "إنشاء لهفة التلقي و التعلم ج٢",
+                "audio_url": "https://t.me/c/1826016558/379"
             }
         ]
     },
@@ -30,8 +38,8 @@
         "title": "تفريغ الخطوة",
         "tafrigh": [
             {
-                "tafrigh_title": "تفريغ الخطوة الثالثة عشر",
-                "tafrigh_url": "https://t.me/AinaEltarek/102"
+                "tafrigh_title": "تفريغ الخطوة التاسعة",
+                "tafrigh_url": "https://t.me/c/1826016558/383"
             }
         ]
     }
