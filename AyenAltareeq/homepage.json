@@ -18,7 +18,7 @@
         ]
     },
     "material_audios": {
-        "title": "المحتوى مسموع",
+        "title": "المحتوى صوتي",
         "audios": [
             {
                 "audio_title": "حياة المسلم هي حياة دينه",
@@ -27,7 +27,7 @@
         ]
     },
     "material_tafrigh": {
-        "title": "تفريغ المحتوى",
+        "title": "تفريغ الخطوة",
         "tafrigh": [
             {
                 "tafrigh_title": "تفريغ الخطوة الثالثة عشر",
