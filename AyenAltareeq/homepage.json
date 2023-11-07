@@ -1,7 +1,5 @@
 {
-    "api_version": {
-        "version": "1.0"
-    },
+    "api_version": 1.0,
     "toolbar": {
         "week": "الأسبوع الأخير",
         "level": "المستوى",
