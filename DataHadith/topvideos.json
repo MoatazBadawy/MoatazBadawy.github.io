@@ -218,7 +218,7 @@
                 ]
             },
             "itemTwo": {
-                "title": "غزوات الرسول",
+                "title": "فقه الجهاد",
                 "image": "https://www.annajah.net/resources/thumbs/article_photos/HtrHKFjgyT-Annajah.jpg_729x410.jpg",
                 "dataList": [
                     {
@@ -229,39 +229,214 @@
                         "times": "32:10"
                     },
                     {
-                        "text": "2- السيرة النبوية العهد المكي",
+                        "text": "2- الغزوات فرصة لكي نعيد التعرّف على شخص النبي صلى الله عليه وسلم",
                         "details": "",
-                        "image": "https://i.ytimg.com/vi/V5ZTZXoS9vs/hqdefault.jpg",
-                        "url": "anapp8v8JLM",
-                        "times": "1:07:58"
+                        "image": "https://i.ytimg.com/vi/dn2dky7LOEA/hqdefault.jpg",
+                        "url": "dn2dky7LOEA",
+                        "times": "13:11"
                     },
                     {
-                        "text": "3- السيرة النبوية العهد المكي",
+                        "text": "3- الأهداف الأربعة التي من أجلها شرع الله شعيرة الجهـاد على المسلمين",
                         "details": "",
-                        "image": "https://i.ytimg.com/vi/dr4gxZVmpb0/hqdefault.jpg",
-                        "url": "D0xD8_xbJbw",
-                        "times": "2:08:40"
+                        "image": "https://i.ytimg.com/vi/cYMRnig45yc/hqdefault.jpg",
+                        "url": "cYMRnig45yc",
+                        "times": "56:09"
                     },
                     {
-                        "text": "4- السيرة النبوية العهد المكي",
+                        "text": "4- تشريع الجهـاد ليس الهدف منه إجبار الناس على الإسلام",
                         "details": "",
-                        "image": "https://i.ytimg.com/vi/gXMVvZcqkDA/hqdefault.jpg",
-                        "url": "bN-v8O12ols",
-                        "times": "1:33:56"
+                        "image": "https://i.ytimg.com/vi/omQ7qQYwRyw/hqdefault.jpg",
+                        "url": "omQ7qQYwRyw",
+                        "times": "5:11"
                     },
                     {
-                        "text": "5- السيرة النبوية العهد المكي",
+                        "text": "5- الجهـاد ليس هدفه قهر غير المسلمين أو الاعتداء على حقوقهم المدنية",
                         "details": "",
-                        "image": "https://i.ytimg.com/vi/iCeD6bb9qT0/hqdefault.jpg",
-                        "url": "epWTsKl3R4E",
-                        "times": "1:43:29"
+                        "image": "https://i.ytimg.com/vi/6bN5G3OQdIA/hqdefault.jpg",
+                        "url": "6bN5G3OQdIA",
+                        "times": "11:27"
                     },
                     {
-                        "text": "6- السيرة النبوية العهد المكي",
+                        "text": "6- الجهـ|د في شريعة الإسلام رحمةٌ حتى في ممارستِهِ",
                         "details": "",
-                        "image": "https://i.ytimg.com/vi/ANSxp-w92lA/hqdefault.jpg",
-                        "url": "l-9zPfkTgTE",
-                        "times": "1:44:50"
+                        "image": "https://i.ytimg.com/vi/BV10q0q75iM/hqdefault.jpg",
+                        "url": "BV10q0q75iM",
+                        "times": "15:07"
+                    },
+                    {
+                        "text": "7- لكل من يسأل لماذا هناك تشريعٌ للقتال في الإسلام",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/65Nmn14cNGM/hqdefault.jpg",
+                        "url": "65Nmn14cNGM",
+                        "times": "32:51"
+                    },
+                    {
+                        "text": "8- ماذا يحدث لو ترك المسلمون شعيرة الجـهـاد بعد كل ما ذكرناه؟",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/dNlcVZJ_lkk/hqdefault.jpg",
+                        "url": "dNlcVZJ_lkk",
+                        "times": "6:01"
+                    },
+                    {
+                        "text": "9- ما معنى حديث (أُمرتُ أن أقاتل الناس حتى يقولوا لا إله إلا الله) ..؟",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/5qgwyiTaeLs/hqdefault.jpg",
+                        "url": "5qgwyiTaeLs",
+                        "times": "6:38"
+                    },
+                    {
+                        "text": "10- ما معنى حديث (وجُعلَ رزقي تحت ظِل رُمحي)؟",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/Ez0JCugbh0Y/hqdefault.jpg",
+                        "url": "Ez0JCugbh0Y",
+                        "times": "1:07"
+                    },
+                    {
+                        "text": "11- عوائق النفس الطبيعية عند الانتقال من الحالة المدنية للعسكرية",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/ywA2jkHBg4g/hqdefault.jpg",
+                        "url": "ywA2jkHBg4g",
+                        "times": "6:41"
+                    },
+                    {
+                        "text": "12- القتال في سبيل الله عبادةٌ تفصل بين المؤمنين والمنافقين",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/1LxcEaeQOTQ/hqdefault.jpg",
+                        "url": "1LxcEaeQOTQ",
+                        "times": "3:41"
+                    },
+                    {
+                        "text": "13- وقفة تأدّب مع رسول الله قبل أن نحكي قصة الغزوات غزوة وراء أخرى",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/HQeHR30MWMM/hqdefault.jpg",
+                        "url": "HQeHR30MWMM",
+                        "times": "6:31"
+                    },
+                    {
+                        "text": "14- غزوة بدر ج1| لماذا يحتفي الإسلام بهذه الموقعة رغم صغرها وعدم اهتمام العالم لها",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/2Rc5K81pObk/hqdefault.jpg",
+                        "url": "2Rc5K81pObk",
+                        "times": "13:16"
+                    },
+                    {
+                        "text": "15- غزوة بدر ج2 : الطريق إلى المواجهة العسكرية",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/vc6r7h-tUKA/hqdefault.jpg",
+                        "url": "vc6r7h-tUKA",
+                        "times": "15:03"
+                    },
+                    {
+                        "text": "16- غزو بدرج3 | القيادة النبوية وتهيئة المجتمع للحرب",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/C5z1f5dwQgc/hqdefault.jpg",
+                        "url": "C5z1f5dwQgc",
+                        "times": "10:46"
+                    },
+                    {
+                        "text": "17- غزوة بدر ج4 - الاستعدادات النبوية والتأييد الإلهي",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/aFydHl_gZG4/hqdefault.jpg",
+                        "url": "aFydHl_gZG4",
+                        "times": "32:24"
+                    },
+                    {
+                        "text": "18- غزو بدر ج5 : كيفية التعامل مع الأسرى والغنائم",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/Iwy9x6qCdpM/hqdefault.jpg",
+                        "url": "Iwy9x6qCdpM",
+                        "times": "13:45"
+                    },
+                    {
+                        "text": "19- تعقيب القرآن الكريم على غزوة بدر ج1",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/CD_uwIuH5vQ/hqdefault.jpg",
+                        "url": "CD_uwIuH5vQ",
+                        "times": "5:25"
+                    },
+                    {
+                        "text": "20- تعقيب القرآن الكريم على غزوة بدر ج2",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/EITFjt-WU0s/hqdefault.jpg",
+                        "url": "EITFjt-WU0s",
+                        "times": "5:28"
+                    },
+                    {
+                        "text": "21- تعقيب القرآن الكريم على غزوة بدر ج3",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/5dHqnc0js80/hqdefault.jpg",
+                        "url": "5dHqnc0js80",
+                        "times": "6:08"
+                    },
+                    {
+                        "text": "22- آثار انتصار المسلمين في بدر على المجتمع والإقليم",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/gpZt6x-LonI/hqdefault.jpg",
+                        "url": "gpZt6x-LonI",
+                        "times": "15:41"
+                    },
+                    {
+                        "text": "23- لا إسلام إلا بسلطة تُمثله وقوة تَـحميه",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/0KOFwaP50Bk/hqdefault.jpg",
+                        "url": "0KOFwaP50Bk",
+                        "times": "10:22"
+                    },
+                    {
+                        "text": "24- إجلاء بني قينُقاع: التعامل النبوي مع تحالف المنافقين واليهـود",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/Np91uPph01M/hqdefault.jpg",
+                        "url": "Np91uPph01M",
+                        "times": "10:39"
+                    },
+                    {
+                        "text": "25- عملية اغتيال كعب بن الأشرف",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/dXkIo-eVQUE/hqdefault.jpg",
+                        "url": "dXkIo-eVQUE",
+                        "times": "10:38"
+                    },
+                    {
+                        "text": "26- الفترة بين بدر وأحد | غزوة بني سُلَيم",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/0XJqhCVYHnY/hqdefault.jpg",
+                        "url": "0XJqhCVYHnY",
+                        "times": "3:08"
+                    },
+                    {
+                        "text": "27- غزوة أحد (1) | الطريق إلى المعركة",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/g2qv54nde6A/hqdefault.jpg",
+                        "url": "g2qv54nde6A",
+                        "times": "46:29"
+                    },
+                    {
+                        "text": "28- غزوة أُحُد (2) | القَرح والشهداء والتصرفات النبوية",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/8A7mp1QC5EY/hqdefault.jpg",
+                        "url": "8A7mp1QC5EY",
+                        "times": "47:36"
+                    },
+                    {
+                        "text": "29- غزوة أُحُد (2) | خطاب القرآن في حالة الهزيمة والانكسار",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/hfNf6gaPamQ/hqdefault.jpg",
+                        "url": "hfNf6gaPamQ",
+                        "times": "39:31"
+                    },
+                    {
+                        "text": "30- غزوة أُحُد (4) | التحركات النبوية لمعالجة آثار غزوة أحد",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/A6m77cz_7pA/hqdefault.jpg",
+                        "url": "A6m77cz_7pA",
+                        "times": "8:40"
+                    },
+                    {
+                        "text": "31- فترة ما بعد أحد: دوريات تأكيد السيادة - وغزوة بني النضير",
+                        "details": "",
+                        "image": "https://i.ytimg.com/vi/YgeV6pqjyR0/hqdefault.jpg",
+                        "url": "YgeV6pqjyR0",
+                        "times": "42:15"
                     }
                 ]
             },
