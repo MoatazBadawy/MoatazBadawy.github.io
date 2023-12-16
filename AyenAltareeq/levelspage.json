@@ -1,153 +1,19 @@
 [
     {
-        "levelName": "المستوى الأول",
+        "level_title": "المستوى الأول",
         "weeks": [
             {
-                "weekNum": "خطة المستوى",
-                "contentUrl": "https://t.me/WhereIsTheRoad/722"
-            },
-            {
-                "weekNum": "الأسبوع الأول",
-                "contentUrl": "https://t.me/WhereIsTheRoad/723"
-            },
-            {
-                "weekNum": "الأسبوع الثاني",
-                "contentUrl": "https://t.me/WhereIsTheRoad/729"
-            },
-            {
-                "weekNum": "الأسبوع الثالث",
-                "contentUrl": "https://t.me/WhereIsTheRoad/730"
-            },
-            {
-                "weekNum": "الأسبوع الرابع",
-                "contentUrl": "https://t.me/WhereIsTheRoad/733"
-            },
-            {
-                "weekNum": "الأسبوع الخامس",
-                "contentUrl": "https://t.me/WhereIsTheRoad/734"
+                "week_title": "الأسبوع الأول",
+                "week_content_url": "level1/week1.json"
             }
         ]
     },
     {
-        "levelName": "المستوى الثاني",
+        "level_title": "المستوى الثاني",
         "weeks": [
             {
-                "weekNum": "خطة المستوى",
-                "contentUrl": "https://t.me/WhereIsTheRoad/749"
-            },
-            {
-                "weekNum": "الأسبوع الأول",
-                "contentUrl": "https://t.me/WhereIsTheRoad/751"
-            },
-            {
-                "weekNum": "الأسبوع الثاني",
-                "contentUrl": "https://t.me/WhereIsTheRoad/752"
-            },
-            {
-                "weekNum": "الأسبوع الثالث",
-                "contentUrl": "https://t.me/WhereIsTheRoad/756"
-            },
-            {
-                "weekNum": "الأسبوع الرابع",
-                "contentUrl": "https://t.me/WhereIsTheRoad/765"
-            },
-            {
-                "weekNum": "الأسبوع الخامس",
-                "contentUrl": "https://t.me/WhereIsTheRoad/767"
-            },
-            {
-                "weekNum": "الأسبوع السادس",
-                "contentUrl": "https://t.me/WhereIsTheRoad/769"
-            }
-        ]
-    },
-    {
-        "levelName": "المستوى الثالث",
-        "weeks": [
-            {
-                "weekNum": "خطة المستوى",
-                "contentUrl": "https://t.me/WhereIsTheRoad/788"
-            },
-            {
-                "weekNum": "الأسبوع الأول",
-                "contentUrl": "https://t.me/WhereIsTheRoad/790"
-            },
-            {
-                "weekNum": "الأسبوع الثاني",
-                "contentUrl": "https://t.me/WhereIsTheRoad/794"
-            },
-            {
-                "weekNum": "الأسبوع الثالث",
-                "contentUrl": "https://t.me/WhereIsTheRoad/795"
-            },
-            {
-                "weekNum": "الأسبوع الرابع",
-                "contentUrl": "https://t.me/WhereIsTheRoad/797"
-            },
-            {
-                "weekNum": "الأسبوع الخامس",
-                "contentUrl": "https://t.me/WhereIsTheRoad/798"
-            },
-            {
-                "weekNum": "الأسبوع السادس",
-                "contentUrl": "https://t.me/WhereIsTheRoad/804"
-            },
-            {
-                "weekNum": "الأسبوع السابع",
-                "contentUrl": "https://t.me/WhereIsTheRoad/805"
-            },
-            {
-                "weekNum": "الأسبوع الثامن",
-                "contentUrl": "https://t.me/WhereIsTheRoad/807"
-            },
-            {
-                "weekNum": "الأسبوع التاسع",
-                "contentUrl": "https://t.me/WhereIsTheRoad/809"
-            }
-        ]
-    },
-    {
-        "levelName": "المستوى الرابع",
-        "weeks": [
-            {
-                "weekNum": "خطة المستوى",
-                "contentUrl": "https://t.me/WhereIsTheRoad/820"
-            },
-            {
-                "weekNum": "الأسبوع الأول",
-                "contentUrl": "https://t.me/WhereIsTheRoad/823"
-            },
-            {
-                "weekNum": "الأسبوع الثاني",
-                "contentUrl": "https://t.me/WhereIsTheRoad/825"
-            },
-            {
-                "weekNum": "الأسبوع الثالث",
-                "contentUrl": "https://t.me/c/1396104445/1594"
-            },
-            {
-                "weekNum": "الأسبوع الرابع",
-                "contentUrl": "https://t.me/WhereIsTheRoad/827"
-            },
-            {
-                "weekNum": "الأسبوع الخامس",
-                "contentUrl": "https://t.me/WhereIsTheRoad/829"
-            },
-            {
-                "weekNum": "الأسبوع السادس",
-                "contentUrl": "https://t.me/WhereIsTheRoad/830"
-            },
-            {
-                "weekNum": "الأسبوع السابع",
-                "contentUrl": "https://t.me/WhereIsTheRoad/831"
-            },
-            {
-                "weekNum": "الأسبوع الثامن",
-                "contentUrl": "https://t.me/WhereIsTheRoad/833"
-            },
-            {
-                "weekNum": "الأسبوع الأخير",
-                "contentUrl": "https://t.me/WhereIsTheRoad/834"
+                "week_title": "الأسبوع الأول",
+                "week_content_url": "level2/week1.json"
             }
         ]
     }
