@@ -1,10 +1,6 @@
 {
     "api_version": 1.0,
-    "toolbar": {
-        "week": null,
-        "level": null,
-        "level_number": null
-    },
+    "toolbar": null,
     "week_quote": {
         "quote": "يَا ربِّ .. \n تَرجوكَ القُلوبُ ‏وأنتَ أهلٌ لِلرَّجا \n ‏ما حُوصِرَتْ إلّا وكانَ ‏إليكَ مِنكَ المُلتجا"
     },
