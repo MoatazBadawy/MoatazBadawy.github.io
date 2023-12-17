@@ -44,5 +44,26 @@
                 "week_content_url": "level1/week1.json"
             }
         ]
+    },
+    {
+        "level_title": "المستوى الثالث",
+        "weeks": [
+            {
+                "week_title": "الأسبوع الأول",
+                "week_content_url": "level2/week1.json"
+            },
+            {
+                "week_title": "الأسبوع الأول",
+                "week_content_url": "level1/week1.json"
+            },
+            {
+                "week_title": "الأسبوع الأول",
+                "week_content_url": "level1/week1.json"
+            },
+            {
+                "week_title": "الأسبوع الأول",
+                "week_content_url": "level1/week1.json"
+            }
+        ]
     }
 ]
