@@ -5,11 +5,13 @@
         "videos": [
             {
                 "video_time": "1:21:33",
-                "video_id": "r9tlmwGvWmk"
+                "video_id": "r9tlmwGvWmk",
+                "video_title": "إنشاء لهفة التلقي و التعلم الجزء الأول"
             },
             {
                 "video_time": "1:3:45",
-                "video_id": "oAfNgoebFmQ"
+                "video_id": "oAfNgoebFmQ",
+                "video_title": "إنشاء لهفة التلقي و التعلم الجزء الثاني"
             }
         ]
     },
