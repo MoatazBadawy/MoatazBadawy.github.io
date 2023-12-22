@@ -3,23 +3,23 @@
         "level_title": "المستوى الأول",
         "weeks": [
             {
-                "week_title": "الأسبوع الأول",
+                "week_title": "الخطوة الأولى",
                 "week_content_url": "level1/week1.json"
             },
             {
-                "week_title": "الأسبوع الأول",
+                "week_title": "الخطوة الثانية",
                 "week_content_url": "level1/week1.json"
             },
             {
-                "week_title": "الأسبوع الأول",
+                "week_title": "الخطوة الثالة (1)",
                 "week_content_url": "level1/week1.json"
             },
             {
-                "week_title": "الأسبوع الأول",
+                "week_title": "الخطوة الثالثة (2)",
                 "week_content_url": "level1/week1.json"
             },
             {
-                "week_title": "الأسبوع الأول",
+                "week_title": "الخطوة الرابعه",
                 "week_content_url": "level1/week1.json"
             }
         ]
