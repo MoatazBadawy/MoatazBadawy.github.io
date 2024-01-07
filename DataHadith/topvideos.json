@@ -841,18 +841,18 @@
     ],
     "topVideosList": [
         {
-            "text": "قصص وعبر من حياة الصحابة",
-            "details": "",
-            "image": "https://i.ytimg.com/vi/AgHeWr8Nbhc/hqdefault.jpg",
-            "url": "AgHeWr8Nbhc",
-            "times": "10:44"
-        },
-        {
             "text": "مسلسل سيرة رسول الله الحلقة 3",
             "details": "",
             "image": "https://i.ytimg.com/vi/4YMEd0XGqJY/hqdefault.jpg",
             "url": "4YMEd0XGqJY",
             "times": "23:13"
+        },
+        {
+            "text": "قصص وعبر من حياة الصحابة",
+            "details": "",
+            "image": "https://i.ytimg.com/vi/AgHeWr8Nbhc/hqdefault.jpg",
+            "url": "AgHeWr8Nbhc",
+            "times": "10:44"
         },
         {
             "text": "زيارة الروضة الشريفة بالمسجد النبوي الشريف بالمدينة المنورة",
@@ -903,7 +903,13 @@
             "url": "NmcPr-OgrNg",
             "times": "1:01:53"
         },
-        
+        {
+            "text": "لو كان بيننا | الموسم الثاني - الحلقة 12",
+            "details": "",
+            "image": "https://i.ytimg.com/vi/rqnlORTclaA/hqdefault.jpg",
+            "url": "rqnlORTclaA",
+            "times": "17:18"
+        },         
         {
             "text": "كيف كان يتلقى الرسول ﷺ القرآن من جبريل عليه السلام",
             "details": "",
@@ -918,8 +924,6 @@
             "url": "4FXuPEbgLHQ",
             "times": "32:28"
         },
-       
-    
         {
             "text": "قصة عمر بن الخطاب رضي الله عنه",
             "details": "",
@@ -934,27 +938,20 @@
             "image": "https://i.ytimg.com/vi/CJ1ePSebeAo/maxresdefault.jpg",
             "url": "0nhsJ6b88A4",
             "times": "2:20:18"
-        }, 
-        {
-            "text": "لو كان بيننا | الموسم الثاني - الحلقة 12",
-            "details": "",
-            "image": "https://i.ytimg.com/vi/rqnlORTclaA/hqdefault.jpg",
-            "url": "rqnlORTclaA",
-            "times": "17:18"
-        },       
+        },
         {
             "text": "سيف الله المسلول خالد بن الوليد",
             "details": "",
             "image": "https://i.ytimg.com/vi/H-xAx4S55aQ/maxresdefault.jpg",
             "url": "H-xAx4S55aQ",
             "times": "28:57"
-        },
+        }, 
         {
-            "text": "7- لكل من يسأل لماذا هناك تشريعٌ للقتال في الإسلام",
+            "text": "سيف الله المسلول خالد بن الوليد",
             "details": "",
-            "image": "https://i.ytimg.com/vi/65Nmn14cNGM/hqdefault.jpg",
-            "url": "65Nmn14cNGM",
-            "times": "32:51"
+            "image": "https://i.ytimg.com/vi/fxT9nK_rKqk/maxresdefault.jpg",
+            "url": "fxT9nK_rKqk",
+            "times": "18:29"
         },
         {
             "text": "جولة داخل البقيع خطوة بخطوة",
@@ -977,13 +974,13 @@
             "image": "https://www.almowaten.net/wp-content/uploads/2019/05/MBC1-RAMADAN-2019-EHSAN-MEN-L-MADINA-AHMAD-AL-SHUGAIRI-8-799x533.jpg",
             "url": "b5W5US7sZNQ",
             "times": "52:58"
-        },        
+        },
         {
-            "text": "سيف الله المسلول خالد بن الوليد",
+            "text": "7- لكل من يسأل لماذا هناك تشريعٌ للقتال في الإسلام",
             "details": "",
-            "image": "https://i.ytimg.com/vi/fxT9nK_rKqk/maxresdefault.jpg",
-            "url": "fxT9nK_rKqk",
-            "times": "18:29"
+            "image": "https://i.ytimg.com/vi/65Nmn14cNGM/hqdefault.jpg",
+            "url": "65Nmn14cNGM",
+            "times": "32:51"
         }
     ]
 }
