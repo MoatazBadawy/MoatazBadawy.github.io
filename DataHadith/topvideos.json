@@ -931,27 +931,26 @@
             "url": "0nhsJ6b88A4",
             "times": "2:20:18"
         }, 
-{
+        {
             "text": "لو كان بيننا | الموسم الثاني - الحلقة 12",
             "details": "",
             "image": "https://i.ytimg.com/vi/rqnlORTclaA/hqdefault.jpg",
             "url": "rqnlORTclaA",
             "times": "17:18"
-        }
-        ,
+        },       
         {
             "text": "سيف الله المسلول خالد بن الوليد",
             "details": "",
-            "image": "https://i.ytimg.com/vi/fxT9nK_rKqk/maxresdefault.jpg",
-            "url": "fxT9nK_rKqk",
-            "times": "18:29"
+            "image": "https://i.ytimg.com/vi/H-xAx4S55aQ/maxresdefault.jpg",
+            "url": "H-xAx4S55aQ",
+            "times": "28:57"
         },
         {
-            "text": "أحمد الشقيري - إحسان من المدينة المنورة",
+            "text": "7- لكل من يسأل لماذا هناك تشريعٌ للقتال في الإسلام",
             "details": "",
-            "image": "https://www.almowaten.net/wp-content/uploads/2019/05/MBC1-RAMADAN-2019-EHSAN-MEN-L-MADINA-AHMAD-AL-SHUGAIRI-8-799x533.jpg",
-            "url": "b5W5US7sZNQ",
-            "times": "52:58"
+            "image": "https://i.ytimg.com/vi/65Nmn14cNGM/hqdefault.jpg",
+            "url": "65Nmn14cNGM",
+            "times": "32:51"
         },
         {
             "text": "جولة داخل البقيع خطوة بخطوة",
@@ -967,6 +966,20 @@
             "image": "https://i.ytimg.com/vi/V0qE9IIEXDw/maxresdefault.jpg",
             "url": "V0qE9IIEXDw",
             "times": "34:14"
+        },        
+        {
+            "text": "أحمد الشقيري - إحسان من المدينة المنورة",
+            "details": "",
+            "image": "https://www.almowaten.net/wp-content/uploads/2019/05/MBC1-RAMADAN-2019-EHSAN-MEN-L-MADINA-AHMAD-AL-SHUGAIRI-8-799x533.jpg",
+            "url": "b5W5US7sZNQ",
+            "times": "52:58"
+        },        
+        {
+            "text": "سيف الله المسلول خالد بن الوليد",
+            "details": "",
+            "image": "https://i.ytimg.com/vi/fxT9nK_rKqk/maxresdefault.jpg",
+            "url": "fxT9nK_rKqk",
+            "times": "18:29"
         }
     ]
 }
