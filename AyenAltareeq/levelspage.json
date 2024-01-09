@@ -86,7 +86,11 @@
                 "week_content_url": "level1/week1.json"
             },
             {
-                "week_title": "الخطوة الثانة عشر",
+                "week_title": "الخطوة الثانية عشر",
+                "week_content_url": "level1/week1.json"
+            },
+            {
+                "week_title": "الخطوة الثالثة عشر",
                 "week_content_url": "level1/week1.json"
             }
         ]
