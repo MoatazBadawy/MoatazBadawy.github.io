@@ -1,5 +1,5 @@
 {
-    "api_version": 1.1,
+    "api_version": 1.0,
     
     "toolbar": {
         "week": "الخطوة التاسعة",
@@ -27,11 +27,11 @@
         "audios": [
             {
                 "audio_title": "إنشاء لهفة التلقي و التعلم ج١",
-                "audio_url": "https://soundcloud.com/keramn/01a-7?in=keramn/sets/dficmngdezlv"
+                "audio_url": "https://jumpshare.com/s/L9Uxjvm4J3atXwRMMgFw"
             },
             {
                 "audio_title": "إنشاء لهفة التلقي و التعلم ج٢",
-                "audio_url": "https://soundcloud.com/keramn/01a-7?in=keramn/sets/dficmngdezlv"
+                "audio_url": "https://pouch.jumpshare.com/preview/kQZlbCJhu4ORM8yEMt3aMV7bFkN311nU4zxXQxJ-lunsNSuxxk8YVeXMFK9JDIIwmVeui0RvnyA7WPQGJ4Vpf5Sr4f8sD27GcaBVs4AmA4--46dTqZD5iFH6BgIAF39l3aaVitjc1CtTRv2lHqGB7qN_fIMI2zJarj0avEcXWfs.mp3"
             }
         ]
     },
