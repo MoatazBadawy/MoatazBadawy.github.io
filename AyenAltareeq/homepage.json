@@ -1,5 +1,5 @@
 {
-    "api_version": 1.1,
+    "api_version": 1.0,
     
     "toolbar": {
         "week": "الخطوة التاسعة",
@@ -27,11 +27,11 @@
         "audios": [
             {
                 "audio_title": "إنشاء لهفة التلقي و التعلم ج١",
-                "audio_url": "https://jumpshare.com/s/L9Uxjvm4J3atXwRMMgFw"
+                "audio_url": "https://pouch.jumpshare.com/preview/N_-0_YBWN0GHviaZBMCfqlMPEQYU5TcIMY3swWw0B-RACrujDfe6FRaBfRjULYpcQHqCoelHxNAN6SpidmZU7JSr4f8sD27GcaBVs4AmA4--46dTqZD5iFH6BgIAF39lx1SY_KykdP3buXJdoNFJoqN_fIMI2zJarj0avEcXWfs.mp3"
             },
             {
                 "audio_title": "إنشاء لهفة التلقي و التعلم ج٢",
-                "audio_url": "https://github.com/MoatazBadawy/Mawaqeet-Todo_and_Habits/assets/63272288/3c2a4f74-3485-4b23-beaa-c3ec681c69fb"
+                "audio_url": "https://pouch.jumpshare.com/preview/N_-0_YBWN0GHviaZBMCfqlMPEQYU5TcIMY3swWw0B-RACrujDfe6FRaBfRjULYpcQHqCoelHxNAN6SpidmZU7JSr4f8sD27GcaBVs4AmA4--46dTqZD5iFH6BgIAF39lx1SY_KykdP3buXJdoNFJoqN_fIMI2zJarj0avEcXWfs.mp3"
             }
         ]
     },
