@@ -1,155 +1,182 @@
 [
     {
         "level_title": "المستوى الأول",
-        "weeks": [
+        "steps": [
             {
-                "week_title": "خطوة الإستعداد",
-                "week_content_url": "level1/step.json",
+                "step_title": "خطوة الإستعداد",
+                "step_content_url": "level1/step.json",
+                "level_num": 1,
                 "is_active": true
             },
             {
-                "week_title": "الخطوة صفر (1)",
-                "week_content_url": "level1/step0_part1.json",
+                "step_title": "الخطوة صفر (1)",
+                "step_content_url": "level1/step0_part1.json",
+                "level_num": 1,
                 "is_active": true
             },
             {
-                "week_title": "الخطوة صفر (2)",
-                "week_content_url": "level1/step0_part2.json",
+                "step_title": "الخطوة صفر (2)",
+                "step_content_url": "level1/step0_part2.json",
+                "level_num": 1,
                 "is_active": true
             },
             {
-                "week_title": "(1) الخطوة الأولى",
-                "week_content_url": "level1/step1_part1.json",
+                "step_title": "الخطوة الأولى (1)",
+                "step_content_url": "level1/step1_part1.json",
+                "level_num": 1,
                 "is_active": true
             },
             {
-                "week_title": "(2) الخطوة الأولى",
-                "week_content_url": "level1/step1_part2.json",
+                "step_title": "الخطوة الأولى (2)",
+                "step_content_url": "level1/step1_part2.json",
+                "level_num": 1,
                 "is_active": true
             }
         ]
     },
     {
         "level_title": "المستوى الثاني",
-        "weeks": [
+        "steps": [
             {
-                "week_title": "الخطوة الثانية",
-                "week_content_url": "level2/step2.json",
+                "step_title": "الخطوة الثانية",
+                "step_content_url": "level2/step2.json",
+                "level_num": 2,
                 "is_active": false
             },
             {
-                "week_title": "الخطوة الثالة (1)",
-                "week_content_url": "level2/step3_part1.json",
+                "step_title": "الخطوة الثالثة (1)",
+                "step_content_url": "level2/step3_part1.json",
+                "level_num": 2,
                 "is_active": false
             },
             {
-                "week_title": "الخطوة الثالثة (2)",
-                "week_content_url": "level2/step3_part2.json",
+                "step_title": "الخطوة الثالثة (2)",
+                "step_content_url": "level2/step3_part2.json",
+                "level_num": 2,
                 "is_active": false
             },
             {
-                "week_title": "الخطوة الرابعة",
-                "week_content_url": "level2/step4.json",
+                "step_title": "الخطوة الرابعة",
+                "step_content_url": "level2/step4.json",
+                "level_num": 2,
                 "is_active": false
             },
             {
-                "week_title": "الخطوة الخامسة",
-                "week_content_url": "level2/step5.json",
+                "step_title": "الخطوة الخامسة",
+                "step_content_url": "level2/step5.json",
+                "level_num": 2,
                 "is_active": false
             },
             {
-                "week_title": "الخطوة السادسة",
-                "week_content_url": "level2/step6.json",
+                "step_title": "الخطوة السادسة",
+                "step_content_url": "level2/step6.json",
+                "level_num": 2,
                 "is_active": false
             }
         ]
     },
     {
         "level_title": "المستوى الثالث",
-        "weeks": [
+        "steps": [
             {
-                "week_title":"الخطوة السابعة (1)",
-                "week_content_url": "level3/step7_part1.json",
+                "step_title": "الخطوة السابعة (1)",
+                "step_content_url": "level3/step7_part1.json",
+                "level_num": 3,
                 "is_active": false
             },
             {
-                "week_title": "الخطوة السابعة (2)",
-                "week_content_url": "level3/step7_part2.json",
+                "step_title": "الخطوة السابعة (2)",
+                "step_content_url": "level3/step7_part2.json",
+                "level_num": 3,
                 "is_active": false
             },
             {
-                "week_title": "الخطوة السابعة (3)",
-                "week_content_url": "level3/step7_part3.json",
+                "step_title": "الخطوة السابعة (3)",
+                "step_content_url": "level3/step7_part3.json",
+                "level_num": 3,
                 "is_active": false
             },
             {
-                "week_title": "الخطوة السابعة (4)",
-                "week_content_url": "level3/step7_part4.json",
+                "step_title": "الخطوة السابعة (4)",
+                "step_content_url": "level3/step7_part4.json",
+                "level_num": 3,
                 "is_active": false
             },
             {
-                "week_title": "الخطوة الثامنة (1)",
-                "week_content_url": "level3/step8_part1.json",
+                "step_title": "الخطوة الثامنة (1)",
+                "step_content_url": "level3/step8_part1.json",
+                "level_num": 3,
                 "is_active": false
             },
             {
-                "week_title": "الخطوة الثامنة (2)",
-                "week_content_url": "level3/step8_part2.json",
+                "step_title": "الخطوة الثامنة (2)",
+                "step_content_url": "level3/step8_part2.json",
+                "level_num": 3,
                 "is_active": false
             },
             {
-                "week_title":"الخطوة التاسعة",
-                "week_content_url": "level3/step9.json",
+                "step_title":"الخطوة التاسعة",
+                "step_content_url": "level3/step9.json",
+                "level_num": 3,
                 "is_active": false
             },
             {
-                "week_title":"الخطوة العاشرة",
-                "week_content_url": "level3/step10.json",
+                "step_title":"الخطوة العاشرة",
+                "step_content_url": "level3/step10.json",
+                "level_num": 3,
                 "is_active": false
             }
         ]
     },
     {
         "level_title": "المستوى الرابع",
-        "weeks": [
+        "steps": [
             {
-                "week_title": "الخطوة الحادية عشرة (1)",
-                "week_content_url": "level4/step11_part1.json",
+                "step_title": "الخطوة الحادية عشرة (1)",
+                "step_content_url": "level4/step11_part1.json",
+                "level_num": 4,
                 "is_active": false
             },
             {
-                "week_title": "الخطوة الحادية عشرة (2)",
-                "week_content_url": "level4/step11_part2.json",
+                "step_title": "الخطوة الحادية عشرة (2)",
+                "step_content_url": "level4/step11_part2.json",
+                "level_num": 4,
                 "is_active": false
             },
             {
-                "week_title": "الخطوة الحادية عشرة (3)",
-                "week_content_url": "level4/step11_part3.json",
+                "step_title": "الخطوة الحادية عشرة (3)",
+                "step_content_url": "level4/step11_part3.json",
+                "level_num": 4,
                 "is_active": false
             },
             {
-                "week_title": "الخطوة الحادية عشرة (4)",
-                "week_content_url": "level4/step11_part4.json",
+                "step_title": "الخطوة الحادية عشرة (4)",
+                "step_content_url": "level4/step11_part4.json",
+                "level_num": 4,
                 "is_active": false
             },
             {
-                "week_title": "الخطوة الثانية عشرة (1)",
-                "week_content_url": "level4/step12_part1.json",
+                "step_title": "الخطوة الثانية عشرة (1)",
+                "step_content_url": "level4/step12_part1.json",
+                "level_num": 4,
                 "is_active": false
             },
             {
-                "week_title": "الخطوة الثانية عشرة (2)",
-                "week_content_url": "level4/step12_part2.json",
+                "step_title": "الخطوة الثانية عشرة (2)",
+                "step_content_url": "level4/step12_part2.json",
+                "level_num": 4,
                 "is_active": false
             },
             {
-                "week_title": "(1) الخطوة الثالثة عشرة",
-                "week_content_url": "level4/step13_part1.json",
+                "step_title": "الخطوة الثالثة عشرة (1)",
+                "step_content_url": "level4/step13_part1.json",
+                "level_num": 4,
                 "is_active": false
             },
             {
-                "week_title": "(2) الخطوة الثالثة عشرة",
-                "week_content_url": "level4/step13_part2.json",
+                "step_title": "الخطوة الثالثة عشرة (2)",
+                "step_content_url": "level4/step13_part2.json",
+                "level_num": 4,
                 "is_active": false
             }
         ]
