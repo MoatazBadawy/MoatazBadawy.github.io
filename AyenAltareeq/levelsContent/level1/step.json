@@ -1,8 +1,10 @@
 {
     "step_title": "الخطوة الأولى",
-    "week_quote": {
+
+    "step_quote": {
         "quote": "يَا ربِّ .. \n تَرجوكَ القُلوبُ ‏وأنتَ أهلٌ لِلرَّجا \n ‏ما حُوصِرَتْ إلّا وكانَ ‏إليكَ مِنكَ المُلتجا"
     },
+
     "material_videos": {
         "title": "المحتوى مرئي",
         "videos": [
@@ -18,6 +20,7 @@
             }
         ]
     },
+
     "material_audios": {
         "title": "المحتوى صوتي",
         "audios": [
@@ -35,6 +38,7 @@
             }
         ]
     },
+
     "material_tafrigh": {
         "title": "تفريغ الخطوة",
         "tafrigh": [
