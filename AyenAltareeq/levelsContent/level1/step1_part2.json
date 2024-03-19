@@ -1,22 +1,22 @@
 {
-    "step_title": "",
+    "step_title": "الخطوة الأولى (2)",
 
     "step_quote": {
-        "quote": ""
+        "quote": "سبيل العُلا عالٍ على من تعلّلا \n ومن جدّ في سعي لأمر تمكّنا"
     },
 
     "material_videos": {
         "title": "المحتوى مرئي",
         "videos": [
             {
-                "video_time": "",
-                "video_id": "",
-                "video_title": ""
+                "video_time": "35:05",
+                "video_id": "kVWO3QcE-Z8",
+                "video_title": "تحضير النفوس لاستقبال النور من رسول الله ﷺ"
             },
             {
-                "video_time": "",
-                "video_id": "",
-                "video_title": ""
+                "video_time": "2:11:01",
+                "video_id": "y7UGJA7Z_8s",
+                "video_title": "المشاعر السبعة الضرورية لاستقبال النور من رسول الله ﷺ"
             }
         ]
     },
@@ -25,12 +25,12 @@
         "title": "المحتوى صوتي",
         "audios": [
             {
-                "audio_title": "",
+                "audio_title": "تحضير النفوس لاستقبال النور من رسول الله ﷺ",
                 "audio_url": "",
                 "audio_download_url": ""
             },
             {
-                "audio_title": "",
+                "audio_title": "المشاعر السبعة الضرورية لاستقبال النور من رسول الله ﷺ",
                 "audio_url": "",
                 "audio_download_url": ""
             }
@@ -41,7 +41,7 @@
         "title": "تفريغ الخطوة",
         "tafrigh": [
             {
-                "tafrigh_title": "",
+                "tafrigh_title": "تفريغ الخطوة الأولى",
                 "tafrigh_url": ""
             }
         ]

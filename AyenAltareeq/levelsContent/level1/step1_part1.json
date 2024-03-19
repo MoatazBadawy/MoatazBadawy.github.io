@@ -1,22 +1,22 @@
 {
-    "step_title": "",
+    "step_title": "الخطوة الأولى (1)",
 
     "step_quote": {
-        "quote": ""
+        "quote": "سبيل العُلا عالٍ على من تعلّلا \n ومن جدّ في سعي لأمر تمكّنا"
     },
 
     "material_videos": {
         "title": "المحتوى مرئي",
         "videos": [
             {
-                "video_time": "",
-                "video_id": "",
-                "video_title": ""
+                "video_time": "57:36",
+                "video_id": "sXdQG3wtfnI",
+                "video_title": "تصنيع الله لشخصية رسول الله ﷺ"
             },
             {
-                "video_time": "",
-                "video_id": "",
-                "video_title": ""
+                "video_time": "1:16:13",
+                "video_id": "eNEpGpeYHfo",
+                "video_title": "دور شخصية رسول الله ﷺ في إخراج الناس من الظلمات إلى النور"
             }
         ]
     },
@@ -25,12 +25,12 @@
         "title": "المحتوى صوتي",
         "audios": [
             {
-                "audio_title": "",
+                "audio_title": "تصنيع الله لشخصية رسول الله ﷺ",
                 "audio_url": "",
                 "audio_download_url": ""
             },
             {
-                "audio_title": "",
+                "audio_title": "دور شخصية رسول الله ﷺ في إخراج الناس من الظلمات إلى النور",
                 "audio_url": "",
                 "audio_download_url": ""
             }
@@ -41,7 +41,7 @@
         "title": "تفريغ الخطوة",
         "tafrigh": [
             {
-                "tafrigh_title": "",
+                "tafrigh_title": "تفريغ الخطوة الأولى",
                 "tafrigh_url": ""
             }
         ]
