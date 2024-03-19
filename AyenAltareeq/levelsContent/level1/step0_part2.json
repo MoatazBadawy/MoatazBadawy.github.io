@@ -1,22 +1,22 @@
 {
-    "step_title": "",
+    "step_title": "الخطوة صفر (2)",
 
     "step_quote": {
-        "quote": ""
+        "quote": "البدايات دائما صعبة، ولكن مع كل خطوة يتضح الطريق أكثر وأكثر، فإستمر لتصل الى هدفك"
     },
 
     "material_videos": {
         "title": "المحتوى مرئي",
         "videos": [
             {
-                "video_time": "",
-                "video_id": "",
-                "video_title": ""
+                "video_time": "27:24",
+                "video_id": "ffOiOMYIf0c",
+                "video_title": "تحول النفوس عندما يلمسها منهج الإسلام"
             },
             {
-                "video_time": "",
-                "video_id": "",
-                "video_title": ""
+                "video_time": "45:38",
+                "video_id": "IDpa19SHSc8",
+                "video_title": "تحول المجتمعات عندما يلمسها منهج الإسلام"
             }
         ]
     },
@@ -25,12 +25,12 @@
         "title": "المحتوى صوتي",
         "audios": [
             {
-                "audio_title": "",
+                "audio_title": "تحول النفوس عندما يلمسها منهج الإسلام",
                 "audio_url": "",
                 "audio_download_url": ""
             },
             {
-                "audio_title": "",
+                "audio_title": "تحول المجتمعات عندما يلمسها منهج الإسلام",
                 "audio_url": "",
                 "audio_download_url": ""
             }
@@ -41,7 +41,7 @@
         "title": "تفريغ الخطوة",
         "tafrigh": [
             {
-                "tafrigh_title": "",
+                "tafrigh_title": "تفريغ الخطوة صفر",
                 "tafrigh_url": ""
             }
         ]
