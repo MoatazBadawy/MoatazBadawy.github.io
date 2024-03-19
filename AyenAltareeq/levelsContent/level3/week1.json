@@ -1,24 +1,42 @@
 {
-    "week_title": "",
+    "step_title": "",
+
+    "step_quote": {
+        "quote": ""
+    },
+
     "material_videos": {
         "title": "المحتوى مرئي",
         "videos": [
             {
-                "video_time": "0:0:0",
+                "video_time": "",
+                "video_id": "",
+                "video_title": ""
+            },
+            {
+                "video_time": "",
                 "video_id": "",
                 "video_title": ""
             }
         ]
     },
+
     "material_audios": {
         "title": "المحتوى صوتي",
         "audios": [
             {
                 "audio_title": "",
-                "audio_url": ""
+                "audio_url": "",
+                "audio_download_url": ""
+            },
+            {
+                "audio_title": "",
+                "audio_url": "",
+                "audio_download_url": ""
             }
         ]
     },
+
     "material_tafrigh": {
         "title": "تفريغ الخطوة",
         "tafrigh": [
