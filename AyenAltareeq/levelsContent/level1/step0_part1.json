@@ -1,0 +1,59 @@
+{
+    "step_title": "الخطوة صفر (1)",
+
+    "step_quote": {
+        "quote": "البدايات دائما صعبة، ولكن مع كل خطوة يتضح الطريق أكثر وأكثر، فإستمر لتصل الى هدفك"
+    },
+
+    "material_videos": {
+        "title": "المحتوى مرئي",
+        "videos": [
+            {
+                "video_time": "1:03:38",
+                "video_id": "OA55u9Ol3MQ",
+                "video_title": "مقدمة وترحيب بالسالكين إلى الله"
+            },
+            {
+                "video_time": "8:59",
+                "video_id": "ExMjAZvNLL8",
+                "video_title": "الجاهلية أسلوب حياة وليست مرحلة تاريخية"
+            },
+            {
+                "video_time": "15:23",
+                "video_id": "UVxJNfk6r2I",
+                "video_title": "ظلمات الحياة الجاهلية كما تحدث عنها القرآن"
+            }
+        ]
+    },
+
+    "material_audios": {
+        "title": "المحتوى صوتي",
+        "audios": [
+            {
+                "audio_title": "مقدمة وترحيب بالسالكين إلى الله",
+                "audio_url": "",
+                "audio_download_url": ""
+            },
+            {
+                "audio_title": "الجاهلية أسلوب حياة وليست مرحلة تاريخية",
+                "audio_url": "",
+                "audio_download_url": ""
+            },
+            {
+                "audio_title": "ظلمات الحياة الجاهلية كما تحدث عنها القرآن",
+                "audio_url": "",
+                "audio_download_url": ""
+            }
+        ]
+    },
+
+    "material_tafrigh": {
+        "title": "تفريغ الخطوة",
+        "tafrigh": [
+            {
+                "tafrigh_title": "",
+                "tafrigh_url": ""
+            }
+        ]
+    }
+}
