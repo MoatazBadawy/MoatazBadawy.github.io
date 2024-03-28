@@ -1,52 +1,22 @@
 {
-    "step_title": "خطوة الإستعداد",
+    "step_title": "الخطوة الثانية",
 
     "step_quote": {
-        "quote": "بسم الله نبدأ في الإستعداد للمسير"
+        "quote": ""
     },
 
     "material_videos": {
         "title": "المحتوى مرئي",
         "videos": [
             {
-                "video_time": "4:38",
-                "video_id": "EzVx95XEnnc",
-                "video_title": "مـيـلادٌ جـديـد"
+                "video_time": "1:07:18",
+                "video_id": "AVSHwcJ-dJs",
+                "video_title": "المؤهلات الشخصية للإنسان الخارج من الظلمات"
             },
             {
-                "video_time": "11:55",
-                "video_id": "ssFFSvn-CKQ",
-                "video_title": "السلوك الى الله ليس عشوائيا ولكنه طريق له خطوات"
-            },
-            {
-                "video_time": "23:40",
-                "video_id": "XbhPdT5WwMY",
-                "video_title": "ماذا سنتعلم في برنامج أين الطريق؟"
-            },
-            {
-                "video_time": "2:46",
-                "video_id": "SiU20gp6YXI",
-                "video_title": "الفرق بين معرفة الطريق ومكابدة الطريق"
-            },
-            {
-                "video_time": "55:37",
-                "video_id": "dEAS3_sM5dw",
-                "video_title": "كيف تم ترتيب خطوات إخراج الناس من الظلمات إلى النور"
-            },
-            {
-                "video_time": "11:17",
-                "video_id": "EaS83OgeUic",
-                "video_title": "عاطفة التجمع على دعوة رسول الله ﷺ"
-            },
-            {
-                "video_time": "5:02",
-                "video_id": "iXv7HMmB8u0",
-                "video_title": "هدف البرنامج هو صناعة النواة التي تنشأ عليها أمة مستقلة"
-            },
-            {
-                "video_time": "6:50",
-                "video_id": "bE4pCUcdN6U",
-                "video_title": "ما أهمية برنامج أين الطريق؟"
+                "video_time": "32:36",
+                "video_id": "LzMIXTLMciY",
+                "video_title": "شخصية الإنسان وأخلاقه هي مفتاح وصوله إلى الله"
             }
         ]
     },
@@ -55,44 +25,14 @@
         "title": "المحتوى صوتي",
         "audios": [
             {
-                "audio_title": "مـيـلادٌ جـديـد",
-                "audio_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level1/step/_%D9%85%D9%80%D9%8A%D9%80%D9%84%D8%A7%D8%AF%D9%8C_%D8%AC%D9%80%D8%AF%D9%8A%D9%80%D8%AF_%D8%A7%D9%84%D8%AA%D8%B1%D9%88%D9%8A%D8%AC_%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A_%D9%84%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC_%D8%A3%D9%8A%D9%86_%D8%A7MP3_160K.mp3",
-                "audio_download_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level1/step/_%D9%85%D9%80%D9%8A%D9%80%D9%84%D8%A7%D8%AF%D9%8C_%D8%AC%D9%80%D8%AF%D9%8A%D9%80%D8%AF_%D8%A7%D9%84%D8%AA%D8%B1%D9%88%D9%8A%D8%AC_%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A_%D9%84%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC_%D8%A3%D9%8A%D9%86_%D8%A7MP3_160K.mp3"
+                "audio_title": "المؤهلات الشخصية للإنسان الخارج من الظلمات",
+                "audio_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level2/step2/1_01_%D8%A7%D9%84%D9%85%D8%A4%D9%87%D9%84%D8%A7%D8%AA_%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9_%D9%84%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86_%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC_%D9%85%D9%86_%D8%A7%D9%84%D8%B8%D9%84%D9%85%D8%A7%D8%AA_%D8%A7%D9%84%D8%AE%D8%B7%D9%88%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC.mp3",
+                "audio_download_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level2/step2/1_01_%D8%A7%D9%84%D9%85%D8%A4%D9%87%D9%84%D8%A7%D8%AA_%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9_%D9%84%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86_%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC_%D9%85%D9%86_%D8%A7%D9%84%D8%B8%D9%84%D9%85%D8%A7%D8%AA_%D8%A7%D9%84%D8%AE%D8%B7%D9%88%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC.mp3"
             },
             {
-                "audio_title": "السلوك الى الله ليس عشوائيا ولكنه طريق له خطوات",
-                "audio_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level1/step/_%D8%A7%D9%84%D8%B3%D9%84%D9%88%D9%83_%D8%A5%D9%84%D9%89_%D8%A7%D9%84%D9%84%D9%87_%D9%84%D9%8A%D8%B3_%D8%B9%D8%B4%D9%88%D8%A7%D8%A6%D9%8A%D8%A7_%D9%88%D9%84%D9%83%D9%86%D9%87_%D8%B7%D8%B1%D9%8A%D9%82_%D9%84%D9%87_%D8%AE%D8%B7%D9%88%D8%A7%D8%AAMP3_128K.mp3",
-                "audio_download_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level1/step/_%D8%A7%D9%84%D8%B3%D9%84%D9%88%D9%83_%D8%A5%D9%84%D9%89_%D8%A7%D9%84%D9%84%D9%87_%D9%84%D9%8A%D8%B3_%D8%B9%D8%B4%D9%88%D8%A7%D8%A6%D9%8A%D8%A7_%D9%88%D9%84%D9%83%D9%86%D9%87_%D8%B7%D8%B1%D9%8A%D9%82_%D9%84%D9%87_%D8%AE%D8%B7%D9%88%D8%A7%D8%AAMP3_128K.mp3"
-            },
-            {
-                "audio_title": "ماذا سنتعلم في برنامج أين الطريق؟",
-                "audio_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level1/step/_%D9%85%D8%A7%D8%B0%D8%A7_%D8%B3%D9%86%D8%AA%D8%B9%D9%84%D9%85_%D9%81%D9%8A_%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC_%D8%A3%D9%8A%D9%86_%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82_%D8%9FMP3_128K.mp3",
-                "audio_download_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level1/step/_%D9%85%D8%A7%D8%B0%D8%A7_%D8%B3%D9%86%D8%AA%D8%B9%D9%84%D9%85_%D9%81%D9%8A_%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC_%D8%A3%D9%8A%D9%86_%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82_%D8%9FMP3_128K.mp3"
-            },
-            {
-                "audio_title": "الفرق بين معرفة الطريق ومكابدة الطريق",
-                "audio_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level1/step/_%D8%A7%D9%84%D9%81%D8%B1%D9%82_%D8%A8%D9%8A%D9%86_%D9%85%D8%B9%D8%B1%D9%81%D8%A9_%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82_%D9%88%D9%85%D9%83%D8%A7%D8%A8%D8%AF%D8%A9_%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82_%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%ACMP3_128K.mp3",
-                "audio_download_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level1/step/_%D8%A7%D9%84%D9%81%D8%B1%D9%82_%D8%A8%D9%8A%D9%86_%D9%85%D8%B9%D8%B1%D9%81%D8%A9_%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82_%D9%88%D9%85%D9%83%D8%A7%D8%A8%D8%AF%D8%A9_%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82_%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%ACMP3_128K.mp3"
-            },
-            {
-                "audio_title": "كيف تم ترتيب خطوات إخراج الناس من الظلمات إلى النور",
-                "audio_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level1/step/_%D9%83%D9%8A%D9%81_%D8%AA%D9%85_%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8_%D8%AE%D8%B7%D9%88%D8%A7%D8%AA_%D8%A5%D8%AE%D8%B1%D8%A7%D8%AC_%D8%A7%D9%84%D9%86%D8%A7%D8%B3_%D9%85%D9%86_%D8%A7%D9%84%D8%B8%D9%84%D9%85%D8%A7%D8%AA_%D8%A5%D9%84%D9%89_%D8%A7MP3_128K.mp3",
-                "audio_download_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level1/step/_%D9%83%D9%8A%D9%81_%D8%AA%D9%85_%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8_%D8%AE%D8%B7%D9%88%D8%A7%D8%AA_%D8%A5%D8%AE%D8%B1%D8%A7%D8%AC_%D8%A7%D9%84%D9%86%D8%A7%D8%B3_%D9%85%D9%86_%D8%A7%D9%84%D8%B8%D9%84%D9%85%D8%A7%D8%AA_%D8%A5%D9%84%D9%89_%D8%A7MP3_128K.mp3"
-            },
-            {
-                "audio_title": "عاطفة التجمع على دعوة رسول الله ﷺ",
-                "audio_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level1/step/%D8%B9%D8%A7%D8%B7%D9%81%D8%A9_%D8%A7%D9%84%D8%AA%D8%AC%D9%85%D8%B9_%D8%B9%D9%84%D9%89_%D8%AF%D8%B9%D9%88%D8%A9_%D8%B1%D8%B3%D9%88%D9%84_%D8%A7%D9%84%D9%84%D9%87_%EF%B7%BA_%D8%A7%D9%84%D8%AF%D9%81%D8%B9%D8%A9_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9_%D9%85%D9%86_%D8%A8%D8%B1%D9%86_EaS83OgeUic.mp3",
-                "audio_download_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level1/step/%D8%B9%D8%A7%D8%B7%D9%81%D8%A9_%D8%A7%D9%84%D8%AA%D8%AC%D9%85%D8%B9_%D8%B9%D9%84%D9%89_%D8%AF%D8%B9%D9%88%D8%A9_%D8%B1%D8%B3%D9%88%D9%84_%D8%A7%D9%84%D9%84%D9%87_%EF%B7%BA_%D8%A7%D9%84%D8%AF%D9%81%D8%B9%D8%A9_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9_%D9%85%D9%86_%D8%A8%D8%B1%D9%86_EaS83OgeUic.mp3"
-            },
-            {
-                "audio_title": "هدف البرنامج هو صناعة النواة التي تنشأ عليها أمة مستقلة",
-                "audio_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level1/step/%D9%87%D8%AF%D9%81_%D8%A7%D9%84%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC_%D9%87%D9%88_%D8%B5%D9%86%D8%A7%D8%B9%D8%A9_%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A9_%D8%A7%D9%84%D8%AA%D9%8A_%D8%AA%D9%86%D8%B4%D8%A3_%D8%B9%D9%84%D9%8A%D9%87%D8%A7_%D8%A3%D9%85%D8%A9_%D9%85%D8%B3%D8%AA%D9%82%D9%84%D8%A9_iXv7HMmB8u0.mp3",
-                "audio_download_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level1/step/%D9%87%D8%AF%D9%81_%D8%A7%D9%84%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC_%D9%87%D9%88_%D8%B5%D9%86%D8%A7%D8%B9%D8%A9_%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A9_%D8%A7%D9%84%D8%AA%D9%8A_%D8%AA%D9%86%D8%B4%D8%A3_%D8%B9%D9%84%D9%8A%D9%87%D8%A7_%D8%A3%D9%85%D8%A9_%D9%85%D8%B3%D8%AA%D9%82%D9%84%D8%A9_iXv7HMmB8u0.mp3"
-            },
-            {
-                "audio_title": "ما أهمية برنامج أين الطريق؟",
-                "audio_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level1/step/_%D9%85%D8%A7_%D8%A2%D9%87%D9%85%D9%8A%D8%A9_%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC_%D8%A3%D9%8A%D9%86_%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82_bE4pCUcdN6U_140.mp3",
-                "audio_download_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level1/step/_%D9%85%D8%A7_%D8%A2%D9%87%D9%85%D9%8A%D8%A9_%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC_%D8%A3%D9%8A%D9%86_%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82_bE4pCUcdN6U_140.mp3"
+                "audio_title": "شخصية الإنسان وأخلاقه هي مفتاح وصوله إلى الله",
+                "audio_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level2/step2/02_%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9_%D8%A7%D9%84%D8%A7%D9%95%D9%86%D8%B3%D8%A7%D9%86_%D9%88%D8%A7%D9%94%D8%AE%D9%84%D8%A7%D9%82%D9%87_%D9%87%D9%8A_%D9%85%D9%81%D8%AA%D8%A7%D8%AD_%D9%88%D8%B5%D9%88%D9%84%D9%87_%D8%A7%D9%95%D9%84%D9%89_%D8%A7%D9%84%D9%84%D9%87_MP3_128K_1.mp3",
+                "audio_download_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level2/step2/02_%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9_%D8%A7%D9%84%D8%A7%D9%95%D9%86%D8%B3%D8%A7%D9%86_%D9%88%D8%A7%D9%94%D8%AE%D9%84%D8%A7%D9%82%D9%87_%D9%87%D9%8A_%D9%85%D9%81%D8%AA%D8%A7%D8%AD_%D9%88%D8%B5%D9%88%D9%84%D9%87_%D8%A7%D9%95%D9%84%D9%89_%D8%A7%D9%84%D9%84%D9%87_MP3_128K_1.mp3"
             }
         ]
     },
@@ -101,8 +41,8 @@
         "title": "تفريغ الخطوة",
         "tafrigh": [
             {
-                "tafrigh_title": "تفريغ خطوة الإستعداد",
-                "tafrigh_url": "https://drive.google.com/file/d/1_5uYRpqJAiZ64cAJiNme_MVwcX7DV9o9/view"
+                "tafrigh_title": "تفريغ الخطوة الثانية",
+                "tafrigh_url": "https://drive.google.com/file/d/16b9deK4s7jmootutVB7l9eFvu9urRHNB/view"
             }
         ]
     }
