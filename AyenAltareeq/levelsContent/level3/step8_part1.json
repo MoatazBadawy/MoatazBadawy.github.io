@@ -2,21 +2,21 @@
     "step_title": "الخطوة الثامنة (1)",
 
     "step_quote": {
-        "quote": ""
+        "quote": "الطريق إلى الله أشرف الطُرق، والسير فيه أعظم مسير، والسائرون عليه أكرم خلق الله على الله."
     },
 
     "material_videos": {
         "title": "المحتوى مرئي",
         "videos": [
             {
-                "video_time": "1:07:18",
-                "video_id": "AVSHwcJ-dJs",
-                "video_title": "المؤهلات الشخصية للإنسان الخارج من الظلمات"
+                "video_time": "1:09:09",
+                "video_id": "t8FwsoTdcQU",
+                "video_title": "طبيعة العلاقة بين المؤمنين - الجزء الأول"
             },
             {
-                "video_time": "32:36",
-                "video_id": "LzMIXTLMciY",
-                "video_title": "شخصية الإنسان وأخلاقه هي مفتاح وصوله إلى الله"
+                "video_time": "1:04:04",
+                "video_id": "rD45s_GZM6Y",
+                "video_title": "طبيعة العلاقة بين المؤمنين - الجزء الثاني"
             }
         ]
     },
@@ -25,14 +25,14 @@
         "title": "المحتوى صوتي",
         "audios": [
             {
-                "audio_title": "المؤهلات الشخصية للإنسان الخارج من الظلمات",
-                "audio_url": "",
-                "audio_download_url": ""
+                "audio_title": "طبيعة العلاقة بين المؤمنين - الجزء الأول",
+                "audio_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level3/step8-1/1_01_%D8%B7%D8%A8%D9%8A%D8%B9%D8%A9_%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A9_%D8%A8%D9%8A%D9%86_%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%8A%D9%86_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%A3%D9%88%D9%84_%D8%A7%D9%84%D8%AE%D8%B7%D9%88%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86%D8%A9_%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC.mp3",
+                "audio_download_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level3/step8-1/1_01_%D8%B7%D8%A8%D9%8A%D8%B9%D8%A9_%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A9_%D8%A8%D9%8A%D9%86_%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%8A%D9%86_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%A3%D9%88%D9%84_%D8%A7%D9%84%D8%AE%D8%B7%D9%88%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86%D8%A9_%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC.mp3"
             },
             {
-                "audio_title": "شخصية الإنسان وأخلاقه هي مفتاح وصوله إلى الله",
-                "audio_url": "",
-                "audio_download_url": ""
+                "audio_title": "طبيعة العلاقة بين المؤمنين - الجزء الثاني",
+                "audio_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level3/step8-1/2_02_%D8%B7%D8%A8%D9%8A%D8%B9%D8%A9_%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A9_%D8%A8%D9%8A%D9%86_%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%8A%D9%86_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%D8%A7%D9%84%D8%AE%D8%B7%D9%88%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86%D8%A9_%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC.mp3",
+                "audio_download_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level3/step8-1/2_02_%D8%B7%D8%A8%D9%8A%D8%B9%D8%A9_%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A9_%D8%A8%D9%8A%D9%86_%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%8A%D9%86_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%D8%A7%D9%84%D8%AE%D8%B7%D9%88%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86%D8%A9_%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC.mp3"
             }
         ]
     },
@@ -41,8 +41,8 @@
         "title": "تفريغ الخطوة",
         "tafrigh": [
             {
-                "tafrigh_title": "تفريغ خطوة الثانية",
-                "tafrigh_url": ""
+                "tafrigh_title": "تفريغ الخطوة الثامنة",
+                "tafrigh_url": "https://drive.google.com/file/d/1GrofVCl_w-U5LHew2DAFTth4ee6mhxir/view"
             }
         ]
     }

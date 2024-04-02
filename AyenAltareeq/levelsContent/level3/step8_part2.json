@@ -2,21 +2,21 @@
     "step_title": "الخطوة الثامنة (2)",
 
     "step_quote": {
-        "quote": ""
+        "quote": "هنيئا للثابتين الصادقين حقًا في مساعيهم، فاختبار الصدق إنما يكون باختبار الثبات.."
     },
 
     "material_videos": {
         "title": "المحتوى مرئي",
         "videos": [
             {
-                "video_time": "1:07:18",
-                "video_id": "AVSHwcJ-dJs",
-                "video_title": "المؤهلات الشخصية للإنسان الخارج من الظلمات"
+                "video_time": "1:05:06",
+                "video_id": "crnFDhqjWqw",
+                "video_title": "العوائق النفسية والاجتماعية المانعة من وحدة المؤمنين"
             },
             {
-                "video_time": "32:36",
-                "video_id": "LzMIXTLMciY",
-                "video_title": "شخصية الإنسان وأخلاقه هي مفتاح وصوله إلى الله"
+                "video_time": "48:57",
+                "video_id": "fR7qm3hpqeI",
+                "video_title": "إدارة العلاقات بين رابطة الإسلام والروابط الأخرى (الوطنية والقبلية والمؤسسية)"
             }
         ]
     },
@@ -25,14 +25,14 @@
         "title": "المحتوى صوتي",
         "audios": [
             {
-                "audio_title": "المؤهلات الشخصية للإنسان الخارج من الظلمات",
-                "audio_url": "",
-                "audio_download_url": ""
+                "audio_title": "العوائق النفسية والاجتماعية المانعة من وحدة المؤمنين",
+                "audio_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level3/step8-2/3_03_%D8%A7%D9%84%D8%B9%D9%88%D8%A7%D8%A6%D9%82_%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D8%A7%D9%86%D8%B9%D8%A9_%D9%85%D9%86_%D9%88%D8%AD%D8%AF%D8%A9_%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%8A%D9%86_%D8%A7%D9%84%D8%AE%D8%B7%D9%88%D8%A9.mp3",
+                "audio_download_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level3/step8-2/3_03_%D8%A7%D9%84%D8%B9%D9%88%D8%A7%D8%A6%D9%82_%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D8%A7%D9%86%D8%B9%D8%A9_%D9%85%D9%86_%D9%88%D8%AD%D8%AF%D8%A9_%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%8A%D9%86_%D8%A7%D9%84%D8%AE%D8%B7%D9%88%D8%A9.mp3"
             },
             {
-                "audio_title": "شخصية الإنسان وأخلاقه هي مفتاح وصوله إلى الله",
-                "audio_url": "",
-                "audio_download_url": ""
+                "audio_title": "إدارة العلاقات بين رابطة الإسلام والروابط الأخرى (الوطنية والقبلية والمؤسسية)",
+                "audio_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level3/step8-2/04_%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9_%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA_%D8%A8%D9%8A%D9%86_%D8%B1%D8%A7%D8%A8%D8%B7%D8%A9_%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85_%D9%88%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A8%D8%B7_%D8%A7%D9%84%D8%A3%D8%AE%D8%B1MP3_128K.mp3",
+                "audio_download_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level3/step8-2/04_%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9_%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA_%D8%A8%D9%8A%D9%86_%D8%B1%D8%A7%D8%A8%D8%B7%D8%A9_%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85_%D9%88%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A8%D8%B7_%D8%A7%D9%84%D8%A3%D8%AE%D8%B1MP3_128K.mp3"
             }
         ]
     },
@@ -41,8 +41,8 @@
         "title": "تفريغ الخطوة",
         "tafrigh": [
             {
-                "tafrigh_title": "تفريغ خطوة الثانية",
-                "tafrigh_url": ""
+                "tafrigh_title": "تفريغ الخطوة الثامنة",
+                "tafrigh_url": "https://drive.google.com/file/d/1GrofVCl_w-U5LHew2DAFTth4ee6mhxir/view"
             }
         ]
     }
