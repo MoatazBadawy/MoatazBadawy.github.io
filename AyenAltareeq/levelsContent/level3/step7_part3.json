@@ -9,14 +9,14 @@
         "title": "المحتوى مرئي",
         "videos": [
             {
-                "video_time": "1:07:18",
-                "video_id": "AVSHwcJ-dJs",
-                "video_title": "المؤهلات الشخصية للإنسان الخارج من الظلمات"
+                "video_time": "25:21",
+                "video_id": "2owCCQ1G6fw",
+                "video_title": "المعالجة النفسية للإحباطات"
             },
             {
-                "video_time": "32:36",
-                "video_id": "LzMIXTLMciY",
-                "video_title": "شخصية الإنسان وأخلاقه هي مفتاح وصوله إلى الله"
+                "video_time": "50:54",
+                "video_id": "b3o3GXM12sA",
+                "video_title": "معالجة الإحباطات بالعمل - الجزء الأول"
             }
         ]
     },
@@ -25,14 +25,14 @@
         "title": "المحتوى صوتي",
         "audios": [
             {
-                "audio_title": "المؤهلات الشخصية للإنسان الخارج من الظلمات",
-                "audio_url": "",
-                "audio_download_url": ""
+                "audio_title": "المعالجة النفسية للإحباطات",
+                "audio_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level3/step7-3/08_%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9_%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9_%D9%84%D9%84%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7%D8%A7%D8%AA_%D8%A7%D9%84%D8%AE%D8%B7%D9%88%D8%A9_%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9%D8%A9_%D8%A8MP3_128K.mp3",
+                "audio_download_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level3/step7-3/08_%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9_%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9_%D9%84%D9%84%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7%D8%A7%D8%AA_%D8%A7%D9%84%D8%AE%D8%B7%D9%88%D8%A9_%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9%D8%A9_%D8%A8MP3_128K.mp3"
             },
             {
-                "audio_title": "شخصية الإنسان وأخلاقه هي مفتاح وصوله إلى الله",
-                "audio_url": "",
-                "audio_download_url": ""
+                "audio_title": "معالجة الإحباطات بالعمل - الجزء الأول",
+                "audio_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level3/step7-3/09_%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9_%D8%A7%D9%84%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7%D8%A7%D8%AA_%D8%A8%D8%A7%D9%84%D8%B9%D9%85%D9%84_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%A3%D9%88%D9%84_%D8%A7%D9%84%D8%AE%D8%B7%D9%88%D8%A9MP3_128K.mp3",
+                "audio_download_url": "https://github.com/Altareeqtech/audioseltareeq/raw/main/level3/step7-3/09_%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9_%D8%A7%D9%84%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7%D8%A7%D8%AA_%D8%A8%D8%A7%D9%84%D8%B9%D9%85%D9%84_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%A3%D9%88%D9%84_%D8%A7%D9%84%D8%AE%D8%B7%D9%88%D8%A9MP3_128K.mp3"
             }
         ]
     },
@@ -41,8 +41,8 @@
         "title": "تفريغ الخطوة",
         "tafrigh": [
             {
-                "tafrigh_title": "تفريغ خطوة الثانية",
-                "tafrigh_url": ""
+                "tafrigh_title": "تفريغ الخطوة السابعة",
+                "tafrigh_url": "https://drive.google.com/file/d/1qg9nRPgLMBssrvh6J1epc4VGrul8M0z7/view"
             }
         ]
     }
