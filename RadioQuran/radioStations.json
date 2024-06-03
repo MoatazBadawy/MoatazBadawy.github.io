@@ -32,9 +32,9 @@
         "category": "editorsChoice"
     },
     {
-        "id": 5,
-        "name": "القرآن الكريم\n علي جابر",
-        "url": "https://backup.qurango.net/radio/ali_jaber",
+        "id": 10,
+        "name": "القرآن الكريم\n المنشاوي مجود",
+        "url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad",
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
         "category": "quran"
@@ -42,7 +42,15 @@
     {
         "id": 6,
         "name": "القرآن الكريم\n محمد أيوب",
-        "url": "https://backup.qurango.net/radio/ayyoub2",
+        "url": "https://backup.qurango.net/radio/ayyoub",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran"
+    },
+    {
+        "id": 5,
+        "name": "القرآن الكريم\n علي جابر",
+        "url": "https://backup.qurango.net/radio/ali_jaber",
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
         "category": "quran"
@@ -67,14 +75,6 @@
         "id": 9,
         "name": "القرآن الكريم\n المنشاوي مرتل",
         "url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi",
-        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
-        "description": "LIVE",
-        "category": "quran"
-    },
-    {
-        "id": 10,
-        "name": "القرآن الكريم\n المنشاوي مجود",
-        "url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad",
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
         "category": "quran"
@@ -110,5 +110,53 @@
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
         "category": "quran"
+    },
+    {
+        "id": 17,
+        "name": "مختصر تفسير \n القرآن الكريم",
+        "url": "https://backup.qurango.net/radio/mukhtasartafsir",
+        "image": "https://seeklogo.com/images/I/islamic-logo-78B61C4DA3-seeklogo.com.png",
+        "description": "LIVE",
+        "category": "more"
+    },
+    {
+        "id": 18,
+        "name": "تفسير الطربي \n القرآن الكريم",
+        "url": "https://backup.qurango.net/radio/tabri",
+        "image": "https://seeklogo.com/images/I/islamic-logo-78B61C4DA3-seeklogo.com.png",
+        "description": "LIVE",
+        "category": "more"
+    },
+    {
+        "id": 15,
+        "name": "تكبيرات العيد",
+        "url": "https://backup.qurango.net/radio/eid",
+        "image": "https://seeklogo.com/images/I/islamic-logo-78B61C4DA3-seeklogo.com.png",
+        "description": "LIVE",
+        "category": "more"
+    },
+    {
+        "id": 16,
+        "name": "الرقية الشرعية",
+        "url": "https://backup.qurango.net/radio/roqiah",
+        "image": "https://seeklogo.com/images/I/islamic-logo-78B61C4DA3-seeklogo.com.png",
+        "description": "LIVE",
+        "category": "more"
+    },
+    {
+        "id": 19,
+        "name": "أذكار الصباح",
+        "url": "https://backup.qurango.net/radio/athkar_sabah",
+        "image": "https://seeklogo.com/images/I/islamic-logo-78B61C4DA3-seeklogo.com.png",
+        "description": "LIVE",
+        "category": "more"
+    },
+    {
+        "id": 20,
+        "name": "أذكار المساء",
+        "url": "https://backup.qurango.net/radio/athkar_masa",
+        "image": "https://seeklogo.com/images/I/islamic-logo-78B61C4DA3-seeklogo.com.png",
+        "description": "LIVE",
+        "category": "more"
     }
 ]
