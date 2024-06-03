@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "القرآن الكريم\n من البحرين",
+        "url": "https://5c7b683162943.streamlock.net:443/live/ngrp:radio-106-1_all/playlist.m3u8",
+        "image": "https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/bahrain/flag-round-250.png",
+        "description": "106.1FM",
+        "category": "editorsChoice"
+    },
+    {
+        "id": 2,
+        "name": "القرآن الكريم\n من القاهرة",
+        "url": "https://n10.radiojar.com/8s5u5tpdtwzuv?rj-ttl=5&rj-tok=AAABj9vhj4oArA0HvsDMCh52UQ",
+        "image": "https://play-lh.googleusercontent.com/QuVFM8a1DJFaLb3M0iHjgylkrS0ddvpBzDSHOGxs7YzqAFIHeXJwZ53aX7SaMImmA30",
+        "description": "This is a description for Radio Station 2",
+        "category": "editorsChoice"
+    },
+    {
+        "id": 3,
+        "name": "القرآن الكريم\n من السعودية",
+        "url": "https://n13.radiojar.com/4wqre23fytzuv?rj-ttl=5&rj-tok=AAABj9u6ousAhS1ISEodbmzrOw",
+        "image": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",
+        "description": "This is a description for Radio Station 3",
+        "category": "editorsChoice"
+    },
+    {
+        "id": 4,
+        "name": "القرآن الكريم\n من الشارقة",
+        "url": "https://svs.itworkscdn.net/smcquranlive/quranradiolive/playlist.m3u8",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8XMtpbvPbq9cS9F2kaLp5oOYJWeckbBgTXD7PIgEEzwr1fmpvfLD2FgP9T_oWXzhYwvlTRbFW43-K6lOW88bEJ4EMEDLanLi4bREv9sKQHpnmQ79hOxRtPCKsc3s8SYHuDsGIZMDIHX0/s1600/539798_ico.png",
+        "description": "This is a description for Radio Station 3",
+        "category": "editorsChoice"
+    }
+]
