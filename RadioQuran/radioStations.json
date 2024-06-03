@@ -112,23 +112,23 @@
         "category": "quran"
     },
     {
-        "id": 17,
-        "name": "مختصر تفسير \n القرآن الكريم",
+        "id": 16,
+        "name": "المختصر في \n تفسير القرآن",
         "url": "https://backup.qurango.net/radio/mukhtasartafsir",
         "image": "https://seeklogo.com/images/I/islamic-logo-78B61C4DA3-seeklogo.com.png",
         "description": "LIVE",
         "category": "more"
     },
     {
-        "id": 18,
-        "name": "تفسير الطربي \n القرآن الكريم",
+        "id": 16,
+        "name": "تفسير الطبري \n في القرآن",
         "url": "https://backup.qurango.net/radio/tabri",
         "image": "https://seeklogo.com/images/I/islamic-logo-78B61C4DA3-seeklogo.com.png",
         "description": "LIVE",
         "category": "more"
     },
     {
-        "id": 15,
+        "id": 19,
         "name": "تكبيرات العيد",
         "url": "https://backup.qurango.net/radio/eid",
         "image": "https://seeklogo.com/images/I/islamic-logo-78B61C4DA3-seeklogo.com.png",
@@ -136,7 +136,7 @@
         "category": "more"
     },
     {
-        "id": 16,
+        "id": 18,
         "name": "الرقية الشرعية",
         "url": "https://backup.qurango.net/radio/roqiah",
         "image": "https://seeklogo.com/images/I/islamic-logo-78B61C4DA3-seeklogo.com.png",
