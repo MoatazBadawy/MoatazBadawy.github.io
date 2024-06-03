@@ -1,7 +1,8 @@
 [
     {
         "id": 1,
-        "name": "إذاعة القرآن\n من البحرين",
+        "name": "إذاعة القرآن\nمن البحرين",
+        "uniq_name": "bahrain",
         "url": "https://5c7b683162943.streamlock.net:443/live/ngrp:radio-106-1_all/playlist.m3u8",
         "image": "https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/bahrain/flag-round-250.png",
         "description": "106.1FM",
@@ -9,7 +10,8 @@
     },
     {
         "id": 2,
-        "name": "إذاعة القرآن\n من السعودية",
+        "name": "إذاعة القرآن\nمن السعودية",
+        "uniq_name": "saudi",
         "url": "https://win.holol.com/live/quran/playlist.m3u8",
         "image": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",
         "description": "96.8FM",
@@ -17,7 +19,8 @@
     },
     {
         "id": 3,
-        "name": "إذاعة القرآن\n من الشارقة",
+        "name": "إذاعة القرآن\nمن الشارقة",
+        "uniq_name": "sahreqa",
         "url": "https://svs.itworkscdn.net/smcquranlive/quranradiolive/playlist.m3u8",
         "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8XMtpbvPbq9cS9F2kaLp5oOYJWeckbBgTXD7PIgEEzwr1fmpvfLD2FgP9T_oWXzhYwvlTRbFW43-K6lOW88bEJ4EMEDLanLi4bREv9sKQHpnmQ79hOxRtPCKsc3s8SYHuDsGIZMDIHX0/s1600/539798_ico.png",
         "description": "102.7FM",
@@ -25,7 +28,8 @@
     },
     {
         "id": 4,
-        "name": "السنة النبوية\n من المدينة",
+        "name": "السنة النبوية\nمن المدينة",
+        "uniq_name": "madeena",
         "url": "https://win.holol.com/live/sunnah/playlist.m3u8",
         "image": "https://upload.wikimedia.org/wikipedia/ar/e/e9/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B3%D9%86%D8%A9_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9.png",
         "description": "100FM",
@@ -33,7 +37,8 @@
     },
     {
         "id": 5,
-        "name": "القرآن الكريم\n المنشاوي مجود",
+        "name": "القرآن الكريم\nالمنشاوي مجود",
+        "uniq_name": "menshaweMegawad",
         "url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad",
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
@@ -42,6 +47,7 @@
     {
         "id": 6,
         "name": "القرآن الكريم\n محمد أيوب",
+        "uniq_name": "quyoob",
         "url": "https://backup.qurango.net/radio/mohammed_ayyub",
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
@@ -50,6 +56,7 @@
     {
         "id": 7,
         "name": "القرآن الكريم\n علي جابر",
+        "uniq_name": "ghaper",
         "url": "https://backup.qurango.net/radio/ali_jaber",
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
@@ -57,7 +64,8 @@
     },
     {
         "id": 8,
-        "name": "القرآن الكريم\n عبدالباسط",
+        "name": "القرآن الكريم\nعبدالباسط",
+        "uniq_name": "abdulbasit",
         "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad",
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
@@ -65,7 +73,8 @@
     },
     {
         "id": 9,
-        "name": "القرآن الكريم\n علي الحذيفي",
+        "name": "القرآن الكريم\nعلي الحذيفي",
+        "uniq_name": "hozaifwei",
         "url": "https://backup.qurango.net/radio/ali_alhuthaifi_qalon",
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
@@ -73,7 +82,8 @@
     },
     {
         "id": 10,
-        "name": "القرآن الكريم\n المنشاوي مرتل",
+        "name": "القرآن الكريم\nالمنشاوي مرتل",
+        "uniq_name": "menshaweTarteel",
         "url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi",
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
@@ -82,6 +92,7 @@
     {
         "id": 11,
         "name": "القرآن الكريم\n البنا مرتل",
+        "uniq_name": "banaaTarteel",
         "url": "https://backup.qurango.net/radio/mahmoud_ali__albanna",
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
@@ -89,7 +100,8 @@
     },
     {
         "id": 12,
-        "name": "القرآن الكريم\n البنا مجود",
+        "name": "القرآن الكريم\nالبنا مجود",
+        "uniq_name": "banaaMegawad",
         "url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_mojawwad",
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
@@ -97,7 +109,8 @@
     },
     {
         "id": 13,
-        "name": "القرآن الكريم\n محمد الطبلاوي",
+        "name": "القرآن الكريم\nمحمد الطبلاوي",
+        "uniq_name": "tablawe",
         "url": "https://backup.qurango.net/radio/mohammad_altablaway",
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
@@ -106,6 +119,7 @@
     {
         "id": 14,
         "name": "القرآن الكريم\n إدريس أبكر",
+        "uniq_name": "edries",
         "url": "https://backup.qurango.net/radio/idrees_abkr",
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
@@ -114,6 +128,7 @@
     {
         "id": 15,
         "name": "المختصر في \n تفسير القرآن",
+        "uniq_name": "tafseerMoktaser",
         "url": "https://backup.qurango.net/radio/mukhtasartafsir",
         "image": "https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg",
         "description": "LIVE",
@@ -122,6 +137,7 @@
     {
         "id": 16,
         "name": "تفسير الطبري \n في القرآن",
+        "uniq_name": "tafseerTabre",
         "url": "https://backup.qurango.net/radio/tabri",
         "image": "https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg",
         "description": "LIVE",
@@ -130,6 +146,7 @@
     {
         "id": 17,
         "name": "تكبيرات العيد",
+        "uniq_name": "eid",
         "url": "https://backup.qurango.net/radio/eid",
         "image": "https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg",
         "description": "LIVE",
@@ -138,6 +155,7 @@
     {
         "id": 18,
         "name": "الرقية الشرعية",
+        "uniq_name": "roqya",
         "url": "https://backup.qurango.net/radio/roqiah",
         "image": "https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg",
         "description": "LIVE",
@@ -146,6 +164,7 @@
     {
         "id": 19,
         "name": "أذكار الصباح",
+        "uniq_name": "azkarMorning",
         "url": "https://backup.qurango.net/radio/athkar_sabah",
         "image": "https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg",
         "description": "LIVE",
@@ -154,6 +173,7 @@
     {
         "id": 20,
         "name": "أذكار المساء",
+        "uniq_name": "azkarNight",
         "url": "https://backup.qurango.net/radio/athkar_masa",
         "image": "https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg",
         "description": "LIVE",
