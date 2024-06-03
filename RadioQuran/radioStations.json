@@ -30,5 +30,85 @@
         "image": "https://upload.wikimedia.org/wikipedia/ar/e/e9/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B3%D9%86%D8%A9_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9.png",
         "description": "0FM",
         "category": "editorsChoice"
+    },
+    {
+        "id": 5,
+        "name": "القرآن الكريم\n علي جابر",
+        "url": "https://backup.qurango.net/radio/ali_jaber",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran"
+    },
+    {
+        "id": 6,
+        "name": "القرآن الكريم\n محمد أيوب",
+        "url": "https://backup.qurango.net/radio/ayyoub2",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran"
+    },
+    {
+        "id": 7,
+        "name": "القرآن الكريم\n عبدالباسط عبدالصمد",
+        "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran"
+    },
+    {
+        "id": 8,
+        "name": "القرآن الكريم\n علي الحذيفي",
+        "url": "https://backup.qurango.net/radio/ali_alhuthaifi_qalon",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran"
+    },
+    {
+        "id": 9,
+        "name": "القرآن الكريم\n المنشاوي مرتل",
+        "url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran"
+    },
+    {
+        "id": 10,
+        "name": "القرآن الكريم\n المنشاوي مجود",
+        "url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran"
+    },
+    {
+        "id": 11,
+        "name": "القرآن الكريم\n البنا مرتل",
+        "url": "https://backup.qurango.net/radio/mahmoud_ali__albanna",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran"
+    },
+    {
+        "id": 12,
+        "name": "القرآن الكريم\n البنا مجود",
+        "url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_mojawwad",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran"
+    },
+    {
+        "id": 13,
+        "name": "القرآن الكريم\n محمد الطبلاوي",
+        "url": "https://backup.qurango.net/radio/mohammad_altablaway",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran"
+    },
+    {
+        "id": 14,
+        "name": "القرآن الكريم\n إدريس أبكر",
+        "url": "https://backup.qurango.net/radio/idrees_abkr",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran"
     }
 ]
