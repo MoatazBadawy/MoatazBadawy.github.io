@@ -56,7 +56,7 @@
     },
     {
         "id": 6,
-        "name": "القرآن الكريم\n محمد أيوب",
+        "name": "القرآن الكريم\nمحمد أيوب",
         "uniqueName": "quyoob",
         "url": "https://backup.qurango.net/radio/mohammed_ayyub",
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
@@ -67,7 +67,7 @@
     },
     {
         "id": 7,
-        "name": "القرآن الكريم\n علي جابر",
+        "name": "القرآن الكريم\nعلي جابر",
         "uniqueName": "ghaper",
         "url": "https://backup.qurango.net/radio/ali_jaber",
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
@@ -111,7 +111,7 @@
     },
     {
         "id": 11,
-        "name": "القرآن الكريم\n البنا مرتل",
+        "name": "القرآن الكريم\nالبنا مرتل",
         "uniqueName": "banaaTarteel",
         "url": "https://backup.qurango.net/radio/mahmoud_ali__albanna",
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
@@ -144,7 +144,7 @@
     },
     {
         "id": 14,
-        "name": "القرآن الكريم\n إدريس أبكر",
+        "name": "القرآن الكريم\nإدريس أبكر",
         "uniqueName": "edries",
         "url": "https://backup.qurango.net/radio/idrees_abkr",
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
@@ -155,7 +155,7 @@
     },
     {
         "id": 15,
-        "name": "المختصر في \n تفسير القرآن",
+        "name": "المختصر في \nتفسير القرآن",
         "uniqueName": "tafseerMoktaser",
         "url": "https://backup.qurango.net/radio/mukhtasartafsir",
         "image": "https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg",
@@ -166,7 +166,7 @@
     },
     {
         "id": 16,
-        "name": "تفسير الطبري \n في القرآن",
+        "name": "تفسير الطبري \nفي القرآن",
         "uniqueName": "tafseerTabre",
         "url": "https://backup.qurango.net/radio/tabri",
         "image": "https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg",
