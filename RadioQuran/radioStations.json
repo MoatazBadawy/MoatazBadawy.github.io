@@ -7,7 +7,7 @@
         "image": "https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/bahrain/flag-round-250.png",
         "description": "106.1FM",
         "category": "editorsChoice",
-        "sharingDescription": "إذاعة القرآن الكريم من البحرين"
+        "fullDescription": "إذاعة القرآن الكريم من البحرين"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "image": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",
         "description": "96.8FM",
         "category": "editorsChoice",
-        "sharingDescription": "إذاعة القرآن الكريم من السعودية"
+        "fullDescription": "إذاعة القرآن الكريم من السعودية"
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
         "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8XMtpbvPbq9cS9F2kaLp5oOYJWeckbBgTXD7PIgEEzwr1fmpvfLD2FgP9T_oWXzhYwvlTRbFW43-K6lOW88bEJ4EMEDLanLi4bREv9sKQHpnmQ79hOxRtPCKsc3s8SYHuDsGIZMDIHX0/s1600/539798_ico.png",
         "description": "102.7FM",
         "category": "editorsChoice",
-        "sharingDescription": "إذاعة القرآن الكريم من الشارقة"
+        "fullDescription": "إذاعة القرآن الكريم من الشارقة"
     },
     {
         "id": 4,
@@ -37,7 +37,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/ar/e/e9/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B3%D9%86%D8%A9_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9.png",
         "description": "100FM",
         "category": "editorsChoice",
-        "sharingDescription": "إذاعة السنة النبوية من المدينة المنورة"
+        "fullDescription": "إذاعة السنة النبوية من المدينة المنورة"
     },
     {
         "id": 5,
@@ -47,7 +47,7 @@
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
         "category": "quran",
-        "sharingDescription": "القرآن الكريم للشيخ محمد صديق المنشاوي مجود"
+        "fullDescription": "القرآن الكريم للشيخ محمد صديق المنشاوي مجود"
     },
     {
         "id": 6,
@@ -57,7 +57,7 @@
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
         "category": "quran",
-        "sharingDescription": "القرآن الكريم للشيخ محمد أيوب"
+        "fullDescription": "القرآن الكريم للشيخ محمد أيوب"
     },
     {
         "id": 7,
@@ -67,7 +67,7 @@
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
         "category": "quran",
-        "sharingDescription": "القرآن الكريم للشيخ علي جابر"
+        "fullDescription": "القرآن الكريم للشيخ علي جابر"
     },
     {
         "id": 8,
@@ -77,7 +77,7 @@
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
         "category": "quran",
-        "sharingDescription": "القرآن الكريم للشيخ عبدالباسط عبدالصمد"
+        "fullDescription": "القرآن الكريم للشيخ عبدالباسط عبدالصمد"
     },
     {
         "id": 9,
@@ -87,7 +87,7 @@
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
         "category": "quran",
-        "sharingDescription": "القرآن الكريم للشيخ علي الحذيفي"
+        "fullDescription": "القرآن الكريم للشيخ علي الحذيفي"
     },
     {
         "id": 10,
@@ -97,7 +97,7 @@
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
         "category": "quran",
-        "sharingDescription": "القرآن الكريم للشيخ محمد صديق المنشاوي مرتل"
+        "fullDescription": "القرآن الكريم للشيخ محمد صديق المنشاوي مرتل"
     },
     {
         "id": 11,
@@ -107,7 +107,7 @@
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
         "category": "quran",
-        "sharingDescription": "القرآن الكريم للشيخ محمود علي البنا مرتل"
+        "fullDescription": "القرآن الكريم للشيخ محمود علي البنا مرتل"
     },
     {
         "id": 12,
@@ -117,7 +117,7 @@
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
         "category": "quran",
-        "sharingDescription": "القرآن الكريم للشيخ محمود علي البنا مجود"
+        "fullDescription": "القرآن الكريم للشيخ محمود علي البنا مجود"
     },
     {
         "id": 13,
@@ -127,7 +127,7 @@
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
         "category": "quran",
-        "sharingDescription": "القرآن الكريم للشيخ محمد الطبلاوي"
+        "fullDescription": "القرآن الكريم للشيخ محمد الطبلاوي"
     },
     {
         "id": 14,
@@ -137,7 +137,7 @@
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
         "category": "quran",
-        "sharingDescription": "القرآن الكريم للشيخ إدريس أبكر"
+        "fullDescription": "القرآن الكريم للشيخ إدريس أبكر"
     },
     {
         "id": 15,
@@ -147,7 +147,7 @@
         "image": "https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg",
         "description": "LIVE",
         "category": "more",
-        "sharingDescription": "المختصر في تفسير القرآن الكريم"
+        "fullDescription": "المختصر في تفسير القرآن الكريم"
     },
     {
         "id": 16,
@@ -157,7 +157,7 @@
         "image": "https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg",
         "description": "LIVE",
         "category": "more",
-        "sharingDescription": "تفسير الطبري من كتابه جامع البيان عن تأويل آي القرآن"
+        "fullDescription": "تفسير الطبري من كتابه جامع البيان عن تأويل آي القرآن"
     },
     {
         "id": 17,
@@ -167,7 +167,7 @@
         "image": "https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg",
         "description": "LIVE",
         "category": "more",
-        "sharingDescription": "تكبيرات العيد"
+        "fullDescription": "تكبيرات العيد"
     },
     {
         "id": 18,
@@ -177,7 +177,7 @@
         "image": "https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg",
         "description": "LIVE",
         "category": "more",
-        "sharingDescription": "الرقية الشرعية"
+        "fullDescription": "الرقية الشرعية"
     },
     {
         "id": 19,
@@ -187,7 +187,7 @@
         "image": "https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg",
         "description": "LIVE",
         "category": "more",
-        "sharingDescription": "أذكار الصباح"
+        "fullDescription": "أذكار الصباح"
     },
     {
         "id": 20,
@@ -197,6 +197,6 @@
         "image": "https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg",
         "description": "LIVE",
         "category": "more",
-        "sharingDescription": "أذكار المساء"
+        "fullDescription": "أذكار المساء"
     }
 ]
