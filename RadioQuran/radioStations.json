@@ -140,6 +140,26 @@
         "fullDescription": "القرآن الكريم للشيخ إدريس أبكر"
     },
     {
+        "id": 21,
+        "name": "القرآن الكريم \n أيوب مميز",
+        "uniqueName": "ayuoobGood",
+        "url": "https://backup.qurango.net/radio/ayyoub2",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "fullDescription": "القرآن الكريم للشيخ محمد أيوب قراءةمتميزة"
+    },
+    {
+        "id": 22,
+        "name": "القرآن الكريم \n عبدالله المطرود",
+        "uniqueName": "abdullahMadrood",
+        "url": "https://backup.qurango.net/radio/abdullah_almattrod",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "fullDescription": "القرآن الكريم للشيخ عبدالله المطرود"
+    },
+    {
         "id": 15,
         "name": "المختصر في \nتفسير القرآن",
         "uniqueName": "tafseerMoktaser",
