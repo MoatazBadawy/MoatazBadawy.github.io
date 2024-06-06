@@ -54,85 +54,94 @@
         "fullDescription": "إذاعة القرآن الكريم من الجزائر"
     },
     {
-        "name": "القرآن الكريم\nالمنشاوي مجود",
-        "uniqueName": "menshaweMegawad",
-        "url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad",
+        "name": "القرآن الكريم\nإبراهيم الأخضر",
+        "uniqueName": "ibrahim_alakdar",
+        "url": "https://backup.qurango.net/radio/ibrahim_alakdar",
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
         "category": "quran",
-        "fullDescription": "القرآن الكريم للشيخ محمد صديق المنشاوي مجود"
+        "fullDescription": "القرآن الكريم للشيخ إبراهيم الأخضر"
     },
     {
-        "name": "القرآن الكريم\nمحمد أيوب",
-        "uniqueName": "quyoob",
-        "url": "https://backup.qurango.net/radio/mohammed_ayyub",
+        "name": "القرآن الكريم\nالقارئ ياسين",
+        "uniqueName": "alqaria_yassen",
+        "url": "https://backup.qurango.net/radio/alqaria_yassen",
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
         "category": "quran",
-        "fullDescription": "القرآن الكريم للشيخ محمد أيوب"
+        "fullDescription": "القرآن الكريم للشيخ القارئ ياسين"
     },
     {
-        "name": "القرآن الكريم\nعلي جابر",
-        "uniqueName": "ghaper",
-        "url": "https://backup.qurango.net/radio/ali_jaber",
+        "name": "القرآن الكريم\nأحمد الطرابلسي",
+        "uniqueName": "ahmed_altrabulsi",
+        "url": "https://backup.qurango.net/radio/ahmed_altrabulsi",
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
         "category": "quran",
-        "fullDescription": "القرآن الكريم للشيخ علي جابر"
+        "fullDescription": "القرآن الكريم للشيخ أحمد الطرابلسي"
     },
     {
-        "name": "القرآن الكريم\nعبدالباسط",
-        "uniqueName": "abdulbasit",
-        "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad",
+        "name": "القرآن الكريم\nعبدالله الكندري",
+        "uniqueName": "abdullah_alkandari",
+        "url": "https://backup.qurango.net/radio/abdullah_alkandari",
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
         "category": "quran",
-        "fullDescription": "القرآن الكريم للشيخ عبدالباسط عبدالصمد"
+        "fullDescription": "القرآن الكريم للشيخ عبدالله الكندري"
     },
     {
-        "name": "القرآن الكريم\nعلي الحذيفي",
-        "uniqueName": "hozaifwei",
-        "url": "https://backup.qurango.net/radio/ali_alhuthaifi_qalon",
+        "name": "القرآن الكريم\nأحمد عامر",
+        "uniqueName": "ahmed_amer",
+        "url": "https://backup.qurango.net/radio/ahmed_amer",
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
         "category": "quran",
-        "fullDescription": "القرآن الكريم للشيخ علي الحذيفي"
+        "fullDescription": "القرآن الكريم للشيخ أحمد عامر"
     },
     {
-        "name": "القرآن الكريم\nالمنشاوي مرتل",
-        "uniqueName": "menshaweTarteel",
-        "url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi",
+        "name": "القرآن الكريم\nمحمد عثمان خان",
+        "uniqueName": "mohammed_osman_khan",
+        "url": "https://backup.qurango.net/radio/mohammed_osman_khan",
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
         "category": "quran",
-        "fullDescription": "القرآن الكريم للشيخ محمد صديق المنشاوي مرتل"
+        "fullDescription": "القرآن الكريم للشيخ محمد عثمان خان"
     },
     {
-        "name": "القرآن الكريم\nالبنا مرتل",
-        "uniqueName": "banaaTarteel",
-        "url": "https://backup.qurango.net/radio/mahmoud_ali__albanna",
+        "name": "القرآن الكريم\nمحمد العالم",
+        "uniqueName": "addokali_mohammad_alalim",
+        "url": "https://backup.qurango.net/radio/addokali_mohammad_alalim",
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
         "category": "quran",
-        "fullDescription": "القرآن الكريم للشيخ محمود علي البنا مرتل"
+        "fullDescription": "القرآن الكريم للشيخ الدوكالي محمد العالم"
     },
     {
-        "name": "القرآن الكريم\nالبنا مجود",
-        "uniqueName": "banaaMegawad",
-        "url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_mojawwad",
+        "name": "القرآن الكريم\nمحمد عبدالكريم",
+        "uniqueName": "mohammad_abdullkarem_alasbahani",
+        "url": "https://backup.qurango.net/radio/mohammad_abdullkarem_alasbahani",
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
         "category": "quran",
-        "fullDescription": "القرآن الكريم للشيخ محمود علي البنا مجود"
+        "fullDescription": "القرآن الكريم للشيخ محمد عبدالكريم"
     },
     {
-        "name": "القرآن الكريم\nمحمد الطبلاوي",
-        "uniqueName": "tablawe",
-        "url": "https://backup.qurango.net/radio/mohammad_altablaway",
+        "name": "القرآن الكريم\nمحمد الزبير",
+        "uniqueName": "alfateh_alzubair",
+        "url": "https://backup.qurango.net/radio/alfateh_alzubair",
         "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
         "description": "LIVE",
         "category": "quran",
-        "fullDescription": "القرآن الكريم للشيخ محمد الطبلاوي"
+        "fullDescription": "القرآن الكريم للشيخ الفاتح محمد الزبير"
+    },
+    {
+        "name": "القرآن الكريم\nطارق دعوب",
+        "uniqueName": "tareq_abdulgani_daawob",
+        "url": "https://backup.qurango.net/radio/tareq_abdulgani_daawob",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "fullDescription": "القرآن الكريم للشيخ طارق عبدالغني دعوب"
     },
     {
         "name": "القرآن الكريم\nإدريس أبكر",
@@ -161,14 +170,18 @@
         "category": "quran",
         "fullDescription": "القرآن الكريم للشيخ عبدالله المطرود"
     },
+
+
+
+    
     {
-        "name": "المختصر في \nتفسير القرآن",
-        "uniqueName": "tafseerMoktaser",
-        "url": "https://backup.qurango.net/radio/mukhtasartafsir",
+        "name": "إذاعة متنوعة\nلمختلف القراء",
+        "uniqueName": "mix",
+        "url": "https://backup.qurango.net/radio/mix",
         "image": "https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg",
         "description": "LIVE",
         "category": "more",
-        "fullDescription": "المختصر في تفسير القرآن الكريم"
+        "fullDescription": "الإذاعة العامة - اذاعة متنوعة لمختلف القراء"
     },
     {
         "name": "تفسير الطبري \nفي القرآن",
@@ -178,6 +191,15 @@
         "description": "LIVE",
         "category": "more",
         "fullDescription": "تفسير الطبري من كتابه جامع البيان عن تأويل آي القرآن"
+    },
+    {
+        "name": "المختصر في \nتفسير القرآن",
+        "uniqueName": "tafseerMoktaser",
+        "url": "https://backup.qurango.net/radio/mukhtasartafsir",
+        "image": "https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg",
+        "description": "LIVE",
+        "category": "more",
+        "fullDescription": "المختصر في تفسير القرآن الكريم"
     },
     {
         "name": "تكبيرات العيد",
