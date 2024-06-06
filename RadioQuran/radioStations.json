@@ -1,6 +1,5 @@
 [
     {
-        "id": 1,
         "name": "إذاعة القرآن\nمن البحرين",
         "uniqueName": "bahrain",
         "url": "https://5c7b683162943.streamlock.net:443/live/ngrp:radio-106-1_all/playlist.m3u8",
@@ -10,7 +9,6 @@
         "fullDescription": "إذاعة القرآن الكريم من البحرين"
     },
     {
-        "id": 2,
         "name": "إذاعة القرآن\nمن نابلس",
         "uniqueName": "nabils",
         "url": "http://www.quran-radio.org:8080/;stream.mp3",
@@ -20,17 +18,6 @@
         "fullDescription": "إذاعة القرآن الكريم من نابلس"
     },
     {
-        "id": 3,
-        "name": "إذاعة القرآن\nمن الجزائر",
-        "uniqueName": "algeria",
-        "url": "https://webradio.tda.dz/Coran_64K.mp3",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe4jVc4VfILqL9ZBtqWezZ8VV-zpZyuClu6g&s",
-        "description": "90.0FM",
-        "category": "editorsChoice",
-        "fullDescription": "إذاعة القرآن الكريم من الجزائر"
-    },
-    {
-        "id": 4,
         "name": "إذاعة القرآن\nمن السعودية",
         "uniqueName": "saudi",
         "url": "https://win.holol.com/live/quran/playlist.m3u8",
@@ -40,17 +27,6 @@
         "fullDescription": "إذاعة القرآن الكريم من السعودية"
     },
     {
-        "id": 5,
-        "name": "إذاعة القرآن\nمن الشارقة",
-        "uniqueName": "sahreqa",
-        "url": "https://svs.itworkscdn.net/smcquranlive/quranradiolive/playlist.m3u8",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8XMtpbvPbq9cS9F2kaLp5oOYJWeckbBgTXD7PIgEEzwr1fmpvfLD2FgP9T_oWXzhYwvlTRbFW43-K6lOW88bEJ4EMEDLanLi4bREv9sKQHpnmQ79hOxRtPCKsc3s8SYHuDsGIZMDIHX0/s1600/539798_ico.png",
-        "description": "102.7FM",
-        "category": "editorsChoice",
-        "fullDescription": "إذاعة القرآن الكريم من الشارقة"
-    },
-    {
-        "id": 6,
         "name": "السنة النبوية\nمن المدينة",
         "uniqueName": "madeena",
         "url": "https://win.holol.com/live/sunnah/playlist.m3u8",
@@ -60,7 +36,24 @@
         "fullDescription": "إذاعة السنة النبوية من المدينة المنورة"
     },
     {
-        "id": 7,
+        "name": "إذاعة القرآن\nمن الجزائر",
+        "uniqueName": "algeria",
+        "url": "https://webradio.tda.dz/Coran_64K.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe4jVc4VfILqL9ZBtqWezZ8VV-zpZyuClu6g&s",
+        "description": "90.0FM",
+        "category": "editorsChoice",
+        "fullDescription": "إذاعة القرآن الكريم من الجزائر"
+    },
+    {
+        "name": "إذاعة القرآن\nمن الشارقة",
+        "uniqueName": "sahreqa",
+        "url": "https://svs.itworkscdn.net/smcquranlive/quranradiolive/playlist.m3u8",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8XMtpbvPbq9cS9F2kaLp5oOYJWeckbBgTXD7PIgEEzwr1fmpvfLD2FgP9T_oWXzhYwvlTRbFW43-K6lOW88bEJ4EMEDLanLi4bREv9sKQHpnmQ79hOxRtPCKsc3s8SYHuDsGIZMDIHX0/s1600/539798_ico.png",
+        "description": "102.7FM",
+        "category": "editorsChoice",
+        "fullDescription": "إذاعة القرآن الكريم من الشارقة"
+    },
+    {
         "name": "القرآن الكريم\nالمنشاوي مجود",
         "uniqueName": "menshaweMegawad",
         "url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad",
@@ -70,7 +63,6 @@
         "fullDescription": "القرآن الكريم للشيخ محمد صديق المنشاوي مجود"
     },
     {
-        "id": 8,
         "name": "القرآن الكريم\nمحمد أيوب",
         "uniqueName": "quyoob",
         "url": "https://backup.qurango.net/radio/mohammed_ayyub",
@@ -80,7 +72,6 @@
         "fullDescription": "القرآن الكريم للشيخ محمد أيوب"
     },
     {
-        "id": 9,
         "name": "القرآن الكريم\nعلي جابر",
         "uniqueName": "ghaper",
         "url": "https://backup.qurango.net/radio/ali_jaber",
@@ -90,7 +81,6 @@
         "fullDescription": "القرآن الكريم للشيخ علي جابر"
     },
     {
-        "id": 10,
         "name": "القرآن الكريم\nعبدالباسط",
         "uniqueName": "abdulbasit",
         "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad",
@@ -100,7 +90,6 @@
         "fullDescription": "القرآن الكريم للشيخ عبدالباسط عبدالصمد"
     },
     {
-        "id": 11,
         "name": "القرآن الكريم\nعلي الحذيفي",
         "uniqueName": "hozaifwei",
         "url": "https://backup.qurango.net/radio/ali_alhuthaifi_qalon",
@@ -110,7 +99,6 @@
         "fullDescription": "القرآن الكريم للشيخ علي الحذيفي"
     },
     {
-        "id": 10,
         "name": "القرآن الكريم\nالمنشاوي مرتل",
         "uniqueName": "menshaweTarteel",
         "url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi",
@@ -120,7 +108,6 @@
         "fullDescription": "القرآن الكريم للشيخ محمد صديق المنشاوي مرتل"
     },
     {
-        "id": 11,
         "name": "القرآن الكريم\nالبنا مرتل",
         "uniqueName": "banaaTarteel",
         "url": "https://backup.qurango.net/radio/mahmoud_ali__albanna",
@@ -130,7 +117,6 @@
         "fullDescription": "القرآن الكريم للشيخ محمود علي البنا مرتل"
     },
     {
-        "id": 12,
         "name": "القرآن الكريم\nالبنا مجود",
         "uniqueName": "banaaMegawad",
         "url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_mojawwad",
@@ -140,7 +126,6 @@
         "fullDescription": "القرآن الكريم للشيخ محمود علي البنا مجود"
     },
     {
-        "id": 13,
         "name": "القرآن الكريم\nمحمد الطبلاوي",
         "uniqueName": "tablawe",
         "url": "https://backup.qurango.net/radio/mohammad_altablaway",
@@ -150,7 +135,6 @@
         "fullDescription": "القرآن الكريم للشيخ محمد الطبلاوي"
     },
     {
-        "id": 14,
         "name": "القرآن الكريم\nإدريس أبكر",
         "uniqueName": "edries",
         "url": "https://backup.qurango.net/radio/idrees_abkr",
@@ -160,7 +144,6 @@
         "fullDescription": "القرآن الكريم للشيخ إدريس أبكر"
     },
     {
-        "id": 21,
         "name": "القرآن الكريم \n أيوب مميز",
         "uniqueName": "ayuoobGood",
         "url": "https://backup.qurango.net/radio/ayyoub2",
@@ -170,7 +153,6 @@
         "fullDescription": "القرآن الكريم للشيخ محمد أيوب قراءة متميزة"
     },
     {
-        "id": 22,
         "name": "القرآن الكريم \n عبدالله المطرود",
         "uniqueName": "abdullahMadrood",
         "url": "https://backup.qurango.net/radio/abdullah_almattrod",
@@ -180,7 +162,6 @@
         "fullDescription": "القرآن الكريم للشيخ عبدالله المطرود"
     },
     {
-        "id": 15,
         "name": "المختصر في \nتفسير القرآن",
         "uniqueName": "tafseerMoktaser",
         "url": "https://backup.qurango.net/radio/mukhtasartafsir",
@@ -190,7 +171,6 @@
         "fullDescription": "المختصر في تفسير القرآن الكريم"
     },
     {
-        "id": 16,
         "name": "تفسير الطبري \nفي القرآن",
         "uniqueName": "tafseerTabre",
         "url": "https://backup.qurango.net/radio/tabri",
@@ -200,7 +180,6 @@
         "fullDescription": "تفسير الطبري من كتابه جامع البيان عن تأويل آي القرآن"
     },
     {
-        "id": 17,
         "name": "تكبيرات العيد",
         "uniqueName": "eid",
         "url": "https://backup.qurango.net/radio/eid",
@@ -210,7 +189,6 @@
         "fullDescription": "تكبيرات العيد"
     },
     {
-        "id": 18,
         "name": "الرقية الشرعية",
         "uniqueName": "roqya",
         "url": "https://backup.qurango.net/radio/roqiah",
@@ -220,7 +198,6 @@
         "fullDescription": "الرقية الشرعية"
     },
     {
-        "id": 19,
         "name": "أذكار الصباح",
         "uniqueName": "azkarMorning",
         "url": "https://backup.qurango.net/radio/athkar_sabah",
@@ -230,7 +207,6 @@
         "fullDescription": "أذكار الصباح"
     },
     {
-        "id": 20,
         "name": "أذكار المساء",
         "uniqueName": "azkarNight",
         "url": "https://backup.qurango.net/radio/athkar_masa",
