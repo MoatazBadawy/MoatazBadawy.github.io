@@ -10,7 +10,7 @@
         "fullDescription": "إذاعة القرآن الكريم من البحرين"
     },
     {
-        "id": 1,
+        "id": 2,
         "name": "إذاعة القرآن\nمن نابلس",
         "uniqueName": "nabils",
         "url": "http://www.quran-radio.org:8080/;stream.mp3",
@@ -22,12 +22,12 @@
     {
         "id": 3,
         "name": "إذاعة القرآن\nمن الجزائر",
-        "uniqueName": "sahreqa",
-        "url": "https://svs.itworkscdn.net/smcquranlive/quranradiolive/playlist.m3u8",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8XMtpbvPbq9cS9F2kaLp5oOYJWeckbBgTXD7PIgEEzwr1fmpvfLD2FgP9T_oWXzhYwvlTRbFW43-K6lOW88bEJ4EMEDLanLi4bREv9sKQHpnmQ79hOxRtPCKsc3s8SYHuDsGIZMDIHX0/s1600/539798_ico.png",
-        "description": "102.7FM",
+        "uniqueName": "algeria",
+        "url": "https://webradio.tda.dz/Coran_64K.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe4jVc4VfILqL9ZBtqWezZ8VV-zpZyuClu6g&s",
+        "description": "90.0FM",
         "category": "editorsChoice",
-        "fullDescription": "إذاعة القرآن الكريم من الشارقة"
+        "fullDescription": "إذاعة القرآن الكريم من الجزائر"
     },
     {
         "id": 4,
