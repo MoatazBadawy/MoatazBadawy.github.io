@@ -10,18 +10,18 @@
         "fullDescription": "إذاعة القرآن الكريم من البحرين"
     },
     {
-        "id": 2,
-        "name": "إذاعة القرآن\nمن السعودية",
-        "uniqueName": "saudi",
-        "url": "https://win.holol.com/live/quran/playlist.m3u8",
-        "image": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",
-        "description": "96.8FM",
+        "id": 1,
+        "name": "إذاعة القرآن\nمن نابلس",
+        "uniqueName": "nabils",
+        "url": "http://www.quran-radio.org:8080/;stream.mp3",
+        "image": "https://yt3.googleusercontent.com/f3qLhpS3PhU2iKwv61CjhyF73t4PMqNbt5SNrwyBs2c-45agjYYgXSpykdKsR5sTDXWt0ClpJQ=s900-c-k-c0x00ffffff-no-rj",
+        "description": "96.9FM",
         "category": "editorsChoice",
-        "fullDescription": "إذاعة القرآن الكريم من السعودية"
+        "fullDescription": "إذاعة القرآن الكريم من نابلس"
     },
     {
         "id": 3,
-        "name": "إذاعة القرآن\nمن الشارقة",
+        "name": "إذاعة القرآن\nمن الجزائر",
         "uniqueName": "sahreqa",
         "url": "https://svs.itworkscdn.net/smcquranlive/quranradiolive/playlist.m3u8",
         "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8XMtpbvPbq9cS9F2kaLp5oOYJWeckbBgTXD7PIgEEzwr1fmpvfLD2FgP9T_oWXzhYwvlTRbFW43-K6lOW88bEJ4EMEDLanLi4bREv9sKQHpnmQ79hOxRtPCKsc3s8SYHuDsGIZMDIHX0/s1600/539798_ico.png",
@@ -31,6 +31,26 @@
     },
     {
         "id": 4,
+        "name": "إذاعة القرآن\nمن السعودية",
+        "uniqueName": "saudi",
+        "url": "https://win.holol.com/live/quran/playlist.m3u8",
+        "image": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",
+        "description": "96.8FM",
+        "category": "editorsChoice",
+        "fullDescription": "إذاعة القرآن الكريم من السعودية"
+    },
+    {
+        "id": 5,
+        "name": "إذاعة القرآن\nمن الشارقة",
+        "uniqueName": "sahreqa",
+        "url": "https://svs.itworkscdn.net/smcquranlive/quranradiolive/playlist.m3u8",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8XMtpbvPbq9cS9F2kaLp5oOYJWeckbBgTXD7PIgEEzwr1fmpvfLD2FgP9T_oWXzhYwvlTRbFW43-K6lOW88bEJ4EMEDLanLi4bREv9sKQHpnmQ79hOxRtPCKsc3s8SYHuDsGIZMDIHX0/s1600/539798_ico.png",
+        "description": "102.7FM",
+        "category": "editorsChoice",
+        "fullDescription": "إذاعة القرآن الكريم من الشارقة"
+    },
+    {
+        "id": 6,
         "name": "السنة النبوية\nمن المدينة",
         "uniqueName": "madeena",
         "url": "https://win.holol.com/live/sunnah/playlist.m3u8",
@@ -40,7 +60,7 @@
         "fullDescription": "إذاعة السنة النبوية من المدينة المنورة"
     },
     {
-        "id": 5,
+        "id": 7,
         "name": "القرآن الكريم\nالمنشاوي مجود",
         "uniqueName": "menshaweMegawad",
         "url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad",
@@ -50,7 +70,7 @@
         "fullDescription": "القرآن الكريم للشيخ محمد صديق المنشاوي مجود"
     },
     {
-        "id": 6,
+        "id": 8,
         "name": "القرآن الكريم\nمحمد أيوب",
         "uniqueName": "quyoob",
         "url": "https://backup.qurango.net/radio/mohammed_ayyub",
@@ -60,7 +80,7 @@
         "fullDescription": "القرآن الكريم للشيخ محمد أيوب"
     },
     {
-        "id": 7,
+        "id": 9,
         "name": "القرآن الكريم\nعلي جابر",
         "uniqueName": "ghaper",
         "url": "https://backup.qurango.net/radio/ali_jaber",
@@ -70,7 +90,7 @@
         "fullDescription": "القرآن الكريم للشيخ علي جابر"
     },
     {
-        "id": 8,
+        "id": 10,
         "name": "القرآن الكريم\nعبدالباسط",
         "uniqueName": "abdulbasit",
         "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad",
@@ -80,7 +100,7 @@
         "fullDescription": "القرآن الكريم للشيخ عبدالباسط عبدالصمد"
     },
     {
-        "id": 9,
+        "id": 11,
         "name": "القرآن الكريم\nعلي الحذيفي",
         "uniqueName": "hozaifwei",
         "url": "https://backup.qurango.net/radio/ali_alhuthaifi_qalon",
