@@ -36,15 +36,6 @@
         "fullDescription": "إذاعة السنة النبوية من المدينة المنورة"
     },
     {
-        "name": "إذاعة القرآن\nمن الجزائر",
-        "uniqueName": "algeria",
-        "url": "https://webradio.tda.dz/Coran_64K.mp3",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe4jVc4VfILqL9ZBtqWezZ8VV-zpZyuClu6g&s",
-        "description": "90.0FM",
-        "category": "editorsChoice",
-        "fullDescription": "إذاعة القرآن الكريم من الجزائر"
-    },
-    {
         "name": "إذاعة القرآن\nمن الشارقة",
         "uniqueName": "sahreqa",
         "url": "https://svs.itworkscdn.net/smcquranlive/quranradiolive/playlist.m3u8",
@@ -52,6 +43,15 @@
         "description": "102.7FM",
         "category": "editorsChoice",
         "fullDescription": "إذاعة القرآن الكريم من الشارقة"
+    },
+    {
+        "name": "إذاعة القرآن\nمن الجزائر",
+        "uniqueName": "algeria",
+        "url": "https://webradio.tda.dz/Coran_64K.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe4jVc4VfILqL9ZBtqWezZ8VV-zpZyuClu6g&s",
+        "description": "90.0FM",
+        "category": "editorsChoice",
+        "fullDescription": "إذاعة القرآن الكريم من الجزائر"
     },
     {
         "name": "القرآن الكريم\nالمنشاوي مجود",
