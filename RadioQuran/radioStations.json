@@ -170,18 +170,26 @@
         "category": "quran",
         "fullDescription": "القرآن الكريم للشيخ عبدالله المطرود"
     },
-
-
-
-
     {
         "name": "إذاعة متنوعة\nلمختلف القراء",
         "uniqueName": "mix",
         "url": "https://backup.qurango.net/radio/mix",
         "image": "https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg",
-        "description": "LIVE",
+        "description": "quran",
         "category": "more",
         "fullDescription": "الإذاعة العامة - اذاعة متنوعة لمختلف القراء"
+    },
+
+
+    
+    {
+        "name": "المختصر في \nتفسير القرآن",
+        "uniqueName": "tafseerMoktaser",
+        "url": "https://backup.qurango.net/radio/mukhtasartafsir",
+        "image": "https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg",
+        "description": "LIVE",
+        "category": "more",
+        "fullDescription": "المختصر في تفسير القرآن الكريم"
     },
     {
         "name": "تفسير الطبري \nفي القرآن",
@@ -191,15 +199,6 @@
         "description": "LIVE",
         "category": "more",
         "fullDescription": "تفسير الطبري من كتابه جامع البيان عن تأويل آي القرآن"
-    },
-    {
-        "name": "المختصر في \nتفسير القرآن",
-        "uniqueName": "tafseerMoktaser",
-        "url": "https://backup.qurango.net/radio/mukhtasartafsir",
-        "image": "https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg",
-        "description": "LIVE",
-        "category": "more",
-        "fullDescription": "المختصر في تفسير القرآن الكريم"
     },
     {
         "name": "تكبيرات العيد",
