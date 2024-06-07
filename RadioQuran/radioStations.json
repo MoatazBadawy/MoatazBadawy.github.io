@@ -175,12 +175,10 @@
         "uniqueName": "mix",
         "url": "https://backup.qurango.net/radio/mix",
         "image": "https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg",
-        "description": "quran",
-        "category": "more",
+        "description": "LIVE",
+        "category": "quran",
         "fullDescription": "الإذاعة العامة - اذاعة متنوعة لمختلف القراء"
     },
-
-
     
     {
         "name": "المختصر في \nتفسير القرآن",
