@@ -179,6 +179,96 @@
         "category": "quran",
         "fullDescription": "الإذاعة العامة - اذاعة متنوعة لمختلف القراء"
     },
+    {
+        "name": "إذاعة متنوعة\nتلاوات خاشعة",
+        "uniqueName": "kaseha",
+        "url": "https://backup.qurango.net/radio/salma",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "fullDescription": "الإذاعة العامة - اذاعة متنوعة تلاوات خاشعة"
+    }, 
+    {
+        "name": "إذاعة متنوعة\nآيات السكينة",
+        "uniqueName": "sakeena",
+        "url": "https://backup.qurango.net/radio/sakeenah",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "fullDescription": "الإذاعة العامة - اذاعة آيات السكينة"
+    },
+    {
+        "name": "القرآن الكريم \nصالح الهبدان",
+        "uniqueName": "saleh_habdaan",
+        "url": "https://backup.qurango.net/radio/saleh_alhabdan",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "fullDescription": "القرآن الكريم للشيخ صالح الهبدان"
+    },
+    {
+        "name": "القرآن الكريم \nالعيون الكوشي",
+        "uniqueName": "aloyoon_alkoshi",
+        "url": "https://backup.qurango.net/radio/aloyoon_alkoshi",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "fullDescription": "القرآن الكريم للشيخ العيون الكوشي"
+    },
+    {
+        "name": "القرآن الكريم \nعبدالرحمن الماجد",
+        "uniqueName": "abdulrahman_almajed",
+        "url": "https://backup.qurango.net/radio/abdulrahman_almajed",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "fullDescription": "القرآن الكريم للشيخ عبدالرحمن الماجد"
+    },
+    {
+        "name": "القرآن الكريم \nسورة البقرة",
+        "uniqueName": "albaqarah",
+        "url": "https://backup.qurango.net/radio/albaqarah",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "fullDescription": "إذاعة سورة البقرة - لعدد من القراء"
+    },
+    {
+        "name": "القرآن الكريم \nخالد الجليل",
+        "uniqueName": "khalid_aljileel",
+        "url": "https://backup.qurango.net/radio/khalid_aljileel",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "fullDescription": "القرآن الكريم للشيخ خالد الجليل"
+    },
+    {
+        "name": "القرآن الكريم \nناصر الماجد",
+        "uniqueName": "nasser_almajed",
+        "url": "https://backup.qurango.net/radio/nasser_almajed",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "fullDescription": "القرآن الكريم للشيخ ناصر الماجد"
+    },
+    {
+        "name": "القرآن الكريم \nهيثم الجدعاني",
+        "uniqueName": "hitham_aljadani",
+        "url": "https://backup.qurango.net/radio/hitham_aljadani",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "fullDescription": "القرآن الكريم للشيخ هيثم الجدعاني"
+    },
+    {
+        "name": "القرآن الكريم \nتوفيق الصايغ",
+        "uniqueName": "tawfeeq_assayegh",
+        "url": "https://backup.qurango.net/radio/tawfeeq_assayegh",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "fullDescription": "القرآن الكريم للشيخ توفيق الصايغ"
+    },
     
     {
         "name": "المختصر في \nتفسير القرآن",
@@ -233,5 +323,14 @@
         "description": "LIVE",
         "category": "more",
         "fullDescription": "أذكار المساء"
+    },
+    {
+        "name": "حياة الصحابة والتابعين",
+        "uniqueName": "sahabaAndTabeenLive",
+        "url": "https://backup.qurango.net/radio/sahabah",
+        "image": "https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg",
+        "description": "LIVE",
+        "category": "more",
+        "fullDescription": "إذاعة صور من حياة الصحابة والتابعين رضوان الله عليهم"
     }
 ]
