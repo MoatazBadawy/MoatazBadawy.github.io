@@ -41,37 +41,37 @@
                 "step_title": "الخطوة الثانية",
                 "step_content_url": "level2/step2.json",
                 "level_num": 2,
-                "is_active": true
+                "is_active": false
             },
             {
                 "step_title": "الخطوة الثالثة (1)",
                 "step_content_url": "level2/step3_part1.json",
                 "level_num": 2,
-                "is_active": true
+                "is_active": false
             },
             {
                 "step_title": "الخطوة الثالثة (2)",
                 "step_content_url": "level2/step3_part2.json",
                 "level_num": 2,
-                "is_active": true
+                "is_active": false
             },
             {
                 "step_title": "الخطوة الرابعة",
                 "step_content_url": "level2/step4.json",
                 "level_num": 2,
-                "is_active": true
+                "is_active": false
             },
             {
                 "step_title": "الخطوة الخامسة",
                 "step_content_url": "level2/step5.json",
                 "level_num": 2,
-                "is_active": true
+                "is_active": false
             },
             {
                 "step_title": "الخطوة السادسة",
                 "step_content_url": "level2/step6.json",
                 "level_num": 2,
-                "is_active": true
+                "is_active": false
             }
         ]
     },
