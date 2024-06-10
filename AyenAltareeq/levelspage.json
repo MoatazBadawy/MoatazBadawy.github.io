@@ -82,49 +82,49 @@
                 "step_title": "الخطوة السابعة (1)",
                 "step_content_url": "level3/step7_part1.json",
                 "level_num": 3,
-                "is_active": true
+                "is_active": false
             },
             {
                 "step_title": "الخطوة السابعة (2)",
                 "step_content_url": "level3/step7_part2.json",
                 "level_num": 3,
-                "is_active": true
+                "is_active": false
             },
             {
                 "step_title": "الخطوة السابعة (3)",
                 "step_content_url": "level3/step7_part3.json",
                 "level_num": 3,
-                "is_active": true
+                "is_active": false
             },
             {
                 "step_title": "الخطوة السابعة (4)",
                 "step_content_url": "level3/step7_part4.json",
                 "level_num": 3,
-                "is_active": true
+                "is_active": false
             },
             {
                 "step_title": "الخطوة الثامنة (1)",
                 "step_content_url": "level3/step8_part1.json",
                 "level_num": 3,
-                "is_active": true
+                "is_active": false
             },
             {
                 "step_title": "الخطوة الثامنة (2)",
                 "step_content_url": "level3/step8_part2.json",
                 "level_num": 3,
-                "is_active": true
+                "is_active": false
             },
             {
                 "step_title":"الخطوة التاسعة",
                 "step_content_url": "level3/step9.json",
                 "level_num": 3,
-                "is_active": true
+                "is_active": false
             },
             {
                 "step_title":"الخطوة العاشرة",
                 "step_content_url": "level3/step10.json",
                 "level_num": 3,
-                "is_active": true
+                "is_active": false
             }
         ]
     },
@@ -135,49 +135,49 @@
                 "step_title": "الخطوة الحادية عشرة (1)",
                 "step_content_url": "level4/step11_part1.json",
                 "level_num": 4,
-                "is_active": true
+                "is_active": false
             },
             {
                 "step_title": "الخطوة الحادية عشرة (2)",
                 "step_content_url": "level4/step11_part2.json",
                 "level_num": 4,
-                "is_active": true
+                "is_active": false
             },
             {
                 "step_title": "الخطوة الحادية عشرة (3)",
                 "step_content_url": "level4/step11_part3.json",
                 "level_num": 4,
-                "is_active": true
+                "is_active": false
             },
             {
                 "step_title": "الخطوة الحادية عشرة (4)",
                 "step_content_url": "level4/step11_part4.json",
                 "level_num": 4,
-                "is_active": true
+                "is_active": false
             },
             {
                 "step_title": "الخطوة الثانية عشرة (1)",
                 "step_content_url": "level4/step12_part1.json",
                 "level_num": 4,
-                "is_active": true
+                "is_active": false
             },
             {
                 "step_title": "الخطوة الثانية عشرة (2)",
                 "step_content_url": "level4/step12_part2.json",
                 "level_num": 4,
-                "is_active": true
+                "is_active": false
             },
             {
                 "step_title": "الخطوة الثالثة عشرة (1)",
                 "step_content_url": "level4/step13_part1.json",
                 "level_num": 4,
-                "is_active": true
+                "is_active": false
             },
             {
                 "step_title": "الخطوة الثالثة عشرة (2)",
                 "step_content_url": "level4/step13_part2.json",
                 "level_num": 4,
-                "is_active": true
+                "is_active": false
             }
         ]
     }
