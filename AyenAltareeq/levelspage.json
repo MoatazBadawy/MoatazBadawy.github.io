@@ -9,25 +9,25 @@
                 "is_active": true
             },
             {
-                "step_title": "الخطوة صفر - 1",
+                "step_title": "الخطوة صفر (1)",
                 "step_content_url": "level1/step0_part1.json",
                 "level_num": 1,
                 "is_active": true
             },
             {
-                "step_title": "الخطوة صفر - 2",
+                "step_title": "الخطوة صفر (2)",
                 "step_content_url": "level1/step0_part2.json",
                 "level_num": 1,
                 "is_active": true
             },
             {
-                "step_title": "الخطوة الأولى - 1",
+                "step_title": "الخطوة الأولى (1)",
                 "step_content_url": "level1/step1_part1.json",
                 "level_num": 1,
                 "is_active": true
             },
             {
-                "step_title": "الخطوة الأولى - 2",
+                "step_title": "الخطوة الأولى (2)",
                 "step_content_url": "level1/step1_part2.json",
                 "level_num": 1,
                 "is_active": true
