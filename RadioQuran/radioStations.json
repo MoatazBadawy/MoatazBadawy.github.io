@@ -1341,24 +1341,24 @@
         "fullDescription": "تفسير الطبري من كتابه جامع البيان عن تأويل آي القرآن"
     },
     {
-        "name": "تكبيرات العيد",
-        "uniqueName": "eid",
-        "url": "https://backup.qurango.net/radio/eid",
+        "name": "في ظلال السيرة النبوية",
+        "uniqueName": "fi_zilal_alsiyra",
+        "url": "https://backup.qurango.net/radio/fi_zilal_alsiyra",
         "image": "https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg",
         "description": "LIVE",
         "category": "more",
         "favoriteCategory": "another",
-        "fullDescription": "تكبيرات العيد"
+        "fullDescription": "في ظلال السيرة النبوية - 400 حلقة عن سيرة نبينا محمد صلى الله عليه وسلم"
     },
     {
-        "name": "الرقية الشرعية",
-        "uniqueName": "roqya",
-        "url": "https://backup.qurango.net/radio/roqiah",
+        "name": "صور من حياة الصحابة والتابعين",
+        "uniqueName": "sahabaAndTabeenLive",
+        "url": "https://backup.qurango.net/radio/sahabah",
         "image": "https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg",
         "description": "LIVE",
         "category": "more",
         "favoriteCategory": "another",
-        "fullDescription": "الرقية الشرعية"
+        "fullDescription": "إذاعة صور من حياة الصحابة والتابعين رضوان الله عليهم"
     },
     {
         "name": "أذكار الصباح",
@@ -1381,13 +1381,23 @@
         "fullDescription": "أذكار المساء"
     },
     {
-        "name": "صور من حياة الصحابة والتابعين",
-        "uniqueName": "sahabaAndTabeenLive",
-        "url": "https://backup.qurango.net/radio/sahabah",
+        "name": "تكبيرات العيد",
+        "uniqueName": "eid",
+        "url": "https://backup.qurango.net/radio/eid",
         "image": "https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg",
         "description": "LIVE",
         "category": "more",
         "favoriteCategory": "another",
-        "fullDescription": "إذاعة صور من حياة الصحابة والتابعين رضوان الله عليهم"
+        "fullDescription": "تكبيرات العيد"
+    },
+    {
+        "name": "الرقية الشرعية",
+        "uniqueName": "roqya",
+        "url": "https://backup.qurango.net/radio/roqiah",
+        "image": "https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg",
+        "description": "LIVE",
+        "category": "more",
+        "favoriteCategory": "another",
+        "fullDescription": "الرقية الشرعية"
     }
 ]
