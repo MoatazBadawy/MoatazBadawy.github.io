@@ -60,6 +60,76 @@
         "fullDescription": "إذاعة القرآن الكريم من الجزائر"
     },
     {
+        "name": "إذاعة الشيخ\nعلي جابر",
+        "uniqueName": "ali_jaber",
+        "url": "https://backup.qurango.net/radio/ali_jaber",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ علي جابر"
+    },
+    {
+        "name": "إذاعة الشيخ\nعلي الحذيفي",
+        "uniqueName": "ali_alhuthaifi",
+        "url": "https://backup.qurango.net/radio/ali_alhuthaifi",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ علي الحذيفي"
+    },
+    {
+        "name": "إذاعة الشيخ\nعبدالباسط عبدالصمد",
+        "uniqueName": "abdulbasit_abdulsamad",
+        "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ عبدالباسط عبدالصمد"
+    },
+    {
+        "name": "إذاعة الشيخ\nعبدالباسط مجود",
+        "uniqueName": "abdulbasit_abdulsamad_mojawwad",
+        "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ عبدالباسط مجود"
+    },
+    {
+        "name": "إذاعة الشيخ\nإدريس أبكر",
+        "uniqueName": "edries",
+        "url": "https://backup.qurango.net/radio/idrees_abkr",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ إدريس أبكر"
+    },
+    {
+        "name": "إذاعة الشيخ\nأيوب مميز",
+        "uniqueName": "ayuoobGood",
+        "url": "https://backup.qurango.net/radio/ayyoub2",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ محمد أيوب قراءة متميزة"
+    },
+    {
+        "name": "إذاعة الشيخ\nعبدالباسط ورش",
+        "uniqueName": "abdulbasit_abdulsamad_warsh",
+        "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_warsh",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ عبدالباسط ورش"
+    },
+    {
         "name": "إذاعة الشيخ\nإبراهيم الأخضر",
         "uniqueName": "ibrahim_alakdar",
         "url": "https://backup.qurango.net/radio/ibrahim_alakdar",
@@ -68,6 +138,16 @@
         "category": "quran",
         "favoriteCategory": "qareon",
         "fullDescription": "إذاعة الشيخ إبراهيم الأخضر"
+    },
+    {
+        "name": "إذاعة الشيخ\nأحمد العجمي",
+        "uniqueName": "ahmad_alajmy",
+        "url": "https://backup.qurango.net/radio/ahmad_alajmy",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ أحمد العجمي"
     },
     {
         "name": "إذاعة الشيخ\nالقارئ ياسين",
@@ -158,26 +238,6 @@
         "category": "quran",
         "favoriteCategory": "qareon",
         "fullDescription": "إذاعة الشيخ طارق عبدالغني دعوب"
-    },
-    {
-        "name": "إذاعة الشيخ\nإدريس أبكر",
-        "uniqueName": "edries",
-        "url": "https://backup.qurango.net/radio/idrees_abkr",
-        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
-        "description": "LIVE",
-        "category": "quran",
-        "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة الشيخ إدريس أبكر"
-    },
-    {
-        "name": "إذاعة الشيخ\nأيوب مميز",
-        "uniqueName": "ayuoobGood",
-        "url": "https://backup.qurango.net/radio/ayyoub2",
-        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
-        "description": "LIVE",
-        "category": "quran",
-        "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة الشيخ محمد أيوب قراءة متميزة"
     },
     {
         "name": "إذاعة الشيخ\nعبدالله المطرود",
@@ -600,46 +660,6 @@
         "fullDescription": "إذاعة الشيخ عبدالبارئ محمد"
     },
     {
-        "name": "إذاعة الشيخ\nأحمد العجمي",
-        "uniqueName": "ahmad_alajmy",
-        "url": "https://backup.qurango.net/radio/ahmad_alajmy",
-        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
-        "description": "LIVE",
-        "category": "quran",
-        "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة الشيخ أحمد العجمي"
-    },
-    {
-        "name": "إذاعة الشيخ\nعبدالباسط عبدالصمد",
-        "uniqueName": "abdulbasit_abdulsamad",
-        "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad",
-        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
-        "description": "LIVE",
-        "category": "quran",
-        "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة الشيخ عبدالباسط عبدالصمد"
-    },
-    {
-        "name": "إذاعة الشيخ\nعبدالباسط مجود",
-        "uniqueName": "abdulbasit_abdulsamad_mojawwad",
-        "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad",
-        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
-        "description": "LIVE",
-        "category": "quran",
-        "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة الشيخ عبدالباسط مجود"
-    },
-    {
-        "name": "إذاعة الشيخ\nعبدالباسط ورش",
-        "uniqueName": "abdulbasit_abdulsamad_warsh",
-        "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_warsh",
-        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
-        "description": "LIVE",
-        "category": "quran",
-        "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة الشيخ عبدالباسط ورش"
-    },
-    {
         "name": "إذاعة الشيخ\nعبدالعزيز سحيم",
         "uniqueName": "a_sheim",
         "url": "https://backup.qurango.net/radio/a_sheim",
@@ -769,16 +789,11 @@
         "favoriteCategory": "qareon",
         "fullDescription": "إذاعة الشيخ عبدالودود حنيف"
     },
-    {
-        "name": "إذاعة الشيخ\nعلي الحذيفي",
-        "uniqueName": "ali_alhuthaifi",
-        "url": "https://backup.qurango.net/radio/ali_alhuthaifi",
-        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
-        "description": "LIVE",
-        "category": "quran",
-        "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة الشيخ علي الحذيفي"
-    },
+
+
+
+
+
     {
         "name": "إذاعة الشيخ\nالحذيفي قالون",
         "uniqueName": "ali_alhuthaifi_qalon",
@@ -788,16 +803,6 @@
         "category": "quran",
         "favoriteCategory": "qareon",
         "fullDescription": "إذاعة الشيخ علي الحذيفي قالون"
-    },
-    {
-        "name": "إذاعة الشيخ\nعلي جابر",
-        "uniqueName": "ali_jaber",
-        "url": "https://backup.qurango.net/radio/ali_jaber",
-        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
-        "description": "LIVE",
-        "category": "quran",
-        "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة الشيخ علي جابر"
     },
     {
         "name": "إذاعة الشيخ\nعلي السويسي",
