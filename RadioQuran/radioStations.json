@@ -319,6 +319,46 @@
         "favoriteCategory": "qareon",
         "fullDescription": "إذاعة الشيخ عبدالله الموسى"
     },
+    {
+        "name": "إذاعة الشيخ\nعبدالله الخلف",
+        "uniqueName": "abdullah_alkhalaf",
+        "url": "https://backup.qurango.net/radio/abdullah_alkhalaf",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ عبدالله الخلف"
+    },
+    {
+        "name": "إذاعة الشيخ\nعبدالله الخلف",
+        "uniqueName": "abdullah_alkhalaf",
+        "url": "https://backup.qurango.net/radio/abdullah_alkhalaf",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ عبدالله الخلف"
+    },
+    {
+        "name": "إذاعة تراتيل\nقصيرة ومميزة",
+        "uniqueName": "abdullah_alkhalaf",
+        "url": "https://backup.qurango.net/radio/abdullah_alkhalaf",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة تراتيل قصيرة متميزة"
+    },
+    {
+        "name": "إذاعة الشيخ\nجمال شاكر",
+        "uniqueName": "jamal_shaker_abdullah",
+        "url": "https://backup.qurango.net/radio/jamal_shaker_abdullah",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ جمال شاكر"
+    },
     
     {
         "name": "المختصر في\nتفسير القرآن",
