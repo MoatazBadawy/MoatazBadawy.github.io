@@ -359,6 +359,56 @@
         "favoriteCategory": "qareon",
         "fullDescription": "إذاعة الشيخ جمال شاكر"
     },
+    {
+        "name": "إذاعة الشيخ\nماجد الزامل",
+        "uniqueName": "majed_alzamel",
+        "url": "https://backup.qurango.net/radio/majed_alzamel",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ ماجد الزامل"
+    },
+    {
+        "name": "إذاعة الشيخ\nخالد القحطاني",
+        "uniqueName": "khaled_alqahtani",
+        "url": "https://backup.qurango.net/radio/khaled_alqahtani",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ خالد القحطاني"
+    },
+    {
+        "name": "إذاعة الشيخ\nخالد عبدالكافي",
+        "uniqueName": "khalid_abdulkafi",
+        "url": "https://backup.qurango.net/radio/khalid_abdulkafi",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ خالد عبدالكافي"
+    },
+    {
+        "name": "إذاعة الشيخ\nخليفة الطنيجي",
+        "uniqueName": "khalifa_altunaiji",
+        "url": "https://backup.qurango.net/radio/khalifa_altunaiji",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ خليفة الطنيجي"
+    },
+    {
+        "name": "إذاعة الشيخ\nسعد الغامدي",
+        "uniqueName": "saad_alghamdi",
+        "url": "https://backup.qurango.net/radio/saad_alghamdi",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ سعد الغامدي"
+    },
     
     {
         "name": "المختصر في\nتفسير القرآن",
