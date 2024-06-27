@@ -80,16 +80,6 @@
         "fullDescription": "إذاعة الشيخ علي الحذيفي"
     },
     {
-        "name": "إذاعة الشيخ\nمحمد جبريل",
-        "uniqueName": "mohammed_jibreel",
-        "url": "https://backup.qurango.net/radio/mohammed_jibreel",
-        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
-        "description": "LIVE",
-        "category": "quran",
-        "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة الشيخ محمد جبريل"
-    },
-    {
         "name": "إذاعة الشيخ\nمحمد أيوب",
         "uniqueName": "mohammed_ayyub",
         "url": "https://backup.qurango.net/radio/mohammed_ayyub",
@@ -98,6 +88,16 @@
         "category": "quran",
         "favoriteCategory": "qareon",
         "fullDescription": "إذاعة الشيخ محمد أيوب"
+    },
+    {
+        "name": "إذاعة الشيخ\nمحمد جبريل",
+        "uniqueName": "mohammed_jibreel",
+        "url": "https://backup.qurango.net/radio/mohammed_jibreel",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ محمد جبريل"
     },
     {
         "name": "إذاعة الشيخ\nمحمد صديق المنشاوي",
@@ -178,6 +178,56 @@
         "category": "quran",
         "favoriteCategory": "qareon",
         "fullDescription": "إذاعة الشيخ مصطفى إسماعيل"
+    },
+    {
+        "name": "إذاعة الشيخ\nمحمود الحصري",
+        "uniqueName": "mahmoud_khalil_alhussary",
+        "url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ محمود خليل الحصري"
+    },
+    {
+        "name": "إذاعة الشيخ\nالحصري مجود",
+        "uniqueName": "mahmoud_khalil_alhussary_mojawwad",
+        "url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_mojawwad",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ محمود خليل الحصري - مجود"
+    },
+    {
+        "name": "إذاعة الشيخ\nالحصري ورش",
+        "uniqueName": "mahmoud_khalil_alhussary_warsh",
+        "url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ محمود خليل الحصري ورش"
+    },
+    {
+        "name": "إذاعة الشيخ\nعلي البنا",
+        "uniqueName": "mahmoud_ali__albanna",
+        "url": "https://backup.qurango.net/radio/mahmoud_ali__albanna",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ محمود علي البنا"
+    },
+    {
+        "name": "إذاعة الشيخ\nالبنا مجود",
+        "uniqueName": "mahmoud_ali__albanna_mojawwad",
+        "url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_mojawwad",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ محمود علي البنا - مجود"
     },
     {
         "name": "إذاعة الشيخ\nإبراهيم الأخضر",
@@ -1078,56 +1128,6 @@
         "category": "quran",
         "favoriteCategory": "qareon",
         "fullDescription": "إذاعة الشيخ محمد عبدالحكيم"
-    },
-    {
-        "name": "إذاعة الشيخ\nمحمود الحصري",
-        "uniqueName": "mahmoud_khalil_alhussary",
-        "url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary",
-        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
-        "description": "LIVE",
-        "category": "quran",
-        "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة الشيخ محمود خليل الحصري"
-    },
-    {
-        "name": "إذاعة الشيخ\nالحصري مجود",
-        "uniqueName": "mahmoud_khalil_alhussary_mojawwad",
-        "url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_mojawwad",
-        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
-        "description": "LIVE",
-        "category": "quran",
-        "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة الشيخ محمود خليل الحصري - مجود"
-    },
-    {
-        "name": "إذاعة الشيخ\nالحصري ورش",
-        "uniqueName": "mahmoud_khalil_alhussary_warsh",
-        "url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_warsh",
-        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
-        "description": "LIVE",
-        "category": "quran",
-        "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة الشيخ محمود خليل الحصري ورش"
-    },
-    {
-        "name": "إذاعة الشيخ\nعلي البنا",
-        "uniqueName": "mahmoud_ali__albanna",
-        "url": "https://backup.qurango.net/radio/mahmoud_ali__albanna",
-        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
-        "description": "LIVE",
-        "category": "quran",
-        "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة الشيخ محمود علي البنا"
-    },
-    {
-        "name": "إذاعة الشيخ\nالبنا مجود",
-        "uniqueName": "mahmoud_ali__albanna_mojawwad",
-        "url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_mojawwad",
-        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
-        "description": "LIVE",
-        "category": "quran",
-        "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة الشيخ محمود علي البنا - مجود"
     },
     {
         "name": "إذاعة الشيخ\nمصطفى اللاهوني",
