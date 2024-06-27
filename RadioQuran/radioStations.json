@@ -1129,7 +1129,197 @@
         "favoriteCategory": "qareon",
         "fullDescription": "إذاعة الشيخ إدريس أبكر"
     },
-    
+    {
+        "name": "إذاعة الشيخ\nمصطفى إسماعيل",
+        "uniqueName": "mustafa_ismail",
+        "url": "https://backup.qurango.net/radio/mustafa_ismail",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ مصطفى إسماعيل"
+    },
+    {
+        "name": "إذاعة الشيخ\nمصطفى اللاهوني",
+        "uniqueName": "mustafa_allahoni",
+        "url": "https://backup.qurango.net/radio/mustafa_allahoni",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ مصطفى اللاهوني"
+    },
+    {
+        "name": "إذاعة الشيخ\nمصطفى رعد",
+        "uniqueName": "mustafa_raad_alazawy",
+        "url": "https://backup.qurango.net/radio/mustafa_raad_alazawy",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ مصطفى رعد"
+    },
+    {
+        "name": "إذاعة الشيخ\nمفتاح السلطني",
+        "uniqueName": "muftah_alsaltany_aldori_an_abi_amr",
+        "url": "https://backup.qurango.net/radio/muftah_alsaltany_aldori_an_abi_amr",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ مفتاح السلطني"
+    },
+    {
+        "name": "إذاعة الشيخ\nماهر شخاشيرو",
+        "uniqueName": "maher_shakhashero",
+        "url": "https://backup.qurango.net/radio/maher_shakhashero",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ ماهر شخاشيرو"
+    },
+    {
+        "name": "إذاعة الشيخ\nمحمود الشيمي",
+        "uniqueName": "mahmood_alsheimy",
+        "url": "https://backup.qurango.net/radio/mahmood_alsheimy",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ محمود الشيمي"
+    },
+    {
+        "name": "إذاعة الشيخ\nخالد المهنا",
+        "uniqueName": "khalid_almohana",
+        "url": "https://backup.qurango.net/radio/khalid_almohana",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ خالد المهنا"
+    },
+    {
+        "name": "إذاعة الشيخ\nموسى بلال",
+        "uniqueName": "mousa_bilal",
+        "url": "https://backup.qurango.net/radio/mousa_bilal",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ موسى بلال"
+    },
+    {
+        "name": "إذاعة الشيخ\nحاتم فريد",
+        "uniqueName": "hatem_fareed_alwaer",
+        "url": "https://backup.qurango.net/radio/hatem_fareed_alwaer",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ حاتم فريد الواعر"
+    },
+    {
+        "name": "إذاعة الشيخ\nالزين محمد",
+        "uniqueName": "alzain_mohammad_ahmad",
+        "url": "https://backup.qurango.net/radio/alzain_mohammad_ahmad",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ الزين محمد أحمد"
+    },
+    {
+        "name": "إذاعة الشيخ\nمحمود الرفاعي",
+        "uniqueName": "mahmood_al_rifai",
+        "url": "https://backup.qurango.net/radio/mahmood_al_rifai",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ محمود الرفاعي"
+    },
+    {
+        "name": "إذاعة الشيخ\nإبراهيم الدوسري",
+        "uniqueName": "ibrahim_aldosari",
+        "url": "https://backup.qurango.net/radio/ibrahim_aldosari",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ إبراهيم الدوسري"
+    },
+    {
+        "name": "إذاعة الشيخ\nمفتاح السلطني",
+        "uniqueName": "muftah_alsaltany_aldorai",
+        "url": "https://backup.qurango.net/radio/muftah_alsaltany_aldorai",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ مفتاح السلطني"
+    },
+    {
+        "name": "إذاعة الشيخ\nجمعان العصيمي",
+        "uniqueName": "jamaan_alosaimi",
+        "url": "https://backup.qurango.net/radio/jamaan_alosaimi",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ جمعان العصيمي"
+    },
+    {
+        "name": "إذاعة الشيخ\nمفتاح السلطني",
+        "uniqueName": "muftah_alsaltany",
+        "url": "https://backup.qurango.net/radio/muftah_alsaltany",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ مفتاح السلطني"
+    },
+    {
+        "name": "إذاعة الشيخ\nيوسف بن نوح",
+        "uniqueName": "yousef_bin_noah_ahmad",
+        "url": "https://backup.qurango.net/radio/yousef_bin_noah_ahmad",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ يوسف بن نوح"
+    },
+    {
+        "name": "إذاعة الشيخ\nمعيض الحارثي",
+        "uniqueName": "moeedh_alharthi",
+        "url": "https://backup.qurango.net/radio/moeedh_alharthi",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ معيض الحارثي"
+    },
+    {
+        "name": "إذاعة الشيخ\nمحمد رشاد",
+        "uniqueName": "mohammad_rashad_alshareef",
+        "url": "https://backup.qurango.net/radio/mohammad_rashad_alshareef",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ محمد رشاد الشريف"
+    },
+    {
+        "name": "إذاعة الشيخ\nأحمد خضر",
+        "uniqueName": "ahmad_khader_altarabulsi",
+        "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+        "image": "https://png.pngtree.com/png-vector/20210326/ourlarge/pngtree-quran-book-cover-arabic-calligraphy-with-floral-border-png-image_3117635.jpg",
+        "description": "LIVE",
+        "category": "quran",
+        "favoriteCategory": "qareon",
+        "fullDescription": "إذاعة الشيخ أحمد خضر الطرابلسي"
+    },
+
     {
         "name": "المختصر في\nتفسير القرآن",
         "uniqueName": "tafseerMoktaser",
