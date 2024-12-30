@@ -22,10 +22,32 @@
         "fullDescription": "إذاعة القرآن الكريم من نابلس"
     },
     {
+        "id": 2.1,
+        "name": "إذاعة القرآن\nمن القاهرة",
+        "uniqueName": "Cairo",
+        "url": "https://stream.radiojar.com/8s5u5tpdtwzuv",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn8wgjjAHz2viOfZ-MsdmGG0zMgEnww3cCLg&s",
+        "description": "93.1FM",
+        "category": "editorsChoice",
+        "favoriteCategory": "another",
+        "fullDescription": "إذاعة القرآن الكريم من القاهرة"
+    },
+    {
+        "id": 2.2,
+        "name": "إذاعة القرآن\nمن الشارقة",
+        "uniqueName": "sahreqa",
+        "url": "https://svs.itworkscdn.net/smcquranlive/quranradiolive/playlist.m3u8",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8XMtpbvPbq9cS9F2kaLp5oOYJWeckbBgTXD7PIgEEzwr1fmpvfLD2FgP9T_oWXzhYwvlTRbFW43-K6lOW88bEJ4EMEDLanLi4bREv9sKQHpnmQ79hOxRtPCKsc3s8SYHuDsGIZMDIHX0/s1600/539798_ico.png",
+        "description": "102.7FM",
+        "category": "editorsChoice",
+        "favoriteCategory": "another",
+        "fullDescription": "إذاعة القرآن الكريم من الشارقة"
+    },
+    {
         "id": 3,
         "name": "إذاعة القرآن\nمن السعودية",
         "uniqueName": "saudi",
-        "url": "https://win.holol.com/live/quran/playlist.m3u8",
+        "url": "https://stream.radiojar.com/4wqre23fytzuv",
         "image": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",
         "description": "96.8FM",
         "category": "editorsChoice",
@@ -44,17 +66,6 @@
         "fullDescription": "إذاعة السنة النبوية من المدينة المنورة"
     },
     {
-        "id": 5,
-        "name": "إذاعة القرآن\nمن الشارقة",
-        "uniqueName": "sahreqa",
-        "url": "https://svs.itworkscdn.net/smcquranlive/quranradiolive/playlist.m3u8",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8XMtpbvPbq9cS9F2kaLp5oOYJWeckbBgTXD7PIgEEzwr1fmpvfLD2FgP9T_oWXzhYwvlTRbFW43-K6lOW88bEJ4EMEDLanLi4bREv9sKQHpnmQ79hOxRtPCKsc3s8SYHuDsGIZMDIHX0/s1600/539798_ico.png",
-        "description": "102.7FM",
-        "category": "editorsChoice",
-        "favoriteCategory": "another",
-        "fullDescription": "إذاعة القرآن الكريم من الشارقة"
-    },
-    {
         "id": 6,
         "name": "إذاعة القرآن\nمن الجزائر",
         "uniqueName": "algeria",
@@ -64,6 +75,17 @@
         "category": "editorsChoice",
         "favoriteCategory": "another",
         "fullDescription": "إذاعة القرآن الكريم من الجزائر"
+    },
+    {
+        "id": 2.3,
+        "name": "إذاعة القرآن\nمن قطر",
+        "uniqueName": "Qatar",
+        "url": "https://www.quranradio.qa/dc483755-c732-4826-ac93-a6833c330fc8",
+        "image": "https://pbs.twimg.com/profile_images/875658692741349376/DRWtxFl4_400x400.jpg",
+        "description": "90.0FM",
+        "category": "editorsChoice",
+        "favoriteCategory": "another",
+        "fullDescription": "إذاعة القرآن الكريم من قطر"
     },
     {
         "id": 7,
