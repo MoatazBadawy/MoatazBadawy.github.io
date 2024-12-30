@@ -22,7 +22,7 @@
         "fullDescription": "إذاعة القرآن الكريم من نابلس"
     },
     {
-        "id": 2.1,
+        "id": 2,
         "name": "إذاعة القرآن\nمن القاهرة",
         "uniqueName": "Cairo",
         "url": "https://stream.radiojar.com/8s5u5tpdtwzuv",
@@ -33,7 +33,7 @@
         "fullDescription": "إذاعة القرآن الكريم من القاهرة"
     },
     {
-        "id": 2.2,
+        "id": 3,
         "name": "إذاعة القرآن\nمن الشارقة",
         "uniqueName": "sahreqa",
         "url": "https://svs.itworkscdn.net/smcquranlive/quranradiolive/playlist.m3u8",
@@ -66,7 +66,7 @@
         "fullDescription": "إذاعة السنة النبوية من المدينة المنورة"
     },
     {
-        "id": 6,
+        "id": 5,
         "name": "إذاعة القرآن\nمن الجزائر",
         "uniqueName": "algeria",
         "url": "https://webradio.tda.dz/Coran_64K.mp3",
@@ -77,7 +77,7 @@
         "fullDescription": "إذاعة القرآن الكريم من الجزائر"
     },
     {
-        "id": 2.3,
+        "id": 6,
         "name": "إذاعة القرآن\nمن قطر",
         "uniqueName": "Qatar",
         "url": "https://www.quranradio.qa/dc483755-c732-4826-ac93-a6833c330fc8",
