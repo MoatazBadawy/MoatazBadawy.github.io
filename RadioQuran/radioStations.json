@@ -4,12 +4,11 @@
         "name": "إذاعة القرآن\nمن البحرين",
         "uniqueName": "bahrain",
         "url": "https://5c7b683162943.streamlock.net:443/live/ngrp:radio-106-1_all/playlist.m3u8",
-        "image": "https://i0.wp.com/multies.net/wp-content/uploads/2024/04/Bahrain-Quran.png?fit=350%2C200",
+        "image": "https://i.ibb.co/Y7jgTPjQ/626c5f0890dff-1.png",
         "description": "106.1FM",
         "category": "editorsChoice",
         "favoriteCategory": "another",
-        "fullDescription": "إذاعة القرآن الكريم من البحرين",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم من البحرين"
     },
     {
         "id": 2,
@@ -20,8 +19,7 @@
         "description": "96.9FM",
         "category": "editorsChoice",
         "favoriteCategory": "another",
-        "fullDescription": "إذاعة القرآن الكريم من نابلس",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم من نابلس"
     },
     {
         "id": 3,
@@ -32,8 +30,7 @@
         "description": "96.8FM",
         "category": "editorsChoice",
         "favoriteCategory": "another",
-        "fullDescription": "إذاعة القرآن الكريم من السعودية",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم من السعودية"
     },
     {
         "id": 4,
@@ -44,8 +41,7 @@
         "description": "100FM",
         "category": "editorsChoice",
         "favoriteCategory": "another",
-        "fullDescription": "إذاعة السنة النبوية من المدينة المنورة",
-        "audioType": "radio"
+        "fullDescription": "إذاعة السنة النبوية من المدينة المنورة"
     },
     {
         "id": 5,
@@ -56,8 +52,7 @@
         "description": "102.7FM",
         "category": "editorsChoice",
         "favoriteCategory": "another",
-        "fullDescription": "إذاعة القرآن الكريم من الشارقة",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم من الشارقة"
     },
     {
         "id": 6,
@@ -68,8 +63,7 @@
         "description": "90.0FM",
         "category": "editorsChoice",
         "favoriteCategory": "another",
-        "fullDescription": "إذاعة القرآن الكريم من الجزائر",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم من الجزائر"
     },
     {
         "id": 7,
@@ -80,8 +74,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد أيوب",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد أيوب"
     },
     {
         "id": 8,
@@ -92,8 +85,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ علي جابر",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ علي جابر"
     },
     {
         "id": 9,
@@ -104,8 +96,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد عبدالكريم",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد عبدالكريم"
     },
     {
         "id": 10,
@@ -116,8 +107,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ الفاتح محمد الزبير",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ الفاتح محمد الزبير"
     },
     {
         "id": 11,
@@ -128,8 +118,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد صديق المنشاوي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد صديق المنشاوي"
     },
     {
         "id": 12,
@@ -140,8 +129,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد صديق المنشاوي مجود",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد صديق المنشاوي مجود"
     },
     {
         "id": 13,
@@ -152,8 +140,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد جبريل",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد جبريل"
     },
     {
         "id": 14,
@@ -164,8 +151,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ أحمد عامر",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ أحمد عامر"
     },
     {
         "id": 15,
@@ -176,8 +162,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ علي الحذيفي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ علي الحذيفي"
     },
     {
         "id": 16,
@@ -188,8 +173,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالرحمن الماجد",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالرحمن الماجد"
     },
     {
         "id": 17,
@@ -200,8 +184,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ محمود خليل الحصري",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ محمود خليل الحصري"
     },
     {
         "id": 18,
@@ -212,8 +195,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ محمود خليل الحصري - مجود",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ محمود خليل الحصري - مجود"
     },
     {
         "id": 19,
@@ -224,8 +206,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ إدريس أبكر",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ إدريس أبكر"
     },
     {
         "id": 20,
@@ -236,8 +217,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ مصطفى إسماعيل",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ مصطفى إسماعيل"
     },
     {
         "id": 21,
@@ -248,8 +228,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالباسط عبدالصمد",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالباسط عبدالصمد"
     },
     {
         "id": 22,
@@ -260,8 +239,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالباسط مجود",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالباسط مجود"
     },
     {
         "id": 23,
@@ -272,8 +250,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد أيوب قراءة متميزة",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد أيوب قراءة متميزة"
     },
     {
         "id": 24,
@@ -284,8 +261,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالله المطرود",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالله المطرود"
     },
     {
         "id": 25,
@@ -296,8 +272,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة الشيخ القرآن الكريم للشيخ علي البنا",
-        "audioType": "radio"
+        "fullDescription": "إذاعة الشيخ القرآن الكريم للشيخ علي البنا"
     },
     {
         "id": 26,
@@ -308,8 +283,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة الشيخ القرآن الكريم للشيخ علي البنا - مجود",
-        "audioType": "radio"
+        "fullDescription": "إذاعة الشيخ القرآن الكريم للشيخ علي البنا - مجود"
     },
     {
         "id": 27,
@@ -320,8 +294,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ إبراهيم الأخضر",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ إبراهيم الأخضر"
     },
     {
         "id": 28,
@@ -332,8 +305,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ أحمد الطرابلسي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ أحمد الطرابلسي"
     },
     {
         "id": 29,
@@ -344,8 +316,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالله الكندري",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالله الكندري"
     },
     {
         "id": 30,
@@ -356,8 +327,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد عثمان خان",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد عثمان خان"
     },
     {
         "id": 31,
@@ -368,8 +338,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ الدوكالي محمد العالم",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ الدوكالي محمد العالم"
     },
     {
         "id": 32,
@@ -380,8 +349,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ طارق عبدالغني دعوب",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ طارق عبدالغني دعوب"
     },
     {
         "id": 33,
@@ -392,8 +360,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ ياسر الدوسري",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ ياسر الدوسري"
     },
     {
         "id": 34,
@@ -404,8 +371,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ ياسر القرشي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ ياسر القرشي"
     },
     {
         "id": 35,
@@ -416,8 +382,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ أحمد نعينع",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ أحمد نعينع"
     },
     {
         "id": 36,
@@ -428,8 +393,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ ياسر المزروعي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ ياسر المزروعي"
     },
     {
         "id": 37,
@@ -440,8 +404,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة الشيخ القرآن الكريم للشيخ خليل الحصري ورش",
-        "audioType": "radio"
+        "fullDescription": "إذاعة الشيخ القرآن الكريم للشيخ خليل الحصري ورش"
     },
     {
         "id": 38,
@@ -452,8 +415,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالباسط ورش",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالباسط ورش"
     },
     {
         "id": 39,
@@ -464,8 +426,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "الإذاعة العامة - اذاعة متنوعة لمختلف القراء",
-        "audioType": "radio"
+        "fullDescription": "الإذاعة العامة - اذاعة متنوعة لمختلف القراء"
     },
     {
         "id": 40,
@@ -476,8 +437,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "الإذاعة العامة - اذاعة متنوعة تلاوات خاشعة",
-        "audioType": "radio"
+        "fullDescription": "الإذاعة العامة - اذاعة متنوعة تلاوات خاشعة"
     }, 
     {
         "id": 41,
@@ -488,8 +448,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "الإذاعة العامة - اذاعة آيات السكينة",
-        "audioType": "radio"
+        "fullDescription": "الإذاعة العامة - اذاعة آيات السكينة"
     },
     {
         "id": 42,
@@ -500,8 +459,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ صالح الهبدان",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ صالح الهبدان"
     },
     {
         "id": 43,
@@ -512,8 +470,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ العيون الكوشي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ العيون الكوشي"
     },
     {
         "id": 44,
@@ -524,8 +481,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة سورة البقرة - لعدد من القراء",
-        "audioType": "radio"
+        "fullDescription": "إذاعة سورة البقرة - لعدد من القراء"
     },
     {
         "id": 45,
@@ -536,8 +492,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ خالد الجليل",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ خالد الجليل"
     },
     {
         "id": 46,
@@ -548,8 +503,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ ناصر الماجد",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ ناصر الماجد"
     },
     {
         "id": 47,
@@ -560,8 +514,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ هيثم الجدعاني",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ هيثم الجدعاني"
     },
     {
         "id": 48,
@@ -572,8 +525,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ توفيق الصايغ",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ توفيق الصايغ"
     },
     {
         "id": 49,
@@ -584,8 +536,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ أحمد شاهين",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ أحمد شاهين"
     },
     {
         "id": 50,
@@ -596,8 +547,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالله الموسى",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالله الموسى"
     },
     {
         "id": 51,
@@ -608,8 +558,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالله الخلف",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالله الخلف"
     },
     {
         "id": 52,
@@ -620,8 +569,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة تراتيل قصيرة متميزة",
-        "audioType": "radio"
+        "fullDescription": "إذاعة تراتيل قصيرة متميزة"
     },
     {
         "id": 53,
@@ -632,8 +580,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ جمال شاكر",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ جمال شاكر"
     },
     {
         "id": 54,
@@ -644,8 +591,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ ماجد الزامل",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ ماجد الزامل"
     },
     {
         "id": 55,
@@ -656,8 +602,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ خالد القحطاني",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ خالد القحطاني"
     },
     {
         "id": 56,
@@ -668,8 +613,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ خالد عبدالكافي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ خالد عبدالكافي"
     },
     {
         "id": 57,
@@ -680,8 +624,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ خليفة الطنيجي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ خليفة الطنيجي"
     },
     {
         "id": 58,
@@ -692,8 +635,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ سعد الغامدي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ سعد الغامدي"
     },
     {
         "id": 59,
@@ -704,8 +646,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ سعود الشريم",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ سعود الشريم"
     },
     {
         "id": 60,
@@ -716,8 +657,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ سهل ياسين",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ سهل ياسين"
     },
     {
         "id": 61,
@@ -728,8 +668,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ أبو بكر الشاطري",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ أبو بكر الشاطري"
     },
     {
         "id": 62,
@@ -740,8 +679,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ زكي داغستاني",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ زكي داغستاني"
     },
     {
         "id": 63,
@@ -752,8 +690,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ سيد رمضان",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ سيد رمضان"
     },
     {
         "id": 64,
@@ -764,8 +701,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ بندر بليلة",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ بندر بليلة"
     },
     {
         "id": 65,
@@ -776,8 +712,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ شيرزاد عبدالرحمن",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ شيرزاد عبدالرحمن"
     },
     {
         "id": 66,
@@ -788,8 +723,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ صابر عبدالحكم",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ صابر عبدالحكم"
     },
     {
         "id": 67,
@@ -800,8 +734,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ صلاح البدير",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ صلاح البدير"
     },
     {
         "id": 68,
@@ -812,8 +745,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ ناصر العصفور",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ ناصر العصفور"
     },
     {
         "id": 69,
@@ -824,8 +756,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ صلاح الهاشم",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ صلاح الهاشم"
     },
     {
         "id": 70,
@@ -836,8 +767,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ صلاح بو خاطر",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ صلاح بو خاطر"
     },
     {
         "id": 71,
@@ -848,8 +778,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ أحمد ديبان",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ أحمد ديبان"
     },
     {
         "id": 72,
@@ -860,8 +789,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ عادل ريان",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ عادل ريان"
     },
     {
         "id": 73,
@@ -872,8 +800,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد أبوسنينة",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد أبوسنينة"
     },
     {
         "id": 74,
@@ -884,8 +811,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ الأمين قنيوة",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ الأمين قنيوة"
     },
     {
         "id": 75,
@@ -896,8 +822,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالبارئ الثبيتي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالبارئ الثبيتي"
     },
     {
         "id": 76,
@@ -908,8 +833,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالرحمن الشحات",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالرحمن الشحات"
     },
     {
         "id": 77,
@@ -920,8 +844,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالبارئ محمد",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالبارئ محمد"
     },
     {
         "id": 78,
@@ -932,8 +855,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ أحمد العجمي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ أحمد العجمي"
     },
     {
         "id": 79,
@@ -944,8 +866,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالعزيز سحيم",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالعزيز سحيم"
     },
     {
         "id": 80,
@@ -956,8 +877,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالرحمن السديس",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالرحمن السديس"
     },
     {
         "id": 81,
@@ -968,8 +888,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالعزيز الأحمد",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالعزيز الأحمد"
     },
     {
         "id": 82,
@@ -980,8 +899,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالله بصفر",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالله بصفر"
     },
     {
         "id": 83,
@@ -992,8 +910,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالله خياط",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالله خياط"
     },
     {
         "id": 84,
@@ -1004,8 +921,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالله الجهني",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالله الجهني"
     },
     {
         "id": 85,
@@ -1016,8 +932,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالرشيد صوفي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالرشيد صوفي"
     },
     {
         "id": 86,
@@ -1028,8 +943,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ أحمد الحواشي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ أحمد الحواشي"
     },
     {
         "id": 87,
@@ -1040,8 +954,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالمحسن الحارثي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالمحسن الحارثي"
     },
     {
         "id": 88,
@@ -1052,8 +965,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالمحسن القاسم",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالمحسن القاسم"
     },
     {
         "id": 89,
@@ -1064,8 +976,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالمحسن العبيكان",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالمحسن العبيكان"
     },
     {
         "id": 90,
@@ -1076,8 +987,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالهادي كناكري",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالهادي كناكري"
     },
     {
         "id": 91,
@@ -1088,8 +998,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالودود حنيف",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ عبدالودود حنيف"
     },
     {
         "id": 92,
@@ -1100,8 +1009,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ علي الحذيفي قالون",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ علي الحذيفي قالون"
     },
     {
         "id": 93,
@@ -1112,8 +1020,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ علي السويسي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ علي السويسي"
     },
     {
         "id": 94,
@@ -1124,8 +1031,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ أحمد صابر",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ أحمد صابر"
     },
     {
         "id": 95,
@@ -1136,8 +1042,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ عماد زهير حافظ",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ عماد زهير حافظ"
     },
     {
         "id": 96,
@@ -1148,8 +1053,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ عمر القزابري",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ عمر القزابري"
     },
     {
         "id": 97,
@@ -1160,8 +1064,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ فارس عباد",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ فارس عباد"
     },
     {
         "id": 98,
@@ -1172,8 +1075,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ ناصر القطامي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ ناصر القطامي"
     },
     {
         "id": 99,
@@ -1184,8 +1086,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ نبيل الرفاعي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ نبيل الرفاعي"
     },
     {
         "id": 100,
@@ -1196,8 +1097,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ نعمة الحسان",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ نعمة الحسان"
     },
     {
         "id": 101,
@@ -1208,8 +1108,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ هاني الرفاعي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ هاني الرفاعي"
     },
     {
         "id": 102,
@@ -1220,8 +1119,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ وليد النائحي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ وليد النائحي"
     },
     {
         "id": 103,
@@ -1232,8 +1130,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ يحيى حوا",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ يحيى حوا"
     },
     {
         "id": 104,
@@ -1244,8 +1141,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ يوسف الشويعي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ يوسف الشويعي"
     },
     {
         "id": 105,
@@ -1256,8 +1152,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ ماهر المعيقلي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ ماهر المعيقلي"
     },
     {
         "id": 106,
@@ -1268,8 +1163,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد الطبلاوي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد الطبلاوي"
     },
     {
         "id": 107,
@@ -1280,8 +1174,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد اللحيدان",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد اللحيدان"
     },
     {
         "id": 108,
@@ -1292,8 +1185,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ القارئ ياسين",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ القارئ ياسين"
     },
     {
         "id": 109,
@@ -1304,8 +1196,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد عالم شاه",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد عالم شاه"
     },
     {
         "id": 110,
@@ -1316,8 +1207,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد عبدالكريم",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد عبدالكريم"
     },
     {
         "id": 111,
@@ -1328,8 +1218,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ أكرم العلاقمي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ أكرم العلاقمي"
     },
     {
         "id": 112,
@@ -1340,8 +1229,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد عبدالحكيم",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد عبدالحكيم"
     },
     {
         "id": 113,
@@ -1352,8 +1240,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ مصطفى اللاهوني",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ مصطفى اللاهوني"
     },
     {
         "id": 114,
@@ -1364,8 +1251,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ مصطفى رعد",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ مصطفى رعد"
     },
     {
         "id": 115,
@@ -1376,8 +1262,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ مفتاح السلطني",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ مفتاح السلطني"
     },
     {
         "id": 116,
@@ -1388,8 +1273,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ ماهر شخاشيرو",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ ماهر شخاشيرو"
     },
     {
         "id": 117,
@@ -1400,8 +1284,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ محمود الشيمي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ محمود الشيمي"
     },
     {
         "id": 118,
@@ -1412,8 +1295,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ خالد المهنا",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ خالد المهنا"
     },
     {
         "id": 119,
@@ -1424,8 +1306,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ موسى بلال",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ موسى بلال"
     },
     {
         "id": 120,
@@ -1436,8 +1317,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ حاتم فريد الواعر",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ حاتم فريد الواعر"
     },
     {
         "id": 121,
@@ -1448,8 +1328,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ الزين محمد أحمد",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ الزين محمد أحمد"
     },
     {
         "id": 122,
@@ -1460,8 +1339,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ محمود الرفاعي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ محمود الرفاعي"
     },
     {
         "id": 123,
@@ -1472,8 +1350,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ إبراهيم الدوسري",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ إبراهيم الدوسري"
     },
     {
         "id": 124,
@@ -1484,8 +1361,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ مفتاح السلطني",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ مفتاح السلطني"
     },
     {
         "id": 125,
@@ -1496,8 +1372,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ جمعان العصيمي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ جمعان العصيمي"
     },
     {
         "id": 126,
@@ -1508,8 +1383,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ مفتاح السلطني",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ مفتاح السلطني"
     },
     {
         "id": 127,
@@ -1520,8 +1394,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ يوسف بن نوح",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ يوسف بن نوح"
     },
     {
         "id": 128,
@@ -1532,8 +1405,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ معيض الحارثي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ معيض الحارثي"
     },
     {
         "id": 129,
@@ -1544,8 +1416,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد رشاد الشريف",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ محمد رشاد الشريف"
     },
     {
         "id": 130,
@@ -1556,8 +1427,7 @@
         "description": "LIVE",
         "category": "quran",
         "favoriteCategory": "qareon",
-        "fullDescription": "إذاعة القرآن الكريم للشيخ أحمد خضر الطرابلسي",
-        "audioType": "radio"
+        "fullDescription": "إذاعة القرآن الكريم للشيخ أحمد خضر الطرابلسي"
     },
     {
         "id": 132,
@@ -1568,8 +1438,7 @@
         "description": "LIVE",
         "category": "more",
         "favoriteCategory": "another",
-        "fullDescription": "المختصر في تفسير القرآن الكريم",
-        "audioType": "radio"
+        "fullDescription": "المختصر في تفسير القرآن الكريم"
     },
     {
         "id": 133,
@@ -1580,8 +1449,7 @@
         "description": "LIVE",
         "category": "more",
         "favoriteCategory": "another",
-        "fullDescription": "تفسير الطبري من كتابه جامع البيان عن تأويل آي القرآن",
-        "audioType": "radio"
+        "fullDescription": "تفسير الطبري من كتابه جامع البيان عن تأويل آي القرآن"
     },
     {
         "id": 134,
@@ -1592,8 +1460,7 @@
         "description": "LIVE",
         "category": "more",
         "favoriteCategory": "another",
-        "fullDescription": "في ظلال السيرة النبوية - 400 حلقة عن سيرة نبينا محمد صلى الله عليه وسلم",
-        "audioType": "radio"
+        "fullDescription": "في ظلال السيرة النبوية - 400 حلقة عن سيرة نبينا محمد صلى الله عليه وسلم"
     },
     {
         "id": 135,
@@ -1604,8 +1471,7 @@
         "description": "LIVE",
         "category": "more",
         "favoriteCategory": "another",
-        "fullDescription": "إذاعة صور من حياة الصحابة والتابعين رضوان الله عليهم",
-        "audioType": "radio"
+        "fullDescription": "إذاعة صور من حياة الصحابة والتابعين رضوان الله عليهم"
     },
     {
         "id": 136,
@@ -1616,8 +1482,7 @@
         "description": "LIVE",
         "category": "more",
         "favoriteCategory": "another",
-        "fullDescription": "أذكار الصباح",
-        "audioType": "radio"
+        "fullDescription": "أذكار الصباح"
     },
     {
         "id": 137,
@@ -1628,8 +1493,7 @@
         "description": "LIVE",
         "category": "more",
         "favoriteCategory": "another",
-        "fullDescription": "أذكار المساء",
-        "audioType": "radio"
+        "fullDescription": "أذكار المساء"
     },
     {
         "id": 138,
@@ -1640,8 +1504,7 @@
         "description": "LIVE",
         "category": "more",
         "favoriteCategory": "another",
-        "fullDescription": "تكبيرات العيد",
-        "audioType": "radio"
+        "fullDescription": "تكبيرات العيد"
     },
     {
         "id": 139,
@@ -1652,7 +1515,6 @@
         "description": "LIVE",
         "category": "more",
         "favoriteCategory": "another",
-        "fullDescription": "الرقية الشرعية",
-        "audioType": "radio"
+        "fullDescription": "الرقية الشرعية"
     }
 ]
