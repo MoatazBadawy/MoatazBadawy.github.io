@@ -48,30 +48,6 @@
         "audioType": "radio"
     },
     {
-        "id": 4,
-        "name": "إذاعة القرآن\nمن القاهرة",
-        "uniqueName": "cairo",
-        "url": "https://n0d.radiojar.com/8s5u5tpdtwzuv?rj-ttl=5&rj-tok=AAABlWuEjXMAkiZSpBC7U5GW1A",
-        "image": "https://i1.sndcdn.com/artworks-wfgwWzo4NwISmGJY-QLLsww-t500x500.jpg",
-        "description": "103.2FM",
-        "category": "editorsChoice",
-        "favoriteCategory": "another",
-        "fullDescription": "إذاعة القرآن الكريم من القاهرة",
-        "audioType": "radio"
-    },
-    {
-        "id": 4,
-        "name": "إذاعة القرآن\nالوطن الإسلامي",
-        "uniqueName": "islamic_world",
-        "url": "https://qurango.net/radio/salma",
-        "image": "https://i.ytimg.com/vi/gQWR51-DOmQ/maxresdefault.jpg",
-        "description": "10.2FM",
-        "category": "editorsChoice",
-        "favoriteCategory": "another",
-        "fullDescription": "إذاعة القرآن الكريم من الوطن الإسلامي",
-        "audioType": "radio"
-    },
-    {
         "id": 5,
         "name": "إذاعة القرآن\nمن الشارقة",
         "uniqueName": "sahreqa",
