@@ -75,5 +75,18 @@
                 "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
             }
         ]
+    },
+    {
+        "id": 6,
+        "name": "أبو بكر الشاطري",
+        "uniqueName": "AbuBakrAlShatri",
+        "quranReadingTypes": [
+            {
+                "id": 1,
+                "name": "حفص عن عاصم - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            }
+        ]
     }
 ]
