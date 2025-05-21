@@ -37,18 +37,6 @@
     },
     {
         "id": 4,
-        "name": "إذاعة القرآن\nمن القاهرة",
-        "uniqueName": "cairo",
-        "url": "https://stream.radiojar.com/8s5u5tpdtwzuv",
-        "image": "https://i1.sndcdn.com/avatars-000268309089-nt5p4f-t240x240.jpg",
-        "description": "103.2FM",
-        "category": "international_radios",
-        "favoriteCategory": "another",
-        "fullDescription": "إذاعة القرآن الكريم من القاهرة",
-        "audioType": "radio"
-    },
-    {
-        "id": 5,
         "name": "إذاعة القرآن\nمن الشارقة",
         "uniqueName": "sahreqa",
         "url": "https://svs.itworkscdn.net/smcquranlive/quranradiolive/playlist.m3u8",
@@ -57,6 +45,18 @@
         "category": "international_radios",
         "favoriteCategory": "another",
         "fullDescription": "إذاعة القرآن الكريم من الشارقة",
+        "audioType": "radio"
+    },
+    {
+        "id": 5,
+        "name": "إذاعة القرآن\nمن القاهرة",
+        "uniqueName": "cairo",
+        "url": "https://stream.radiojar.com/8s5u5tpdtwzuv",
+        "image": "https://i1.sndcdn.com/avatars-000268309089-nt5p4f-t240x240.jpg",
+        "description": "103.2FM",
+        "category": "international_radios",
+        "favoriteCategory": "another",
+        "fullDescription": "إذاعة القرآن الكريم من القاهرة",
         "audioType": "radio"
     },
     {
