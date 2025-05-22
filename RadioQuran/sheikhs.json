@@ -3,6 +3,7 @@
         "id": 1,
         "name": "علي جابر",
         "uniqueName": "aliGaber",
+        "letter": "ع",
         "quranReadingTypes": [
             {
                 "id": 1,
@@ -16,6 +17,7 @@
         "id": 2,
         "name": "عبد الباسط عبد الصمد",
         "uniqueName": "AbdulBasit",
+        "letter": "ع",
         "quranReadingTypes": [
             {
                 "id": 1,
@@ -35,6 +37,7 @@
         "id": 3,
         "name": "محمد صديق المنشاوي",
         "uniqueName": "MohamedSidiq",
+        "letter": "م",
         "quranReadingTypes": [
             {
                 "id": 1,
@@ -53,6 +56,7 @@
     {
         "id": 4,
         "name": "عبد الرحمن السديس",
+        "letter": "ع",
         "uniqueName": "AbdulRahmanAsSudais",
         "quranReadingTypes": [
             {
@@ -66,6 +70,7 @@
     {
         "id": 5,
         "name": "مشاري راشد العفاسي",
+        "letter": "م",
         "uniqueName": "MisharyAlafasy",
         "quranReadingTypes": [
             {
@@ -79,6 +84,7 @@
     {
         "id": 6,
         "name": "أبو بكر الشاطري",
+        "letter": "أ",
         "uniqueName": "AbuBakrAlShatri",
         "quranReadingTypes": [
             {
@@ -93,6 +99,7 @@
         "id": 7,
         "name": "إبراهيم الأخضر",
         "uniqueName": "akdr",
+        "letter": "أ",
         "quranReadingTypes": [
             {
                 "id": 1,
@@ -106,6 +113,7 @@
         "id": 8,
         "name": "أكرم العلاقمي",
         "uniqueName": "akrm",
+        "letter": "أ",
         "quranReadingTypes": [
             {
                 "id": 1,
@@ -119,6 +127,7 @@
         "id": 9,
         "name": "ماجد العنزي",
         "uniqueName": "majd_alanzi",
+        "letter": "م",
         "quranReadingTypes": [
             {
                 "id": 1,
@@ -132,6 +141,7 @@
         "id": 10,
         "name": "مالك شيبة الحمد",
         "uniqueName": "shaibat",
+        "letter": "م",
         "quranReadingTypes": [
             {
                 "id": 1,
@@ -145,6 +155,7 @@
         "id": 11,
         "name": "ماهر المعيقلي",
         "uniqueName": "maher",
+        "letter": "م",
         "quranReadingTypes": [
             {
                 "id": 1,
@@ -158,6 +169,7 @@
         "id": 12,
         "name": "محمد الأيراوي",
         "uniqueName": "earawi",
+        "letter": "م",
         "quranReadingTypes": [
             {
                 "id": 1,
@@ -171,6 +183,7 @@
         "id": 13,
         "name": "محمد البراك",
         "uniqueName": "braak",
+        "letter": "م",
         "quranReadingTypes": [
             {
                 "id": 1,
@@ -184,6 +197,7 @@
         "id": 14,
         "name": "محمد الطبلاوي",
         "uniqueName": "tblawi",
+        "letter": "م",
         "quranReadingTypes": [
             {
                 "id": 1,
@@ -197,6 +211,7 @@
         "id": 15,
         "name": "محمد الليحدان",
         "uniqueName": "lhdan",
+        "letter": "م",
         "quranReadingTypes": [
             {
                 "id": 1,
@@ -210,6 +225,7 @@
         "id": 16,
         "name": "محمد المحسني",
         "uniqueName": "mhsny",
+        "letter": "م",
         "quranReadingTypes": [
             {
                 "id": 1,
@@ -223,6 +239,7 @@
         "id": 17,
         "name": "محمد أيوب",
         "uniqueName": "ayyoub",
+        "letter": "م",
         "quranReadingTypes": [
             {
                 "id": 1,
@@ -236,6 +253,7 @@
         "id": 18,
         "name": "الحسيني العزازي",
         "uniqueName": "3azazi",
+        "letter": "أ",
         "quranReadingTypes": [
             {
                 "id": 1,
