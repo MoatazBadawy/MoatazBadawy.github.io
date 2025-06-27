@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "surah": "سورة الفاتحة",
+        "url": "https://www.radioquran.com/sheikhs/aliGaber/001.mp3"
+    },
+    {
+        "id": 2,
+        "surah": "سورة البقرة",
+        "url": "https://www.radioquran.com/sheikhs/aliGaber/002.mp3"
+    },
+    {
+        "id": 3,
+        "surah": "سورة آل عمران",
+        "url": "https://www.radioquran.com/sheikhs/aliGaber/003.mp3"
+    },
+    {
+        "id": 4,
+        "surah": "سورة النساء",
+        "url": "https://www.radioquran.com/sheikhs/aliGaber/004.mp3"
+    },
+    {
+        "id": 5,
+        "surah": "سورة المائدة",
+        "url": "https://www.radioquran.com/sheikhs/aliGaber/005.mp3"
+    }
+]
