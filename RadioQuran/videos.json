@@ -33,7 +33,7 @@
                 "thumbnail": "https://radioquran.com/assets/images/abdulrah",
                 "time": "26:48",
                 "channel": "عبد الرحمن السديس",
-                "cahnnelImage": "https://radioquran.com/abdulrahman-al-sudais"
+                "channelImage": "https://radioquran.com/abdulrahman-al-sudais"
             },
             {
                 "title": "تلاوة الشيخ سعود الشريم",
@@ -41,7 +41,7 @@
                 "thumbnail": "https://radioquran.com/assets/images/saud-al-shuraim.png",
                 "time": "30:15",
                 "channel": "سعود الشريم",
-                "cahnnelImage": "https://radioquran.com/saud-al-shuraim"
+                "channelImage": "https://radioquran.com/saud-al-shuraim"
             },
             {
                 "title": "تلاوة الشيخ ماهر المعيقلي",
@@ -49,7 +49,7 @@
                 "thumbnail": "https://radioquran.com/assets/images/maher-al-moaikly.png",
                 "time": "28:30",
                 "channel": "ماهر المعيقلي",
-                "cahnnelImage": "https://radioquran.com/maher-al-moaikly"
+                "channelImage": "https://radioquran.com/maher-al-moaikly"
             },
             {
                 "title": "تلاوة الشيخ ياسر الدوسري",
@@ -57,7 +57,7 @@
                 "thumbnail": "https://radioquran.com/assets/images/yasser-al-dosari.png",
                 "time": "29:45",
                 "channel": "ياسر الدوسري",
-                "cahnnelImage": "https://radioquran.com/yasser-al-dosari"
+                "channelImage": "https://radioquran.com/yasser-al-dosari"
             },
             {
                 "title": "تلاوة الشيخ بندر بليلة",
@@ -65,7 +65,7 @@
                 "thumbnail": "https://radioquran.com/assets/images/bandar-balayla.png",
                 "time": "27:20",
                 "channel": "بندر بليلة",
-                "cahnnelImage": "https://radioquran.com/bandar-balayla"
+                "channelImage": "https://radioquran.com/bandar-balayla"
             }
         ]
     },
@@ -79,7 +79,7 @@
                 "thumbnail": "https://radioquran.com/assets/images/mishary-alafasy.png",
                 "time": "31:20",
                 "channel": "مشاري العفاسي",
-                "cahnnelImage": "https://radioquran.com/mishary-alafasy"
+                "channelImage": "https://radioquran.com/mishary-alafasy"
             },
             {
                 "title": "تلاوة الشيخ محمد جبريل",
@@ -87,7 +87,7 @@
                 "thumbnail": "https://radioquran.com/assets/images/mohamed-gibril.png",
                 "time": "29:10",
                 "channel": "محمد جبريل",
-                "cahnnelImage": "https://radioquran.com/mohamed-gibril"
+                "channelImage": "https://radioquran.com/mohamed-gibril"
             },
             {
                 "title": "تلاوة الشيخ علي جابر",
@@ -95,7 +95,7 @@
                 "thumbnail": "https://radioquran.com/assets/images/ali-jaber.png",
                 "time": "30:05",
                 "channel": "علي جابر",
-                "cahnnelImage": "https://radioquran.com/ali-jaber"
+                "channelImage": "https://radioquran.com/ali-jaber"
             },
             {
                 "title": "تلاوة الشيخ عبد الباسط عبد الصمد",
@@ -103,7 +103,7 @@
                 "thumbnail": "https://radioquran.com/assets/images/abdulbasit-abdussamad.png",
                 "time": "32:15",
                 "channel": "عبد الباسط عبد الصمد",
-                "cahnnelImage": "https://radioquran.com/abdulbasit-abdussamad"
+                "channelImage": "https://radioquran.com/abdulbasit-abdussamad"
             },
             {
                 "title": "تلاوة الشيخ سعد الغامدي",
@@ -111,7 +111,7 @@
                 "thumbnail": "https://radioquran.com/assets/images/saad-alghamdi.png",
                 "time": "28:50",
                 "channel": "سعد الغامدي",
-                "cahnnelImage": "https://radioquran.com/saad-alghamdi"
+                "channelImage": "https://radioquran.com/saad-alghamdi"
             }
         ]
     },
@@ -125,7 +125,7 @@
                 "thumbnail": "https://radioquran.com/assets/images/abdulrahman-al-sudais-latest.png",
                 "time": "27:30",
                 "channel": "عبد الرحمن السديس",
-                "cahnnelImage": "https://radioquran.com/abdulrahman-al-sudais"
+                "channelImage": "https://radioquran.com/abdulrahman-al-sudais"
             },
             {
                 "title": "تلاوة الشيخ سعود الشريم",
@@ -133,7 +133,7 @@
                 "thumbnail": "https://radioquran.com/assets/images/saud-al-shuraim-latest.png",
                 "time": "29:00",
                 "channel": "سعود الشريم",
-                "cahnnelImage": "https://radioquran.com/saud-al-shuraim"
+                "channelImage": "https://radioquran.com/saud-al-shuraim"
             },
             {
                 "title": "تلاوة الشيخ ماهر المعيقلي",
@@ -141,7 +141,7 @@
                 "thumbnail": "https://radioquran.com/assets/images/maher-al-moaikly-latest.png",
                 "time": "30:10",
                 "channel": "ماهر المعيقلي",
-                "cahnnelImage": "https://radioquran.com/maher-al-moaikly"
+                "channelImage": "https://radioquran.com/maher-al-moaikly"
             },
             {
                 "title": "تلاوة الشيخ ياسر الدوسري",
@@ -149,7 +149,7 @@
                 "thumbnail": "https://radioquran.com/assets/images/yasser-al-dosari-latest.png",
                 "time": "28:45",
                 "channel": "ياسر الدوسري",
-                "cahnnelImage": "https://radioquran.com/yasser-al-dosari"
+                "channelImage": "https://radioquran.com/yasser-al-dosari"
             }
         ]
     }
