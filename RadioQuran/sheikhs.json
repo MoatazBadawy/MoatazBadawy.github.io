@@ -1,0 +1,407 @@
+[
+    {
+        "id": 1,
+        "name": "علي جابر",
+        "uniqueName": "aliGaber",
+        "image": "https://www.okaz.com.sa/uploads/images/2024/03/13/2366526.jpg",
+        "letter": "ع",
+        "quranReadingTypes": [
+            {
+                "id": 1,
+                "name": "حفص عن عاصم - مرتل",
+                "uniqueName": "haffs",
+                "url": "aliGaber_haffs.json"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "عبد الباسط عبد الصمد",
+        "uniqueName": "AbdulBasit",
+        "letter": "ع",
+        "quranReadingTypes": [
+            {
+                "id": 1,
+                "name": "حفص عن عاصم - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/2/haffs.mp3"
+            },
+            {
+                "id": 2,
+                "name": "ورش عن نافع - مرتل",
+                "uniqueName": "warrsh",
+                "url": "https://www.quran.com/-/media/reciters/2/warrsh.mp3"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "محمد صديق المنشاوي",
+        "uniqueName": "MohamedSidiq",
+        "letter": "م",
+        "quranReadingTypes": [
+            {
+                "id": 1,
+                "name": "حفص عن عاصم - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/3/haffs.mp3"
+            },
+            {
+                "id": 2,
+                "name": "ورش عن نافع - مرتل",
+                "uniqueName": "warrsh",
+                "url": "https://www.quran.com/-/media/reciters/2/warrsh.mp3"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "عبد الرحمن السديس",
+        "letter": "ع",
+        "uniqueName": "AbdulRahmanAsSudais",
+        "quranReadingTypes": [
+            {
+                "id": 1,
+                "name": "حفص عن عاصم - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/4/haffs.mp3"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "مشاري راشد العفاسي",
+        "letter": "م",
+        "uniqueName": "MisharyAlafasy",
+        "quranReadingTypes": [
+            {
+                "id": 1,
+                "name": "حفص عن عاصم - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "أبو بكر الشاطري",
+        "letter": "أ",
+        "uniqueName": "AbuBakrAlShatri",
+        "quranReadingTypes": [
+            {
+                "id": 1,
+                "name": "حفص عن عاصم - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "إبراهيم الأخضر",
+        "uniqueName": "akdr",
+        "letter": "أ",
+        "quranReadingTypes": [
+            {
+                "id": 1,
+                "name": "حفص عن عاصم - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "أكرم العلاقمي",
+        "uniqueName": "akrm",
+        "letter": "أ",
+        "quranReadingTypes": [
+            {
+                "id": 1,
+                "name": "حفص عن عاصم - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "ماجد العنزي",
+        "uniqueName": "majd_alanzi",
+        "letter": "م",
+        "quranReadingTypes": [
+            {
+                "id": 1,
+                "name": "حفص عن عاصم - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "مالك شيبة الحمد",
+        "uniqueName": "shaibat",
+        "letter": "م",
+        "quranReadingTypes": [
+            {
+                "id": 1,
+                "name": "حفص عن عاصم - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "ماهر المعيقلي",
+        "uniqueName": "maher",
+        "letter": "م",
+        "quranReadingTypes": [
+            {
+                "id": 1,
+                "name": "حفص عن عاصم - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "محمد الأيراوي",
+        "uniqueName": "earawi",
+        "letter": "م",
+        "quranReadingTypes": [
+            {
+                "id": 1,
+                "name": "ورش عن نافع عن طريق الأزرق - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "محمد البراك",
+        "uniqueName": "braak",
+        "letter": "م",
+        "quranReadingTypes": [
+            {
+                "id": 1,
+                "name": "حفص عن عاصم - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "محمد الطبلاوي",
+        "uniqueName": "tblawi",
+        "letter": "م",
+        "quranReadingTypes": [
+            {
+                "id": 1,
+                "name": "حفص عن عاصم - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "محمد الليحدان",
+        "uniqueName": "lhdan",
+        "letter": "م",
+        "quranReadingTypes": [
+            {
+                "id": 1,
+                "name": "حفص عن عاصم - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "محمد المحسني",
+        "uniqueName": "mhsny",
+        "letter": "م",
+        "quranReadingTypes": [
+            {
+                "id": 1,
+                "name": "حفص عن عاصم - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "محمد أيوب",
+        "uniqueName": "ayyoub",
+        "letter": "م",
+        "quranReadingTypes": [
+            {
+                "id": 1,
+                "name": "حفص عن عاصم - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "الحسيني العزازي",
+        "uniqueName": "3azazi",
+        "letter": "أ",
+        "quranReadingTypes": [
+            {
+                "id": 1,
+                "name": "المصحف المعلم - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "محمد صالح عالم شاه",
+        "uniqueName": "shah",
+        "letter": "م",
+        "quranReadingTypes": [
+            {
+                "id": 1,
+                "name": "المصحف المعلم - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "محمد جبريل",
+        "uniqueName": "jbrl",
+        "letter": "م",
+        "quranReadingTypes": [
+            {
+                "id": 1,
+                "name": "حفص عن عاصم - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "محمد عبدالكريم",
+        "uniqueName": "m_krm",
+        "letter": "م",
+        "quranReadingTypes": [
+            {
+                "id": 1,
+                "name": "حفص عن عاصم - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            },
+            {
+                "id": 2,
+                "name": "ورش عن نافع من طريق أبي بكر الأصبهاني - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "محمد عبدالحكيم سعيد",
+        "uniqueName": "mksaid",
+        "letter": "م",
+        "quranReadingTypes": [
+            {
+                "id": 1,
+                "name": "الدوري عن الكسائي - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            },
+            {
+                "id": 2,
+                "name": "البزي وقنبل عن ابن كثير - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "محمود خليل الحصري",
+        "uniqueName": "husry",
+        "letter": "م",
+        "quranReadingTypes": [
+            {
+                "id": 1,
+                "name": "حفص عن عاصم - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            },
+           {
+                "id": 2,
+                "name": "قالون عن نافع - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            },
+            {
+                "id": 3,
+                "name": "الدوري عن أبي عمرو - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            },
+            {
+                "id": 4,
+                "name": "ورش عن نافع - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            },
+            {
+                "id": 5,
+                "name": "المصحف المجود - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "إدريس أبكر",
+        "uniqueName": " idris",
+        "letter": "أ",
+        "quranReadingTypes": [
+            {
+                "id": 1,
+                "name": "حفص عن عاصم - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "محمود علي البنا",
+        "uniqueName": "banna",
+        "letter": "م",
+        "quranReadingTypes": [
+            {
+                "id": 1,
+                "name": "حفص عن عاصم - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            },
+            {
+                "id": 1,
+                "name": "المصحف المجود - مرتل",
+                "uniqueName": "haffs",
+                "url": "https://www.quran.com/-/media/reciters/5/haffs.mp3"
+            }
+        ]
+    }
+]

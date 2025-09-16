@@ -1,0 +1,179 @@
+[
+    {
+        "id": 1,
+        "surah": "سورة الفاتحة",
+        "url": "https://server11.mp3quran.net/a_jbr/001.mp3"
+    },
+    {
+        "id": 2,
+        "surah": "سورة البقرة",
+        "url": "https://server11.mp3quran.net/a_jbr/002.mp3"
+    },
+    {
+        "id": 3,
+        "surah": "سورة آل عمران",
+        "url": "https://server11.mp3quran.net/a_jbr/003.mp3"
+    },
+    {
+        "id": 4,
+        "surah": "سورة النساء",
+        "url": "https://server11.mp3quran.net/a_jbr/004.mp3"
+    },
+    {
+        "id": 5,
+        "surah": "سورة المائدة",
+        "url": "https://server11.mp3quran.net/a_jbr/005.mp3"
+    },
+    {
+        "id": 6,
+        "surah": "سورة الأنعام",
+        "url": "https://server11.mp3quran.net/a_jbr/006.mp3"
+    },
+    {
+        "id": 7,
+        "surah": "سورة الأعراف",
+        "url": "https://server11.mp3quran.net/a_jbr/007.mp3"
+    },
+    {
+        "id": 8,
+        "surah": "سورة الأنفال",
+        "url": "https://server11.mp3quran.net/a_jbr/008.mp3"
+    },
+    {
+        "id": 9,
+        "surah": "سورة التوبة",
+        "url": "https://server11.mp3quran.net/a_jbr/009.mp3"
+    },
+    {
+        "id": 10,
+        "surah": "سورة يونس",
+        "url": "https://server11.mp3quran.net/a_jbr/010.mp3"
+    },
+    {
+        "id": 11,
+        "surah": "سورة هود",
+        "url": "https://server11.mp3quran.net/a_jbr/011.mp3"
+    },
+    {
+        "id": 12,
+        "surah": "سورة يوسف",
+        "url": "https://server11.mp3quran.net/a_jbr/012.mp3"
+    },
+    {
+        "id": 13,
+        "surah": "سورة الرعد",
+        "url": "https://server11.mp3quran.net/a_jbr/013.mp3"
+    },
+    {
+        "id": 14,
+        "surah": "سورة إبراهيم",
+        "url": "https://server11.mp3quran.net/a_jbr/014.mp3"
+    },
+    {
+        "id": 15,
+        "surah": "سورة الحجر",
+        "url": "https://server11.mp3quran.net/a_jbr/015.mp3"
+    },
+    {
+        "id": 16,
+        "surah": "سورة النحل",
+        "url": "https://server11.mp3quran.net/a_jbr/016.mp3"
+    },
+    {
+        "id": 17,
+        "surah": "سورة الإسراء",
+        "url": "https://server11.mp3quran.net/a_jbr/017.mp3"
+    },
+    {"id": 18,
+        "surah": "سورة الكهف",
+        "url": "https://server11.mp3quran.net/a_jbr/018.mp3"
+    },
+    {"id": 19,
+        "surah": "سورة مريم",
+        "url": "https://server11.mp3quran.net/a_jbr/019.mp3"
+    },
+    {"id": 20,
+        "surah": "سورة طه",
+        "url": "https://server11.mp3quran.net/a_jbr/020.mp3"
+    },
+    {"id": 21,
+        "surah": "سورة الأنبياء",
+        "url": "https://server11.mp3quran.net/a_jbr/021.mp3"
+    },
+    {"id": 22,
+        "surah": "سورة الحج",
+        "url": "https://server11.mp3quran.net/a_jbr/022.mp3"
+    },
+    {"id": 23,
+        "surah": "سورة المؤمنون",
+        "url": "https://server11.mp3quran.net/a_jbr/023.mp3"
+    },
+    {"id": 24,
+        "surah": "سورة النور",
+        "url": "https://server11.mp3quran.net/a_jbr/024.mp3"
+    },
+    {"id": 25,
+        "surah": "سورة الفرقان",
+        "url": "https://server11.mp3quran.net/a_jbr/025.mp3"
+    },
+    {"id": 26,
+        "surah": "سورة الشعراء",
+        "url": "https://server11.mp3quran.net/a_jbr/026.mp3"
+    },
+    {"id": 27,
+        "surah": "سورة النمل",
+        "url": "https://server11.mp3quran.net/a_jbr/027.mp3"
+    },
+    {"id": 28,
+        "surah": "سورة القصص",
+        "url": "https://server11.mp3quran.net/a_jbr/028.mp3"
+    },
+    {"id": 29,
+        "surah": "سورة العنكبوت",
+        "url": "https://server11.mp3quran.net/a_jbr/029.mp3"
+    },
+    {"id": 30,
+        "surah": "سورة الروم",
+        "url": "https://server11.mp3quran.net/a_jbr/030.mp3"
+    },
+    {"id": 31,
+        "surah": "سورة لقمان",
+        "url": "https://server11.mp3quran.net/a_jbr/031.mp3"
+    },
+    {"id": 32,
+        "surah": "سورة السجدة",
+        "url": "https://server11.mp3quran.net/a_jbr/032.mp3"
+    },
+    {"id": 33,
+        "surah": "سورة الأحزاب",
+        "url": "https://server11.mp3quran.net/a_jbr/033.mp3"
+    },
+    {"id": 34,
+        "surah": "سورة سبأ",
+        "url": "https://server11.mp3quran.net/a_jbr/034.mp3"
+    },
+    {"id": 35,
+        "surah": "سورة فاطر",
+        "url": "https://server11.mp3quran.net/a_jbr/035.mp3"
+    },
+    {"id": 36,
+        "surah": "سورة يس",
+        "url": "https://server11.mp3quran.net/a_jbr/036.mp3"
+    },
+    {"id": 37,
+        "surah": "سورة الصافات",
+        "url": "https://server11.mp3quran.net/a_jbr/037.mp3"
+    },
+    {"id": 38,
+        "surah": "سورة ص",
+        "url": "https://server11.mp3quran.net/a_jbr/038.mp3"
+    },
+    {"id": 39,
+        "surah": "سورة الزمر",
+        "url": "https://server11.mp3quran.net/a_jbr/039.mp3"
+    },
+    {"id": 40,
+        "surah": "سورة غافر",
+        "url": "https://server11.mp3quran.net/a_jbr/040.mp3"
+    }
+]

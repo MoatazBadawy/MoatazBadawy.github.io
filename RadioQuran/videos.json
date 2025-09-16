@@ -1,0 +1,172 @@
+{
+    "topCategories": {
+        "title": "فئات الفيديوهات",
+        "categories": [
+            {
+                "title": "الحرم المكي",
+                "url": "https://radioquran.com/live",
+                "icon": "https://yt3.googleusercontent.com/ytc/AIdro_mesiGG76gww2WnpFVUFbMz-s2d4IjJJVhDqJuCVscqKLY=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+                "title": "محمد أيوب",
+                "url": "https://radioquran.com/ali-jaber",
+                "icon": "https://i.scdn.co/image/ab676161000051745750585d1cab273ad0a9dfa7"
+            },
+            {
+                "title": "علي جابر",
+                "url": "https://radioquran.com/most-famous",
+                "icon": "https://i.pinimg.com/564x/43/57/d3/4357d32cc152d4e3b8f8c37fd525b806.jpg"
+            },
+            {
+                "title": "الحرم المدني",
+                "url": "https://radioquran.com/new-tajweed",
+                "icon": "https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png"
+            },
+            {
+                "title": "ياسر الدوسري",
+                "url": "https://radioquran.com/new-tajweed",
+                "icon": "https://i.scdn.co/image/ab6761610000e5eb6a6628f0fcfd0b1b01bbf912"
+            },
+            {
+                "title": "المسجد الأقصى",
+                "url": "https://radioquran.com/new-tajweed",
+                "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Jerusalem-2013%282%29-Aerial-Temple_Mount-%28south_exposure%29.jpg/330px-Jerusalem-2013%282%29-Aerial-Temple_Mount-%28south_exposure%29.jpg"
+            },
+            {
+                "title": "علي البنا",
+                "url": "https://radioquran.com/new-tajweed",
+                "icon": "https://yt3.googleusercontent.com/ytc/AIdro_lJbD8eIPbK3vcodTUENNpNdYLzm5eBHm2dOfiiBw5MrxY=s900-c-k-c0x00ffffff-no-rj"
+            }
+        ]
+    },
+
+    "topVideosOne": {
+        "title": "تراويح الحرم المكي",
+        "videos": [
+            {
+                "title": "تلاوة الشيخ عبد الرحمن السديس",
+                "videoId": "abdulrahman-al-sudais",
+                "thumbnail": "https://radioquran.com/assets/images/abdulrah",
+                "time": "26:48",
+                "channel": "عبد الرحمن السديس",
+                "channelImage": "https://radioquran.com/abdulrahman-al-sudais"
+            },
+            {
+                "title": "تلاوة الشيخ سعود الشريم",
+                "videoId": "saud-al-shuraim",
+                "thumbnail": "https://radioquran.com/assets/images/saud-al-shuraim.png",
+                "time": "30:15",
+                "channel": "سعود الشريم",
+                "channelImage": "https://radioquran.com/saud-al-shuraim"
+            },
+            {
+                "title": "تلاوة الشيخ ماهر المعيقلي",
+                "videoId": "maher-al-moaikly",
+                "thumbnail": "https://radioquran.com/assets/images/maher-al-moaikly.png",
+                "time": "28:30",
+                "channel": "ماهر المعيقلي",
+                "channelImage": "https://radioquran.com/maher-al-moaikly"
+            },
+            {
+                "title": "تلاوة الشيخ ياسر الدوسري",
+                "videoId": "yasser-al-dosari",
+                "thumbnail": "https://radioquran.com/assets/images/yasser-al-dosari.png",
+                "time": "29:45",
+                "channel": "ياسر الدوسري",
+                "channelImage": "https://radioquran.com/yasser-al-dosari"
+            },
+            {
+                "title": "تلاوة الشيخ بندر بليلة",
+                "videoId": "bandar-balayla",
+                "thumbnail": "https://radioquran.com/assets/images/bandar-balayla.png",
+                "time": "27:20",
+                "channel": "بندر بليلة",
+                "channelImage": "https://radioquran.com/bandar-balayla"
+            }
+        ]
+    },
+
+    "topVideosTwo": {
+        "title": "تلاوات مشهورة",
+        "videos": [
+            {
+                "title": "تلاوة الشيخ مشاري العفاسي",
+                "videoId": "mishary-alafasy",
+                "thumbnail": "https://radioquran.com/assets/images/mishary-alafasy.png",
+                "time": "31:20",
+                "channel": "مشاري العفاسي",
+                "channelImage": "https://radioquran.com/mishary-alafasy"
+            },
+            {
+                "title": "تلاوة الشيخ محمد جبريل",
+                "videoId": "mohamed-gibril",
+                "thumbnail": "https://radioquran.com/assets/images/mohamed-gibril.png",
+                "time": "29:10",
+                "channel": "محمد جبريل",
+                "channelImage": "https://radioquran.com/mohamed-gibril"
+            },
+            {
+                "title": "تلاوة الشيخ علي جابر",
+                "videoId": "ali-jaber",
+                "thumbnail": "https://radioquran.com/assets/images/ali-jaber.png",
+                "time": "30:05",
+                "channel": "علي جابر",
+                "channelImage": "https://radioquran.com/ali-jaber"
+            },
+            {
+                "title": "تلاوة الشيخ عبد الباسط عبد الصمد",
+                "videoId": "abdulbasit-abdussamad",
+                "thumbnail": "https://radioquran.com/assets/images/abdulbasit-abdussamad.png",
+                "time": "32:15",
+                "channel": "عبد الباسط عبد الصمد",
+                "channelImage": "https://radioquran.com/abdulbasit-abdussamad"
+            },
+            {
+                "title": "تلاوة الشيخ سعد الغامدي",
+                "videoId": "saad-alghamdi",
+                "thumbnail": "https://radioquran.com/assets/images/saad-alghamdi.png",
+                "time": "28:50",
+                "channel": "سعد الغامدي",
+                "channelImage": "https://radioquran.com/saad-alghamdi"
+            }
+        ]
+    },
+
+    "latestVideos": {
+        "title": "أحدث التلاوات",
+        "videos": [
+            {
+                "title": "تلاوة الشيخ عبد الرحمن السديس",
+                "videoId": "abdulrahman-al-sudais-latest",
+                "thumbnail": "https://radioquran.com/assets/images/abdulrahman-al-sudais-latest.png",
+                "time": "27:30",
+                "channel": "عبد الرحمن السديس",
+                "channelImage": "https://radioquran.com/abdulrahman-al-sudais"
+            },
+            {
+                "title": "تلاوة الشيخ سعود الشريم",
+                "videoId": "saud-al-shuraim-latest",
+                "thumbnail": "https://radioquran.com/assets/images/saud-al-shuraim-latest.png",
+                "time": "29:00",
+                "channel": "سعود الشريم",
+                "channelImage": "https://radioquran.com/saud-al-shuraim"
+            },
+            {
+                "title": "تلاوة الشيخ ماهر المعيقلي",
+                "videoId": "maher-al-moaikly-latest",
+                "thumbnail": "https://radioquran.com/assets/images/maher-al-moaikly-latest.png",
+                "time": "30:10",
+                "channel": "ماهر المعيقلي",
+                "channelImage": "https://radioquran.com/maher-al-moaikly"
+            },
+            {
+                "title": "تلاوة الشيخ ياسر الدوسري",
+                "videoId": "yasser-al-dosari-latest",
+                "thumbnail": "https://radioquran.com/assets/images/yasser-al-dosari-latest.png",
+                "time": "28:45",
+                "channel": "ياسر الدوسري",
+                "channelImage": "https://radioquran.com/yasser-al-dosari"
+            }
+        ]
+    }
+}
