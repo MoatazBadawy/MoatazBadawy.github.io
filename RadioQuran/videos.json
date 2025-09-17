@@ -3,11 +3,6 @@
         "title": "فئات الفيديوهات",
         "categories": [
             {
-                "title": "الحرم المكي",
-                "url": "https://radioquran.com/live",
-                "icon": "https://yt3.googleusercontent.com/ytc/AIdro_mesiGG76gww2WnpFVUFbMz-s2d4IjJJVhDqJuCVscqKLY=s900-c-k-c0x00ffffff-no-rj"
-            },
-            {
                 "title": "محمد أيوب",
                 "url": "https://radioquran.com/ali-jaber",
                 "icon": "https://i.scdn.co/image/ab676161000051745750585d1cab273ad0a9dfa7"
@@ -15,12 +10,7 @@
             {
                 "title": "علي جابر",
                 "url": "https://radioquran.com/most-famous",
-                "icon": "https://i.pinimg.com/564x/43/57/d3/4357d32cc152d4e3b8f8c37fd525b806.jpg"
-            },
-            {
-                "title": "الحرم المدني",
-                "url": "https://radioquran.com/new-tajweed",
-                "icon": "https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png"
+                "icon": "https://www.okaz.com.sa/uploads/images/2020/12/19/1715153.jpg"
             },
             {
                 "title": "ياسر الدوسري",
@@ -28,14 +18,29 @@
                 "icon": "https://i.scdn.co/image/ab6761610000e5eb6a6628f0fcfd0b1b01bbf912"
             },
             {
-                "title": "المسجد الأقصى",
-                "url": "https://radioquran.com/new-tajweed",
-                "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Jerusalem-2013%282%29-Aerial-Temple_Mount-%28south_exposure%29.jpg/330px-Jerusalem-2013%282%29-Aerial-Temple_Mount-%28south_exposure%29.jpg"
-            },
-            {
                 "title": "علي البنا",
                 "url": "https://radioquran.com/new-tajweed",
                 "icon": "https://yt3.googleusercontent.com/ytc/AIdro_lJbD8eIPbK3vcodTUENNpNdYLzm5eBHm2dOfiiBw5MrxY=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+                "title": "ماهر المعيقلي",
+                "url": "https://radioquran.com/new-tajweed",
+                "icon": "https://i1.sndcdn.com/artworks-o3FrZPcyRbtiB6k2-Wy1oQw-t500x500.jpg"
+            },
+            {
+                "title": "عبدالباسط",
+                "url": "https://radioquran.com/new-tajweed",
+                "icon": "https://rosaelyoussef.com/UserFiles/News/2024/11/30/1248313.jpg?241130112327"
+            },
+            {
+                "title": "محمد جبريل",
+                "url": "https://radioquran.com/new-tajweed",
+                "icon": "https://quran-uni.com/wp-content/uploads/Mohammed-Jebreil.jpg"
+            },
+            {
+                "title": "محمود الحصري",
+                "url": "https://radioquran.com/new-tajweed",
+                "icon": "https://newsroom.info/UploadCache/libfiles/23/6/800x450o/600.webp"
             }
         ]
     },
