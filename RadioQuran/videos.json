@@ -3,9 +3,9 @@
         "title": "فئات الفيديوهات",
         "categories": [
             {
-                "title": "أحمد طالب",
-                "url": "https://radioquran.com/mishary-alafasy",
-                "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHkJRu6SPa_gS85qnZdcon3jCOMKP5_D1lztmj9rDl72m_h2CjvzyfyCPt_gK3FRS3HOI&usqp=CAU"
+                "title": "محمد رشاد",
+                "url": "https://radioquran.com/abdulrahman-al-sudais",
+                "icon": "https://upload.wikimedia.org/wikipedia/ar/7/7d/%D9%85%D8%AD%D9%85%D8%AF_%D8%B1%D8%B4%D8%A7%D8%AF_%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81.jpg"
             },
             {
                 "title": "محمد أيوب",
@@ -16,6 +16,11 @@
                 "title": "علي جابر",
                 "url": "https://radioquran.com/most-famous",
                 "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQknW-ckhdvU9Zj5xN4ib9VUMDmXXClWx9DsA&s"
+            },
+            {
+                "title": "أحمد طالب",
+                "url": "https://radioquran.com/mishary-alafasy",
+                "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHkJRu6SPa_gS85qnZdcon3jCOMKP5_D1lztmj9rDl72m_h2CjvzyfyCPt_gK3FRS3HOI&usqp=CAU"
             },
             {
                 "title": "ياسر دوسري",
