@@ -145,7 +145,7 @@
             {
                 "title": "تلاوة الشيخ عبد الرحمن السديس",
                 "videoId": "abdulrahman-al-sudais-latest",
-                "thumbnail": "https://radioquran.com/assets/images/abdulrahman-al-sudais-latest.png",
+                "thumbnail": "https://i.ytimg.com/vi/XUvIQQEiOJg/hqdefault.jpg",
                 "time": "27:30",
                 "channel": "عبد الرحمن السديس",
                 "channelImage": "https://radioquran.com/abdulrahman-al-sudais"
@@ -153,7 +153,7 @@
             {
                 "title": "تلاوة الشيخ سعود الشريم",
                 "videoId": "saud-al-shuraim-latest",
-                "thumbnail": "https://radioquran.com/assets/images/saud-al-shuraim-latest.png",
+                "thumbnail": "https://i.ytimg.com/vi/XUvIQQEiOJg/hqdefault.jpg",
                 "time": "29:00",
                 "channel": "سعود الشريم",
                 "channelImage": "https://radioquran.com/saud-al-shuraim"
@@ -161,7 +161,7 @@
             {
                 "title": "تلاوة الشيخ ماهر المعيقلي",
                 "videoId": "maher-al-moaikly-latest",
-                "thumbnail": "https://radioquran.com/assets/images/maher-al-moaikly-latest.png",
+                "thumbnail": "https://i.ytimg.com/vi/XUvIQQEiOJg/hqdefault.jpg",
                 "time": "30:10",
                 "channel": "ماهر المعيقلي",
                 "channelImage": "https://radioquran.com/maher-al-moaikly"
@@ -169,10 +169,58 @@
             {
                 "title": "تلاوة الشيخ ياسر الدوسري",
                 "videoId": "yasser-al-dosari-latest",
-                "thumbnail": "https://radioquran.com/assets/images/yasser-al-dosari-latest.png",
+                "thumbnail": "https://i.ytimg.com/vi/XUvIQQEiOJg/hqdefault.jpg",
                 "time": "28:45",
                 "channel": "ياسر الدوسري",
                 "channelImage": "https://radioquran.com/yasser-al-dosari"
+            },
+            {
+                "title": "تلاوة الشيخ بندر بليلة",
+                "videoId": "bandar-balayla-latest",
+                "thumbnail": "https://i.ytimg.com/vi/XUvIQQEiOJg/hqdefault.jpg",
+                "time": "27:50",
+                "channel": "بندر بليلة",
+                "channelImage": "https://radioquran.com/bandar-balayla"
+            },
+            {
+                "title": "تلاوة الشيخ مشاري العفاسي",
+                "videoId": "mishary-alafasy-latest",
+                "thumbnail": "https://i.ytimg.com/vi/XUvIQQEiOJg/hqdefault.jpg",
+                "time": "31:15",
+                "channel": "مشاري العفاسي",
+                "channelImage": "https://radioquran.com/mishary-alafasy"
+            },
+            {
+                "title": "تلاوة الشيخ محمد جبريل",
+                "videoId": "mohamed-gibril-latest",
+                "thumbnail": "https://i.ytimg.com/vi/XUvIQQEiOJg/hqdefault.jpg",
+                "time": "29:25",
+                "channel": "محمد جبريل",
+                "channelImage": "https://radioquran.com/mohamed-gibril"
+            },
+            {
+                "title": "تلاوة الشيخ علي جابر",
+                "videoId": "ali-jaber-latest",
+                "thumbnail": "https://i.ytimg.com/vi/XUvIQQEiOJg/hqdefault.jpg",
+                "time": "30:00",
+                "channel": "علي جابر",
+                "channelImage": "https://radioquran.com/ali-jaber"
+            },
+            {
+                "title": "تلاوة الشيخ عبد الباسط عبد الصمد",
+                "videoId": "abdulbasit-abdussamad-latest",
+                "thumbnail": "https://i.ytimg.com/vi/XUvIQQEiOJg/hqdefault.jpg",
+                "time": "32:10",
+                "channel": "عبد الباسط عبد الصمد",
+                "channelImage": "https://radioquran.com/abdulbasit-abdussamad"
+            },
+            {
+                "title": "تلاوة الشيخ سعد الغامدي",
+                "videoId": "saad-alghamdi-latest",
+                "thumbnail": "https://i.ytimg.com/vi/XUvIQQEiOJg/hqdefault.jpg",
+                "time": "28:55",
+                "channel": "سعد الغامدي",
+                "channelImage": "https://radioquran.com/saad-alghamdi"
             }
         ]
     }
