@@ -14,7 +14,8 @@
         "videoId": "lViOV9AAHGk",
         "thumbnail": "https://i.ytimg.com/vi/lViOV9AAHGk/hqdefault.jpg",
         "time": "18:12",
-        "views": "126 ألف مشاهدة"
+        "views": "126 ألف مشاهدة",
+        "type": "top"
     },
     {
         "id": 3,
@@ -22,7 +23,8 @@
         "videoId": "Y7o-T0T4bK0",
         "thumbnail": "https://i.ytimg.com/vi/Y7o-T0T4bK0/hqdefault.jpg",
         "time": "30:19",
-        "views": "180 ألف مشاهدة"
+        "views": "180 ألف مشاهدة",
+        "type": "top"
     },
     {
         "id": 4,
@@ -30,7 +32,8 @@
         "videoId": "HkRRnH1vRGY",
         "thumbnail": "https://i.ytimg.com/vi/HkRRnH1vRGY/hqdefault.jpg",
         "time": "55:53",
-        "views": "2.6 مليون مشاهدة"
+        "views": "2.6 مليون مشاهدة",
+        "type": "top"
     },
     {
         "id": 5,
@@ -38,7 +41,8 @@
         "videoId": "TiOHnJmvI8k",
         "thumbnail": "https://i.ytimg.com/vi/TiOHnJmvI8k/hqdefault.jpg",
         "time": "19:51",
-        "views": "158 ألف مشاهدة"
+        "views": "158 ألف مشاهدة",
+        "type": "top"
     },
     {
         "id": 6,
@@ -46,7 +50,8 @@
         "videoId": "boGsxgJ1KD0",
         "thumbnail": "https://i.ytimg.com/vi/boGsxgJ1KD0/hqdefault.jpg",
         "time": "10:24",
-        "views": "250 ألف مشاهدة"
+        "views": "250 ألف مشاهدة",
+        "type": "top"
     },
     {
         "id": 7,
@@ -54,7 +59,8 @@
         "videoId": "1hLkxJGYR8w",
         "thumbnail": "https://i.ytimg.com/vi/1hLkxJGYR8w/hqdefault.jpg",
         "time": "37:44",
-        "views": "2 مليون مشاهدة"
+        "views": "2 مليون مشاهدة",
+        "type": "top"
     },
     {
         "id": 8,
@@ -62,7 +68,8 @@
         "videoId": "zxhj5mTLQLE",
         "thumbnail": "https://i.ytimg.com/vi/zxhj5mTLQLE/hqdefault.jpg",
         "time": "17:58",
-        "views": "10 آلاف مشاهدة"
+        "views": "10 آلاف مشاهدة",
+        "type": "top"
     },
     {
         "id": 9,
@@ -70,7 +77,8 @@
         "videoId": "4_Etj1EOEyU",
         "thumbnail": "https://i.ytimg.com/vi/4_Etj1EOEyU/hqdefault.jpg",
         "time": "1:36:03",
-        "views": "1.2 مليون مشاهدة"
+        "views": "1.2 مليون مشاهدة",
+        "type": "top"
     },
     {
         "id": 10,
@@ -78,6 +86,7 @@
         "videoId": "L6gk2iueS9o",
         "thumbnail": "https://i.ytimg.com/vi/L6gk2iueS9o/hqdefault.jpg",
         "time": "47:30",
-        "views": "251 ألف مشاهدة"
+        "views": "251 ألف مشاهدة",
+        "type": "top"
     }
 ]
