@@ -15,7 +15,7 @@
         "id": 2,
         "name": "إذاعة القرآن\nمن نابلس",
         "uniqueName": "nabils",
-        "url": "https://quran-radio.org:8440/;?type=http&nocache=29",
+        "url": "https://quran-radio.org:80/;?type=http&nocache=29",
         "image": "https://i1.sndcdn.com/avatars-000293113132-w8ry1w-t240x240.jpg",
         "description": "96.9FM",
         "category": "international_radios",
