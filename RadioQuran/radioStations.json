@@ -73,9 +73,9 @@
     },
     {
         "id": 6,
-        "name": "إذاعة القرآن\nمن المغرب",
+        "name": "إذاعة القرآن\nمن الأردن",
         "uniqueName": "morrocon",
-        "url": "http://cdn.live.easybroadcast.io/live/radio_med_VI/playlist.m3u8?token=lueU5-jGflmND20VAUT8Q5DPFsc1SbKIGegAm0S4CSs&token_path=%2Flive%2Fradio_med_VI&expires=1760841006",
+        "url": "https://jrtv-live.ercdn.net/jrradio/quranradiovideo.m3u8?st=F0Xa3t2AtQLj8ug7FFNl6Q&e=1760862831&P=Browser&C=Chrome&D=Desktop&CT=%D8%A7%D8%B0%D8%A7%D8%B9%D8%A9%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85&CTY=Radio",
         "image": "https://al-sharq.com/get/image/20170730_1501376481-133316-205x172.jpg?t=1501376481",
         "description": "93.1FM",
         "category": "international_radios",
