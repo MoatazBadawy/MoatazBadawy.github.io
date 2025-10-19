@@ -73,9 +73,9 @@
     },
     {
         "id": 6,
-        "name": "إذاعة القرآن\nمن الأردن",
+        "name": "إذاعة القرآن\nمن المغرب",
         "uniqueName": "jurdon",
-        "url": "https://jrtv-live.ercdn.net/jrradio/quranradio.m3u8",
+        "url": "https://cdn.live.easybroadcast.io/live/radio_med_VI/playlist.m3u8",
         "image": "https://al-sharq.com/get/image/20170730_1501376481-133316-205x172.jpg?t=1501376481",
         "description": "93.1FM",
         "category": "international_radios",
