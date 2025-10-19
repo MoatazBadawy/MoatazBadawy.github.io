@@ -74,13 +74,13 @@
     {
         "id": 6,
         "name": "إذاعة القرآن\nمن المغرب",
-        "uniqueName": "jurdon",
-        "url": "https://cdn.live.easybroadcast.io/live/radio_med_VI/playlist.m3u8",
+        "uniqueName": "morrocon",
+        "url": "http://cdn.live.easybroadcast.io/live/radio_med_VI/playlist.m3u8?token=lueU5-jGflmND20VAUT8Q5DPFsc1SbKIGegAm0S4CSs&token_path=%2Flive%2Fradio_med_VI&expires=1760841006",
         "image": "https://al-sharq.com/get/image/20170730_1501376481-133316-205x172.jpg?t=1501376481",
         "description": "93.1FM",
         "category": "international_radios",
         "favoriteCategory": "another",
-        "fullDescription": "إذاعة القرآن الكريم من الأردن",
+        "fullDescription": "إذاعة القرآن الكريم من المغرب",
         "audioType": "radio"
     }, 
     {
