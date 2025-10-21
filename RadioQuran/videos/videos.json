@@ -1,61 +1,5 @@
 [
     {
-        "title": "تلاوة من تراويح الحرم المكي من سورتي النمل والقصص الشيخ علي جابر 19-9-1407هـ",
-        "videoId": "PZc4625CvAo",
-        "thumbnail": "https://i.ytimg.com/vi/PZc4625CvAo/hqdefault.jpg",
-        "time": "27:34",
-        "views": "9.5 مليون مشاهدة",
-        "type": "ali-jaber"
-    },
-    {
-        "title": "صلاة التراويح في الحرم المكي ليلة 28-9-1406هـ الشيخ علي جابر Ali Jaber",
-        "videoId": "HkRRnH1vRGY",
-        "thumbnail": "https://i.ytimg.com/vi/HkRRnH1vRGY/hqdefault.jpg",
-        "time": "55:53",
-        "views": "2.6 مليون مشاهدة",
-        "type": "ali-jaber"
-    },
-    {
-        "title": "تلاوة من تراويح الحرم المكي من سورتي النمل والقصص الشيخ علي جابر",
-        "videoId": "PZc4625CvAo",
-        "thumbnail": "https://i.ytimg.com/vi/PZc4625CvAo/hqdefault.jpg",
-        "time": "27:50",
-        "views": "320 ألف مشاهدة",
-        "type": "ali-jaber"
-    },
-    {
-        "title": "جزء الذاريات في تراويح الحرم المكي ليلة 26-9-1408هـ الشيخ علي جابر رحمه الله",
-        "videoId": "rO-J6qI7rck",
-        "thumbnail": "https://i.ytimg.com/vi/rO-J6qI7rck/hqdefault.jpg",
-        "time": "1:32:01",
-        "views": "843 ألف مشاهدة",
-        "type": "ali-jaber"
-    },
-    {
-        "title": "تلاوة عطرة للشيخ علي جابر",
-        "videoId": "aCrr36NKERc",
-        "thumbnail": "https://i.ytimg.com/vi/aCrr36NKERc/hqdefault.jpg",
-        "time": "24:28",
-        "views": "3.9 مليون مشاهدة",
-        "type": "ali-jaber"
-    },
-    {
-        "title": "من أجمل النوادر تراويح الحرم المكي ليلة 22-9-1407هـ الشيخ علي جابر - التلاوة من يس والصافات",
-        "videoId": "1hLkxJGYR8w",
-        "thumbnail": "https://i.ytimg.com/vi/1hLkxJGYR8w/hqdefault.jpg",
-        "time": "37:44",
-        "views": "2 مليون مشاهدة",
-        "type": "ali-jaber"
-    },
-    {
-        "title": "من العنكبوت إلى الأحزاب تراويح ليلة 20-9-1408هـ الشيخ علي جابر Ali Jaber",
-        "videoId": "4_Etj1EOEyU",
-        "thumbnail": "https://i.ytimg.com/vi/4_Etj1EOEyU/hqdefault.jpg",
-        "time": "1:36:03",
-        "views": "1.2 مليون مشاهدة",
-        "type": "ali-jaber"
-    },
-    {
         "title": "محمد رشاد الشريف - سورة الحج - مقرئ المسجد الأقصى",
         "videoId": "HsiNghVjUaw",
         "thumbnail": "https://i.ytimg.com/vi/HsiNghVjUaw/hqdefault.jpg",
@@ -269,7 +213,8 @@
         "thumbnail": "https://i.ytimg.com/vi/PZc4625CvAo/hqdefault.jpg",
         "time": "27:34",
         "views": "9.5 مليون مشاهدة",
-        "type": "latest"
+        "type": "latest",
+        "subType": "ali-jaber"
     },
     {
         "title": "صلاة التهجد 1411 ليلة 27 من سورة الأنعام - محمد أيوب",
@@ -293,7 +238,8 @@
         "thumbnail": "https://i.ytimg.com/vi/HkRRnH1vRGY/hqdefault.jpg",
         "time": "55:53",
         "views": "2.6 مليون مشاهدة",
-        "type": "latest"
+        "type": "latest",
+                "subType": "ali-jaber"
     },
     {
         "title": "اول صلاة تراويح للشيخ محمد ايوب في المسجد النبوي بعد انقطاع 19 سنه",
@@ -341,7 +287,9 @@
         "thumbnail": "https://i.ytimg.com/vi/PZc4625CvAo/hqdefault.jpg",
         "time": "27:50",
         "views": "320 ألف مشاهدة",
-        "type": "latest"
+        "type": "latest",
+                "subType": "ali-jaber"
+
     },
     {
         "title": "﴿مَن كَانَ يُرِيدُ ثَوَابَ الدُّنْيَا﴾ | أجمل فجرية للشيخ أحمد بن طالب! | سورة النساء",
@@ -389,7 +337,8 @@
         "thumbnail": "https://i.ytimg.com/vi/g8yMMoCr4Uw/hqdefault.jpg",
         "time": "28:16",
         "views": "2 مليون مشاهدة",
-        "type": "latest"
+        "type": "latest",
+        "subType": "ali-jaber"
     },
     {
         "title": "تلاوة خاشعة وهادئة للشيخ المجاهد اسماعيل هنية من سورة ال عمران",
@@ -405,7 +354,8 @@
         "thumbnail": "https://i.ytimg.com/vi/rO-J6qI7rck/hqdefault.jpg",
         "time": "1:32:01",
         "views": "843 ألف مشاهدة",
-        "type": "latest"
+        "type": "latest",
+        "subType": "ali-jaber"
     },
     {
         "title": "هل اتى على الانسان حين من الدهر | اسمع بقلبك | المنشاوي",
@@ -549,7 +499,8 @@
         "thumbnail": "https://i.ytimg.com/vi/aCrr36NKERc/hqdefault.jpg",
         "time": "24:28",
         "views": "3.9 مليون مشاهدة",
-        "type": "latest"
+        "type": "latest",
+        "subType": "ali-jaber"
     },
     {
         "title": "ابداع ليس له حدود الشيخ محمود علي البنا - سورة النور",
@@ -557,7 +508,8 @@
         "thumbnail": "https://i.ytimg.com/vi/OVQPFraLVo0/hqdefault.jpg",
         "time": "24:36",
         "views": "430 ألف مشاهدة",
-        "type": "latest"
+        "type": "latest",
+        "subType": "ali-jaber"
     },
     {
         "title": "من أجمل النوادر تراويح الحرم المكي ليلة 22-9-1407هـ الشيخ علي جابر - التلاوة من يس والصافات",
@@ -565,7 +517,8 @@
         "thumbnail": "https://i.ytimg.com/vi/1hLkxJGYR8w/hqdefault.jpg",
         "time": "37:44",
         "views": "2 مليون مشاهدة",
-        "type": "latest"
+        "type": "latest",
+        "subType": "ali-jaber"
     },
     {
         "title": "من العنكبوت إلى الأحزاب تراويح ليلة 20-9-1408هـ الشيخ علي جابر Ali Jaber",
@@ -573,7 +526,8 @@
         "thumbnail": "https://i.ytimg.com/vi/4_Etj1EOEyU/hqdefault.jpg",
         "time": "1:36:03",
         "views": "1.2 مليون مشاهدة",
-        "type": "latest"
+        "type": "latest",
+        "subType": "ali-jaber"
     },
     {
         "title": "أيُّ جمالٍ هذا؟ | تلاوات جميلة للشيخ بدر التركي | فروض السبت 23-8-1446هـ",
