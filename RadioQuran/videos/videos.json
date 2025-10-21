@@ -152,62 +152,6 @@
         "type": "mohamed-rashad"
     },
     {
-        "title": "صلاة التهجد 1411 ليلة 27 من سورة الأنعام - محمد أيوب",
-        "videoId": "lViOV9AAHGk",
-        "thumbnail": "https://i.ytimg.com/vi/lViOV9AAHGk/hqdefault.jpg",
-        "time": "18:12",
-        "views": "126 ألف مشاهدة",
-        "type": "mohamed-ayoub"
-    },
-    {
-        "title": "تلاوة من سورة (الأحزاب) يتلوها الشيخ محمد أيوب يوسف",
-        "videoId": "5RQeZbncyN0",
-        "thumbnail": "https://i.ytimg.com/vi/5RQeZbncyN0/hqdefault.jpg",
-        "time": "6:30",
-        "views": "851 ألف مشاهدة",
-        "type": "mohamed-ayoub"
-    },
-    {
-        "title": "من أجمل وأندر تلاوات الشيخ محمد أيوب رحمه الله في المدينة المنورة",
-        "videoId": "TiOHnJmvI8k",
-        "thumbnail": "https://i.ytimg.com/vi/TiOHnJmvI8k/hqdefault.jpg",
-        "time": "19:51",
-        "views": "158 ألف مشاهدة",
-        "type": "mohamed-ayoub"
-    },
-    {
-        "title": "تلاوة خاشعة الشيخ محمد أيوب -رحمه الله- خلال أداء صلاة التراويح في المسجد النبوي بالمدينة المنورة",
-        "videoId": "zxhj5mTLQLE",
-        "thumbnail": "https://i.ytimg.com/vi/zxhj5mTLQLE/hqdefault.jpg",
-        "time": "17:58",
-        "views": "10 آلاف مشاهدة",
-        "type": "mohamed-ayoub"
-    },
-    {
-        "title": "اول صلاة تراويح للشيخ محمد ايوب في المسجد النبوي بعد انقطاع 19 سنه",
-        "videoId": "L6gk2iueS9o",
-        "thumbnail": "https://i.ytimg.com/vi/L6gk2iueS9o/hqdefault.jpg",
-        "time": "47:30",
-        "views": "251 ألف مشاهدة",
-        "type": "mohamed-ayoub"
-    },
-    {
-        "title": "تلاوة نادرة للشيخ محمد ايوب رحمه الله - سورة طه كاملة 1414هـ",
-        "videoId": "K8w3XN-g4LM",
-        "thumbnail": "https://i.ytimg.com/vi/IhFSOLY0Oxw/hqdefault.jpg",
-        "time": "21:06",
-        "views": "1.7 مليون مشاهدة",
-        "type": "mohamed-ayoub"
-    },
-    {
-        "title": "قُلْ أَغَيْرَ ٱللَّهِ أَتَّخِذُ وَلِيًّا فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ| سورة الأنعام | محمد ايوب",
-        "videoId": "FtfEsD1RbLg",
-        "thumbnail": "https://i.ytimg.com/vi/FtfEsD1RbLg/hqdefault.jpg",
-        "time": "23:34",
-        "views": "550 ألف مشاهدة",
-        "type": "mohamed-ayoub"
-    },
-    {
         "title": "تلاوة من تراويح الحرم المكي من سورتي النمل والقصص الشيخ علي جابر 19-9-1407هـ",
         "videoId": "PZc4625CvAo",
         "thumbnail": "https://i.ytimg.com/vi/PZc4625CvAo/hqdefault.jpg",
@@ -222,7 +166,8 @@
         "thumbnail": "https://i.ytimg.com/vi/lViOV9AAHGk/hqdefault.jpg",
         "time": "18:12",
         "views": "126 ألف مشاهدة",
-        "type": "latest"
+        "type": "latest",
+        "subType": "mohamed-ayoub"
     },
     {
         "title": "أول إمامة للشيخ الدكتور صلاح باعثمان بالحرم المكي ( تلاوة متواصلة ) 7 ـ 9 ـ 1437هـ",
@@ -247,7 +192,8 @@
         "thumbnail": "https://i.ytimg.com/vi/L6gk2iueS9o/hqdefault.jpg",
         "time": "47:30",
         "views": "251 ألف مشاهدة",
-        "type": "latest"
+        "type": "latest",
+        "subType": "mohamed-ayoub"
     },
     {
         "title": "تلاوة نادرة للشيخ محمد ايوب رحمه الله - سورة طه كاملة 1414هـ",
@@ -255,7 +201,8 @@
         "thumbnail": "https://i.ytimg.com/vi/IhFSOLY0Oxw/hqdefault.jpg",
         "time": "21:06",
         "views": "1.7 مليون مشاهدة",
-        "type": "latest"
+        "type": "latest",
+        "subType": "mohamed-ayoub"
     },
     {
         "title": "الشيخ محمد رفعت - تلاوة تريح القلب لسورة الرحمن",
@@ -279,7 +226,8 @@
         "thumbnail": "https://i.ytimg.com/vi/FtfEsD1RbLg/hqdefault.jpg",
         "time": "23:34",
         "views": "550 ألف مشاهدة",
-        "type": "latest"
+        "type": "latest",
+        "subType": "mohamed-ayoub"
     },
     {
         "title": "تلاوة من تراويح الحرم المكي من سورتي النمل والقصص الشيخ علي جابر",
@@ -337,8 +285,7 @@
         "thumbnail": "https://i.ytimg.com/vi/g8yMMoCr4Uw/hqdefault.jpg",
         "time": "28:16",
         "views": "2 مليون مشاهدة",
-        "type": "latest",
-        "subType": "ali-jaber"
+        "type": "latest"
     },
     {
         "title": "تلاوة خاشعة وهادئة للشيخ المجاهد اسماعيل هنية من سورة ال عمران",
@@ -387,7 +334,8 @@
         "thumbnail": "https://i.ytimg.com/vi/5RQeZbncyN0/hqdefault.jpg",
         "time": "6:30",
         "views": "851 ألف مشاهدة",
-        "type": "latest"
+        "type": "latest",
+        "subType": "mohamed-ayoub"
     },
     {
         "title": "تلاوة مميزة تفوق الوصف لا توصف بصوت عذب للشيخ عبدالله الموسى 1446 ه",
@@ -475,7 +423,8 @@
         "thumbnail": "https://i.ytimg.com/vi/TiOHnJmvI8k/hqdefault.jpg",
         "time": "19:51",
         "views": "158 ألف مشاهدة",
-        "type": "latest"
+        "type": "latest",
+        "subType": "mohamed-ayoub"
     },
     {
         "title": "من أروع التلاوات الهادئة للشيخ أحمد بن طالب بن حميد بطبقة أيوبية بحتة | سورة المائدة ( 27-47)",
@@ -483,7 +432,8 @@
         "thumbnail": "https://i.ytimg.com/vi/boGsxgJ1KD0/hqdefault.jpg",
         "time": "10:24",
         "views": "250 ألف مشاهدة",
-        "type": "latest"
+        "type": "latest",
+        "subType": "mohamed-ayoub"
     },
     {
         "title": "من أروع الليالي الرمضانية التي أبدع فيها الشيخ بندر بليلة بأداء أبهر السامعين | عام 1441 ه",
@@ -508,8 +458,7 @@
         "thumbnail": "https://i.ytimg.com/vi/OVQPFraLVo0/hqdefault.jpg",
         "time": "24:36",
         "views": "430 ألف مشاهدة",
-        "type": "latest",
-        "subType": "ali-jaber"
+        "type": "latest"
     },
     {
         "title": "من أجمل النوادر تراويح الحرم المكي ليلة 22-9-1407هـ الشيخ علي جابر - التلاوة من يس والصافات",
@@ -551,7 +500,8 @@
         "thumbnail": "https://i.ytimg.com/vi/zxhj5mTLQLE/hqdefault.jpg",
         "time": "17:58",
         "views": "10 آلاف مشاهدة",
-        "type": "latest"
+        "type": "latest",
+        "subType": "mohamed-ayoub"
     },
     {
         "title": "الشيخ كامل يوسف البهتيمي { وَمَا تِلْكَ بِيَمِينِكَ يَا مُوسَىٰ }",
