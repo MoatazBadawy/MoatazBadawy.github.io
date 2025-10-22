@@ -202,7 +202,8 @@
         "thumbnail": "https://i.ytimg.com/vi/0YIcB67Wfi0/hqdefault.jpg",
         "time": "29:05",
         "views": "1.2 مليون مشاهدة",
-        "type": "latest"
+        "type": "latest",
+        "subType": "mohamed-reffat"
     },
     {
         "title": "آخر صلاة جمعة يصليها الشيخ محمد رشاد الشريف في المسجد الأقصى المبارك",
@@ -238,7 +239,8 @@
         "thumbnail": "https://i.ytimg.com/vi/uXc8OnwuBoc/hqdefault.jpg",
         "time": "7:38",
         "views": "124 ألف مشاهدة",
-        "type": "latest"
+        "type": "latest",
+        "subType": "ahmed-taleb"
     },
     {
         "title": "من أروع ما قرأ الشيخ عبد الباري الثبيتي عام 1413 هـ تلاوة من سورة الأعراف",
@@ -400,7 +402,8 @@
         "thumbnail": "https://i.ytimg.com/vi/WVMQC9E2j8A/hqdefault.jpg",
         "time": "16:25",
         "views": "12 مليون مشاهدة",
-        "type": "latest"
+        "type": "latest",
+        "subType": "yasser-dosari"
     },
     {
         "title": "صوت عجيب لم يدخل الإذاعه - الدكتور أحمد عبدالسلام هيبه",
@@ -426,7 +429,7 @@
         "time": "10:24",
         "views": "250 ألف مشاهدة",
         "type": "latest",
-        "subType": "mohamed-ayoub"
+        "subType": "ahmed-taleb"
     },
     {
         "title": "من أروع الليالي الرمضانية التي أبدع فيها الشيخ بندر بليلة بأداء أبهر السامعين | عام 1441 ه",
@@ -451,7 +454,8 @@
         "thumbnail": "https://i.ytimg.com/vi/OVQPFraLVo0/hqdefault.jpg",
         "time": "24:36",
         "views": "430 ألف مشاهدة",
-        "type": "latest"
+        "type": "latest",
+        "subType": "mahmoud-albanna"
     },
     {
         "title": "من أجمل النوادر تراويح الحرم المكي ليلة 22-9-1407هـ الشيخ علي جابر - التلاوة من يس والصافات",
@@ -485,7 +489,8 @@
         "thumbnail": "https://i.ytimg.com/vi/yEAmNisPOzk/hqdefault.jpg",
         "time": "15:10",
         "views": "12 مليون مشاهدة",
-        "type": "latest"
+        "type": "latest",
+        "subType": "yasser-dosari"
     },
     {
         "title": "تلاوة خاشعة الشيخ محمد أيوب -رحمه الله- خلال أداء صلاة التراويح في المسجد النبوي بالمدينة المنورة",
