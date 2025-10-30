@@ -100,23 +100,23 @@
         "name": "إذاعة القرآن\nمن الأردن",
         "uniqueName": "jordan",
         "url": "https://jrtv-live.ercdn.net/jrradio/quranradiovideo.m3u8?st=F0Xa3t2AtQLj8ug7FFNl6Q&e=1760862831&P=Browser&C=Chrome&D=Desktop&CT=%D8%A7%D8%B0%D8%A7%D8%B9%D8%A9%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85&CTY=Radio",
-        "image": "https://static.jrtv.gov.jo/resize-width/380/content/j/xT/7/Thumbnail.png?v=637210770926450582",
+        "image": "https://static.jrtv.gov.jo/resize-width/380/content/j/xT/7/Thumbnail.png?v=637210770926450582", 
         "description": "93.1FM",
         "category": "international_radios",
         "favoriteCategory": "another",
         "fullDescription": "إذاعة القرآن الكريم من الأردن",
         "audioType": "radio"
     }, 
-        {
+    {
         "id": 10,
-        "name": "إذاعة القرآن\nمن المغرب",
-        "uniqueName": "morocco",
-        "url": "https://cdn.live.easybroadcast.io/live/radio_med_VI/chunks.m3u8?token=W--sz3AsXRHVGnOB_G4HaOljuW3_AtcSqlyi-UGd1qg&expires=1761809259&token_path=%2Flive%2Fradio_med_VIo",
+        "name": "إذاعة القرآن\nمن موريتانيا",
+        "uniqueName": "moretania",
+        "url": "https://www.radiomauritanie.mr/sites/default/files/logo.png                                     ",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Mgs4jaPCcPxVs8M07w6hSorK_QHnxyJ4rIQ6e1WMkOhex-qVzfBr96UCSKusEv2zpU4&usqp=CAU",
-        "description": "94.20FM",
+        "description": "98.0FM",
         "category": "international_radios",
         "favoriteCategory": "another",
-        "fullDescription": "إذاعة القرآن الكريم من المغرب",
+        "fullDescription": "إذاعة القرآن الكريم من موريتانيا",
         "audioType": "radio"
     }, 
     {
