@@ -313,7 +313,8 @@
         "thumbnail": "https://i.ytimg.com/vi/wsORBRIGPzs/hqdefault.jpg",
         "time": "6:00",
         "views": "218 ألف مشاهدة",
-        "type": "latest"
+        "type": "latest",
+        "subType": "nasser-alqatami"
     },
     {
         "title": "تلاوات إبداعية للشيخ بدر التركي | فروض الخميس 21-8-1446هـ",
@@ -346,7 +347,8 @@
         "thumbnail": "https://i.ytimg.com/vi/7FyCCViqTq4/hqdefault.jpg",
         "time": "35:36",
         "views": "1.1 مليون مشاهدة",
-        "type": "latest"
+        "type": "latest",
+        "subType": "nasser-alqatami"
     },
     {
         "title": "تلاوة مؤثرة يرق لها القلب-الشيخ يونس اسويلص (وَيُنَجِّي اللَّهُ الَّذِينَ اتَّقَوْا بِمَفَازَتِهِمْ)",
@@ -641,6 +643,23 @@
         "views": "19 مليون مشاهدة",
         "type": "latest",
         "subType": "abdulbasit-abdulsamad"
+    },
+    {
+        "title":"تلاوه هادئـه | ناصـر القطامـى",
+        "videoId": "Fck_lDnYJRo",
+        "thumbnail": "https://i.ytimg.com/vi/Fck_lDnYJRo/hqdefault.jpg",
+        "time": "15:04",
+        "views": "1.8 مليون مشاهدة",
+        "type": "latest",
+        "subType": "nasser-alqatami"
+    },
+    {
+        "title":"فلما وضعتها قالت رب إني وضعتها أنثى | ابو العينين شعيشع | مسجد الامام الحسين 1959م",
+        "videoId": "BFwmA8CVgGo",
+        "thumbnail": "https://i.ytimg.com/vi/BFwmA8CVgGo/hqdefault.jpg",
+        "time": "29:21",
+        "views": "1.6 مليون مشاهدة",
+        "type": "latest"
     },
     {
         "title": "تلاوة رائعة للشيخ الشيخ خالد الغامدي … في صلاة الفجر بالمسجد الحرام",
